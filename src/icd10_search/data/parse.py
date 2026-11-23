@@ -158,7 +158,7 @@ def _walk_diag(diag_el: ET.Element, facts: TabularFacts) -> None:
 
     Synonyms live in two different elements and both are needed:
 
-    * ``<inclusionTerm>`` - the usual case, ~6.8k codes.
+    * ``<inclusionTerm>`` - the usual case, ~6.7k codes.
     * ``<includes>`` - used on a handful of high-traffic category codes. I10,
       the single most-used diagnosis code in US healthcare, keeps "high blood
       pressure" here and nowhere else, so skipping this element makes the most

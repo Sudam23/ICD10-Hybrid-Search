@@ -196,9 +196,10 @@ is deliberately *not* used as a search feature — are in
 
 **No approximate-nearest-neighbour index (no FAISS, no vector database).**
 98,186 vectors × 384 dimensions is about 38 million multiply-adds, which NumPy
-does in ~16 ms. An ANN index would add a dependency, a build step and an
-accuracy loss to speed up something that is already fast enough. Exact search
-means the top 10 is genuinely the top 10.
+scores in ~11 ms; the full query, embedding included, is 16 ms. An ANN index
+would add a dependency, a build step and an accuracy loss to speed up something
+that is already fast enough. Exact search means the top 10 is genuinely the
+top 10.
 
 **The vectors are compressed from 32-bit floats to 8-bit integers.**
 That takes the index from 151 MB to 37.7 MB, which is what lets the whole
@@ -210,7 +211,8 @@ lay-language set.
 CMS publishes "inclusion terms" — 46,144 codes carry them. *"high blood
 pressure"* is listed by CMS as a synonym for I10. Finding and parsing those
 (they live in two different XML elements, which cost a real bug) raised synonym
-coverage from 31,416 codes to 46,144.
+coverage from 31,053 codes to 46,144. Re-parsing today's CMS release with the
+`<includes>` element dropped reproduces the lower figure.
 
 ---
 

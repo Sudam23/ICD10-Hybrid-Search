@@ -6,6 +6,9 @@ whose official title does not contain a single word of the query.
 
 **Live demo:** _<add the URL once deployed>_ · **API docs:** `/docs` on the same host
 
+[![CI](https://github.com/Sudam23/icd10-hybrid-search/actions/workflows/ci.yml/badge.svg)](https://github.com/Sudam23/icd10-hybrid-search/actions/workflows/ci.yml)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Sudam23/icd10-hybrid-search)
+
 > **Demonstration project.** Results are retrieval suggestions from public CMS
 > reference data. This is not a coding tool and not medical advice.
 

@@ -107,3 +107,19 @@ def test_code_prefix_query_is_labelled_as_a_prefix_match(client):
     reasons = [r["match_reason"] for r in payload["results"]]
     assert reasons[0] == "exact_code"
     assert "code_prefix" in reasons
+
+
+def test_warm_up_runs_a_query_and_never_raises(toy_service):
+    from icd10_search.api.main import warm_up
+
+    warm_up(toy_service)
+
+
+def test_warm_up_swallows_a_broken_service(caplog):
+    from icd10_search.api.main import warm_up
+
+    class Broken:
+        def search(self, *args, **kwargs):
+            raise RuntimeError("index missing")
+
+    warm_up(Broken())

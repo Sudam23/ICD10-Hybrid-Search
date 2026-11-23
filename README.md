@@ -4,7 +4,14 @@ Search all **98,186 ICD-10-CM 2026 diagnosis codes** by describing a condition i
 plain English. Type *"ringing in the ears"* and get **H93.19 Tinnitus** — a code
 whose official title does not contain a single word of the query.
 
-**Live demo:** _<add the URL once deployed>_ · **API docs:** `/docs` on the same host
+**Live demo:** <https://icd10-hybrid-search.onrender.com> · **API docs:** <https://icd10-hybrid-search.onrender.com/docs>
+
+> The demo runs on a free instance that sleeps after about 15 minutes of
+> inactivity, so the first request after an idle period waits for the container
+> to wake. Queries take roughly a second there against 17 ms on a normal
+> machine: the free instance is CPU-throttled, and embedding plus scoring
+> 98,186 vectors is arithmetic. Keyword-only mode stays sub-millisecond even
+> there, which is a fair illustration of what each arm costs.
 
 [![CI](https://github.com/Sudam23/icd10-hybrid-search/actions/workflows/ci.yml/badge.svg)](https://github.com/Sudam23/icd10-hybrid-search/actions/workflows/ci.yml)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Sudam23/icd10-hybrid-search)

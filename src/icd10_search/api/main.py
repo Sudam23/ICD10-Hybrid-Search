@@ -82,12 +82,29 @@ class RateLimiter:
 rate_limiter = RateLimiter(RATE_LIMIT_REQUESTS, RATE_LIMIT_WINDOW_SECONDS)
 
 
+def warm_up(service: SearchService) -> None:
+    """Run one throwaway query so the first real visitor does not pay for it.
+
+    The embedding model is loaded lazily and ONNX Runtime builds its execution
+    plan on first use. On a free-tier instance that sleeps, that cost would
+    otherwise land on whoever clicks the link after an idle period.
+    """
+    try:
+        started = time.perf_counter()
+        service.search("warm up the embedding model", k=1)
+        logger.info("warm-up query took %.0fms", (time.perf_counter() - started) * 1000)
+    except Exception:  # pragma: no cover - warm-up must never block startup
+        logger.exception("warm-up query failed; serving anyway")
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):  # noqa: ANN201
     started = time.perf_counter()
     try:
         logger.info("loading search service ...")
-        STATE["service"] = SearchService.load()
+        service = SearchService.load()
+        warm_up(service)
+        STATE["service"] = service
         STATE["loaded_at"] = time.time()
         logger.info("search service ready in %.1fs", time.perf_counter() - started)
     except Exception as exc:  # pragma: no cover - startup failure path

@@ -68,7 +68,7 @@ force is the right answer at this corpus size; the moment it is not, the
 
 ### int8 quantisation
 
-Float32 vectors are 144 MB - too large to keep in the repository and wasteful
+Float32 vectors are 151 MB - too large to keep in the repository and wasteful
 inside a 512 MB container. Symmetric per-row int8 quantisation brings this to
 36 MB. The accuracy this costs is measured, not assumed: see `docs/EVALUATION.md`.
 

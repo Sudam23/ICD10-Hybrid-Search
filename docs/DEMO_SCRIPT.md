@@ -14,7 +14,10 @@ comes from `make eval`.
 
 ## 2. Show it working (90 seconds)
 
-In the live app:
+Live app: <https://icd10-hybrid-search.onrender.com>
+
+Open it a minute beforehand - the free instance sleeps after about fifteen
+minutes of inactivity and takes half a minute to wake.
 
 1. Type **ringing in the ears** → Tinnitus comes back first. Point out that the
    word "tinnitus" is nowhere in the query.
@@ -49,7 +52,7 @@ nobody can perceive. The `DenseIndex` class is the seam where that changes if
 the corpus grows.
 
 **"Why int8?"**
-Float32 vectors are 144 MB; int8 is 36 MB, which fits in a repository and in a
+Float32 vectors are 151 MB; int8 is 38 MB, which fits in a repository and in a
 512 MB container. The accuracy cost is measured and reported, not assumed.
 
 **"Why rank fusion instead of combining the scores?"**

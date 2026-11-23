@@ -21,6 +21,11 @@ dev = [
     "httpx==0.28.1",
     "ruff==0.8.6",
 ]
+e2e = [
+    # Already supplied by uvicorn[standard]; declared so the browser test can
+    # be installed on its own.
+    "websockets>=10.4",
+]
 
 [project.scripts]
 icd10 = "icd10_search.cli:main"

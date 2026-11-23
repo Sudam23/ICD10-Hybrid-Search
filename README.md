@@ -288,6 +288,23 @@ With Docker:
 make docker-build && make docker-run
 ```
 
+### Checking a deployment
+
+`make test` covers the pieces and the API. `make e2e` checks the thing a user
+actually touches: it launches a real Chrome, types with real keystrokes, clicks
+the mode toggle, and asserts on what the page renders.
+
+```bash
+make e2e                                        # against the live demo
+make e2e ARGS="--base-url http://127.0.0.1:8000"  # against a local server
+```
+
+It covers 27 checks, including the three that only a browser can see: that
+switching to **Keyword** genuinely loses the Tinnitus result, that a shared link
+restores its chapter filter, and that the page does not scroll sideways at a
+true 390 px phone width. It needs Chrome, so it is a deployment check rather
+than part of `make test`.
+
 ---
 
 ## 8. API

@@ -150,6 +150,19 @@ web/                     three static files, no build step
 tests/                   89 unit tests + an integration suite
 ```
 
+## Testing layers
+
+| Layer | What it covers | Command |
+|---|---|---|
+| Unit | parsing, tokenising, quantisation, fusion, metrics - no model, no network | `make test` |
+| Integration | the API against the committed index | `make test` |
+| End to end | a real browser against a running instance | `make e2e` |
+
+The browser layer exists because the other two cannot see it when a mode toggle
+stops re-running the search, when a shared link drops a filter, or when a
+dropdown pushes the page wider than a phone screen. All three of those were
+real defects found that way.
+
 ## The manifest
 
 `data/index/manifest.json` records what was built, from which corpus (by

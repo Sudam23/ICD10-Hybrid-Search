@@ -2,10 +2,10 @@
 PY := .venv/bin/python
 export PYTHONPATH := src
 
-.PHONY: help venv data index serve dev test lint eval tune clean docker-build docker-run
+.PHONY: help venv data index serve dev test lint eval tune e2e clean docker-build docker-run
 
 help:
-	@grep -E '^[a-z-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "  %-14s %s\n", $$1, $$2}'
+	@grep -E '^[a-z0-9-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "  %-14s %s\n", $$1, $$2}'
 
 venv: ## create the virtualenv and install the project
 	uv venv --python 3.12
@@ -36,6 +36,9 @@ eval: ## measure retrieval quality and write the numbers into the docs
 
 tune: ## sweep fusion parameters on the dev split
 	$(PY) -m icd10_search.evaluation.tune
+
+e2e: ## drive a real browser against a running instance (needs Chrome)
+	$(PY) scripts/e2e_browser_test.py $(ARGS)
 
 docker-build: ## build the container image
 	docker build -t icd10-hybrid-search .

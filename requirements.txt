@@ -1,0 +1,7 @@
+# Runtime dependencies, pinned. Kept in sync with pyproject.toml by
+# tests/test_packaging.py so the container and a local install cannot drift.
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+fastembed==0.7.1
+numpy==2.2.1
+pydantic==2.10.4

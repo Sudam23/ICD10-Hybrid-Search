@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en" data-theme="auto">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ICD-10-CM Hybrid Code Finder</title>
+<meta name="description" content="Hybrid semantic and keyword search over all 98,186 ICD-10-CM 2026 diagnosis codes. Describe a condition in plain English and get the matching codes." />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#x1F50E;</text></svg>" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<a class="skip-link" href="#results">Skip to results</a>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">ICD</span>
+      <div>
+        <h1>ICD-10-CM Hybrid Code Finder</h1>
+        <p class="tagline">Describe a condition in plain English &mdash; get the diagnosis codes.</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <a class="ghost-btn" href="/docs" target="_blank" rel="noopener">API</a>
+      <a class="ghost-btn" id="repo-link" href="https://github.com/Sudam23/icd10-hybrid-search" target="_blank" rel="noopener">GitHub</a>
+      <button class="ghost-btn" id="theme-toggle" type="button" aria-label="Switch colour theme">Theme</button>
+    </div>
+  </div>
+</header>
+
+<p class="disclaimer wrap" role="note">
+  <strong>Demo only.</strong> Results come from the public CMS ICD-10-CM 2026 release and are
+  retrieval suggestions, not clinical advice. Do not use for real coding, billing or medical decisions.
+</p>
+
+<main class="wrap">
+  <section class="search-panel" aria-label="Search">
+    <form id="search-form" role="search" autocomplete="off">
+      <div class="search-row">
+        <label class="visually-hidden" for="query">Search ICD-10-CM codes</label>
+        <input
+          id="query" name="q" type="search" required maxlength="400"
+          placeholder="e.g. ringing in the ears, or a code like E11.9"
+          aria-describedby="query-help" />
+        <button type="submit" id="search-btn">Search</button>
+      </div>
+      <p id="query-help" class="hint">
+        Natural language, a clinical phrase, or an ICD-10 code itself.
+      </p>
+
+      <div class="controls">
+        <fieldset class="mode-group">
+          <legend class="visually-hidden">Retrieval mode</legend>
+          <label><input type="radio" name="mode" value="hybrid" checked /><span>Hybrid</span></label>
+          <label><input type="radio" name="mode" value="dense" /><span>Semantic</span></label>
+          <label><input type="radio" name="mode" value="lexical" /><span>Keyword</span></label>
+        </fieldset>
+
+        <label class="control control-grow">
+          <span>Chapter</span>
+          <select id="chapter"><option value="">All chapters</option></select>
+        </label>
+
+        <label class="control">
+          <span>Results</span>
+          <select id="k">
+            <option>10</option><option>20</option><option>30</option>
+          </select>
+        </label>
+
+        <label class="control toggle">
+          <input type="checkbox" id="billable-only" />
+          <span>Billable codes only</span>
+        </label>
+      </div>
+    </form>
+
+    <div class="examples" id="examples" aria-label="Example queries"></div>
+  </section>
+
+  <section id="status" class="status" aria-live="polite"></section>
+
+  <section id="results" class="results" aria-label="Search results" tabindex="-1"></section>
+
+  <section class="explainer">
+    <h2>How this works</h2>
+    <div class="explainer-grid">
+      <article>
+        <h3>1. The data</h3>
+        <p>
+          All <strong id="stat-codes">98,186</strong> diagnosis codes of the CMS ICD-10-CM 2026
+          release, merged with the XML tabular list so every code carries its chapter, its block
+          and its official synonyms (&ldquo;inclusion terms&rdquo;).
+        </p>
+      </article>
+      <article>
+        <h3>2. Two retrievers</h3>
+        <p>
+          A <strong>semantic</strong> arm embeds every code description with
+          <code id="stat-model">bge-small-en-v1.5</code> and compares meanings;
+          a <strong>keyword</strong> arm runs BM25 over an inverted index. They fail on different
+          queries, which is why both are used.
+        </p>
+      </article>
+      <article>
+        <h3>3. Fusion</h3>
+        <p>
+          The two ranked lists are merged with Reciprocal Rank Fusion, which combines
+          <em>ranks</em> rather than scores &mdash; cosine similarity and BM25 are not on a
+          comparable scale.
+        </p>
+      </article>
+      <article>
+        <h3>4. Measured, not asserted</h3>
+        <p>
+          Quality is scored against a gold set built from the CMS Alphabetic Index, so the
+          labels come from CMS rather than from me.
+          <a href="#evaluation">See the numbers below.</a>
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <section class="explainer" id="evaluation">
+    <h2>Measured retrieval quality</h2>
+    <p class="hint" id="eval-caption">Loading the evaluation report&hellip;</p>
+    <div id="eval-tables"></div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>
+      Source data: <a href="https://www.cms.gov/medicare/coding-billing/icd-10-codes" target="_blank" rel="noopener">CMS ICD-10-CM 2026</a>
+      (U.S. Government, public domain). Built as an open-source portfolio project.
+    </p>
+    <p id="footer-stats" class="hint"></p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

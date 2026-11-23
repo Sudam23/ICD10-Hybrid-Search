@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-11-23T13:05:31Z",
+  "arm": "dense",
+  "split": "dev",
+  "rows": [
+    {
+      "variant": "desc_incl_parent",
+      "index_dir": "data/index",
+      "gold_set": "cms_index_dev",
+      "num_queries": 1000,
+      "recall_at_1": 0.399,
+      "recall_at_5": 0.619,
+      "recall_at_10": 0.691,
+      "mrr_at_10": 0.4916
+    },
+    {
+      "variant": "desc",
+      "index_dir": "/private/tmp/claude-501/-Users-sudam-Desktop/63e0559a-c38a-495c-a3bd-56f50cc9342b/scratchpad/idx_desc",
+      "gold_set": "cms_index_dev",
+      "num_queries": 1000,
+      "recall_at_1": 0.372,
+      "recall_at_5": 0.572,
+      "recall_at_10": 0.655,
+      "mrr_at_10": 0.4579
+    },
+    {
+      "variant": "desc_incl_parent_block",
+      "index_dir": "/private/tmp/claude-501/-Users-sudam-Desktop/63e0559a-c38a-495c-a3bd-56f50cc9342b/scratchpad/idx_block",
+      "gold_set": "cms_index_dev",
+      "num_queries": 1000,
+      "recall_at_1": 0.446,
+      "recall_at_5": 0.656,
+      "recall_at_10": 0.704,
+      "mrr_at_10": 0.5321
+    }
+  ]
+}

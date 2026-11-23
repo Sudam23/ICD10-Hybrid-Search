@@ -1,0 +1,14 @@
+.git
+.github
+.venv
+data/raw
+data/index/dense_float32.npy
+tests
+docs/*.md
+*.md
+!README.md
+.pytest_cache
+.ruff_cache
+__pycache__
+*.pyc
+.DS_Store

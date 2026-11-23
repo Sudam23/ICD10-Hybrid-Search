@@ -1,0 +1,12 @@
+{
+  "release_year": 2026,
+  "total_codes": 98186,
+  "billable_codes": 74719,
+  "chapters": 22,
+  "blocks": 285,
+  "codes_with_synonyms": 46144,
+  "gold_index_pool": 45856,
+  "gold_index_dev": 1000,
+  "gold_index_test": 1000,
+  "gold_lay_queries": 54
+}

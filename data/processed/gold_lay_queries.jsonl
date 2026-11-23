@@ -1,0 +1,54 @@
+{"query": "high blood pressure", "expected_code": "I10", "expected_code_dotted": "I10", "source": "hand_written", "path": null}
+{"query": "type 2 diabetes with no complications", "expected_code": "E119", "expected_code_dotted": "E11.9", "source": "hand_written", "path": null}
+{"query": "chest pain", "expected_code": "R079", "expected_code_dotted": "R07.9", "source": "hand_written", "path": null}
+{"query": "asthma, unspecified, uncomplicated", "expected_code": "J45909", "expected_code_dotted": "J45.909", "source": "hand_written", "path": null}
+{"query": "migraine headache", "expected_code": "G43909", "expected_code_dotted": "G43.909", "source": "hand_written", "path": null}
+{"query": "hay fever with runny nose", "expected_code": "J302", "expected_code_dotted": "J30.2", "source": "hand_written", "path": null}
+{"query": "pink eye", "expected_code": "H109", "expected_code_dotted": "H10.9", "source": "hand_written", "path": null}
+{"query": "low back pain", "expected_code": "M5450", "expected_code_dotted": "M54.50", "source": "hand_written", "path": null}
+{"query": "covid-19", "expected_code": "U071", "expected_code_dotted": "U07.1", "source": "hand_written", "path": null}
+{"query": "fever", "expected_code": "R509", "expected_code_dotted": "R50.9", "source": "hand_written", "path": null}
+{"query": "headache", "expected_code": "R519", "expected_code_dotted": "R51.9", "source": "hand_written", "path": null}
+{"query": "dizziness and giddiness", "expected_code": "R42", "expected_code_dotted": "R42", "source": "hand_written", "path": null}
+{"query": "shortness of breath", "expected_code": "R0602", "expected_code_dotted": "R06.02", "source": "hand_written", "path": null}
+{"query": "cough", "expected_code": "R059", "expected_code_dotted": "R05.9", "source": "hand_written", "path": null}
+{"query": "nausea with vomiting", "expected_code": "R112", "expected_code_dotted": "R11.2", "source": "hand_written", "path": null}
+{"query": "diarrhea", "expected_code": "R197", "expected_code_dotted": "R19.7", "source": "hand_written", "path": null}
+{"query": "constipation", "expected_code": "K5900", "expected_code_dotted": "K59.00", "source": "hand_written", "path": null}
+{"query": "acid reflux without esophagitis", "expected_code": "K219", "expected_code_dotted": "K21.9", "source": "hand_written", "path": null}
+{"query": "urinary tract infection", "expected_code": "N390", "expected_code_dotted": "N39.0", "source": "hand_written", "path": null}
+{"query": "iron deficiency anemia", "expected_code": "D509", "expected_code_dotted": "D50.9", "source": "hand_written", "path": null}
+{"query": "underactive thyroid", "expected_code": "E039", "expected_code_dotted": "E03.9", "source": "hand_written", "path": null}
+{"query": "overactive thyroid", "expected_code": "E0590", "expected_code_dotted": "E05.90", "source": "hand_written", "path": null}
+{"query": "high cholesterol", "expected_code": "E7800", "expected_code_dotted": "E78.00", "source": "hand_written", "path": null}
+{"query": "obesity", "expected_code": "E669", "expected_code_dotted": "E66.9", "source": "hand_written", "path": null}
+{"query": "depression", "expected_code": "F32A", "expected_code_dotted": "F32.A", "source": "hand_written", "path": null}
+{"query": "anxiety", "expected_code": "F419", "expected_code_dotted": "F41.9", "source": "hand_written", "path": null}
+{"query": "trouble sleeping", "expected_code": "G4700", "expected_code_dotted": "G47.00", "source": "hand_written", "path": null}
+{"query": "cigarette smoking addiction", "expected_code": "F17210", "expected_code_dotted": "F17.210", "source": "hand_written", "path": null}
+{"query": "food poisoning from salmonella", "expected_code": "A029", "expected_code_dotted": "A02.9", "source": "hand_written", "path": null}
+{"query": "chickenpox", "expected_code": "B019", "expected_code_dotted": "B01.9", "source": "hand_written", "path": null}
+{"query": "shingles", "expected_code": "B029", "expected_code_dotted": "B02.9", "source": "hand_written", "path": null}
+{"query": "strep throat", "expected_code": "J020", "expected_code_dotted": "J02.0", "source": "hand_written", "path": null}
+{"query": "middle ear infection", "expected_code": "H6690", "expected_code_dotted": "H66.90", "source": "hand_written", "path": null}
+{"query": "sinus infection", "expected_code": "J0190", "expected_code_dotted": "J01.90", "source": "hand_written", "path": null}
+{"query": "kidney stone", "expected_code": "N200", "expected_code_dotted": "N20.0", "source": "hand_written", "path": null}
+{"query": "gallstones", "expected_code": "K8020", "expected_code_dotted": "K80.20", "source": "hand_written", "path": null}
+{"query": "acute appendicitis", "expected_code": "K3580", "expected_code_dotted": "K35.80", "source": "hand_written", "path": null}
+{"query": "high blood sugar", "expected_code": "R739", "expected_code_dotted": "R73.9", "source": "hand_written", "path": null}
+{"query": "memory loss", "expected_code": "R413", "expected_code_dotted": "R41.3", "source": "hand_written", "path": null}
+{"query": "chronic kidney disease stage 3", "expected_code": "N1830", "expected_code_dotted": "N18.30", "source": "hand_written", "path": null}
+{"query": "sleep apnea", "expected_code": "G4733", "expected_code_dotted": "G47.33", "source": "hand_written", "path": null}
+{"query": "arthritis of the knee", "expected_code": "M179", "expected_code_dotted": "M17.9", "source": "hand_written", "path": null}
+{"query": "rheumatoid arthritis", "expected_code": "M069", "expected_code_dotted": "M06.9", "source": "hand_written", "path": null}
+{"query": "eczema", "expected_code": "L309", "expected_code_dotted": "L30.9", "source": "hand_written", "path": null}
+{"query": "psoriasis", "expected_code": "L409", "expected_code_dotted": "L40.9", "source": "hand_written", "path": null}
+{"query": "acne", "expected_code": "L700", "expected_code_dotted": "L70.0", "source": "hand_written", "path": null}
+{"query": "cataract", "expected_code": "H269", "expected_code_dotted": "H26.9", "source": "hand_written", "path": null}
+{"query": "glaucoma", "expected_code": "H409", "expected_code_dotted": "H40.9", "source": "hand_written", "path": null}
+{"query": "anemia", "expected_code": "D649", "expected_code_dotted": "D64.9", "source": "hand_written", "path": null}
+{"query": "dehydration", "expected_code": "E860", "expected_code_dotted": "E86.0", "source": "hand_written", "path": null}
+{"query": "vitamin d deficiency", "expected_code": "E559", "expected_code_dotted": "E55.9", "source": "hand_written", "path": null}
+{"query": "history of stroke", "expected_code": "Z8673", "expected_code_dotted": "Z86.73", "source": "hand_written", "path": null}
+{"query": "broken nose first visit", "expected_code": "S022XXA", "expected_code_dotted": "S02.2XXA", "source": "hand_written", "path": null}
+{"query": "alcohol abuse without complications", "expected_code": "F1010", "expected_code_dotted": "F10.10", "source": "hand_written", "path": null}

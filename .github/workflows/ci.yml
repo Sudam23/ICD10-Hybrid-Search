@@ -1,0 +1,64 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Lint and test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+
+      - name: Lint
+        run: |
+          ruff check src tests scripts
+          ruff format --check src tests scripts
+
+      - name: Unit tests
+        run: pytest -q --ignore=tests/test_integration.py
+
+      - name: Integration tests against the committed index
+        run: pytest -q tests/test_integration.py
+
+  docker:
+    name: Build the container
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build image
+        run: docker build -t icd10-hybrid-search:ci .
+
+      - name: Boot it and check the API answers
+        run: |
+          docker run -d --name icd10 -p 8000:8000 icd10-hybrid-search:ci
+          for attempt in $(seq 1 60); do
+            if curl -sf http://127.0.0.1:8000/api/health | grep -q '"index_ready":true'; then
+              echo "service is ready after ${attempt}s"
+              break
+            fi
+            sleep 1
+          done
+          curl -sf "http://127.0.0.1:8000/api/health" | grep -q '"index_ready":true'
+          curl -sf "http://127.0.0.1:8000/api/search?q=high+blood+pressure&k=5" | grep -q '"I10"'
+          curl -sf "http://127.0.0.1:8000/" | grep -q "ICD-10-CM Hybrid Code Finder"
+          docker logs icd10 | tail -20
+          docker rm -f icd10

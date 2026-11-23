@@ -1,0 +1,23 @@
+{
+  "built_at": "2026-11-23T13:01:46+00:00",
+  "corpus_path": "corpus.jsonl.gz",
+  "corpus_sha256_prefix": "ad31fc1caebf9cf6",
+  "num_documents": 98186,
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "embedding_dim": 384,
+  "doc_text_variant": "desc_incl_parent_block",
+  "quantization": "int8-symmetric-per-row",
+  "bm25": {
+    "k1": 1.5,
+    "b": 0.75,
+    "vocabulary_terms": 11108,
+    "postings": 1082040,
+    "avg_doc_length": 16.062
+  },
+  "build_seconds": 1555.6,
+  "artifact_bytes": {
+    "dense_int8.npy": 37703552,
+    "dense_scales.npy": 392872,
+    "lexical_bm25.npz": 1693396
+  }
+}

@@ -1,0 +1,1000 @@
+{"query": "11-hydroxylase Defect", "expected_code": "E250", "expected_code_dotted": "E25.0", "source": "cms_alphabetic_index", "path": ["Defect, defective", "11-hydroxylase"]}
+{"query": "AST Elevated", "expected_code": "R7401", "expected_code_dotted": "R74.01", "source": "cms_alphabetic_index", "path": ["Elevated, elevation", "AST"]}
+{"query": "Aarskog's syndrome", "expected_code": "Q8719", "expected_code_dotted": "Q87.19", "source": "cms_alphabetic_index", "path": ["Aarskog's syndrome"]}
+{"query": "Acanthocheilonema Infestation", "expected_code": "B744", "expected_code_dotted": "B74.4", "source": "cms_alphabetic_index", "path": ["Infestation", "Acanthocheilonema"]}
+{"query": "Barrel chest", "expected_code": "M954", "expected_code_dotted": "M95.4", "source": "cms_alphabetic_index", "path": ["Barrel chest"]}
+{"query": "Bartholin's gland Inflammation", "expected_code": "N758", "expected_code_dotted": "N75.8", "source": "cms_alphabetic_index", "path": ["Inflammation, inflamed, inflammatory", "Bartholin's gland"]}
+{"query": "Bat ear", "expected_code": "Q175", "expected_code_dotted": "Q17.5", "source": "cms_alphabetic_index", "path": ["Bat ear"]}
+{"query": "Battey Disease", "expected_code": "A310", "expected_code_dotted": "A31.0", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "Battey"]}
+{"query": "Bayle's disease", "expected_code": "A5217", "expected_code_dotted": "A52.17", "source": "cms_alphabetic_index", "path": ["Bayle's disease"]}
+{"query": "Bell's Paralysis", "expected_code": "G510", "expected_code_dotted": "G51.0", "source": "cms_alphabetic_index", "path": ["Paralysis, paralytic", "Bell's"]}
+{"query": "Bloch-Sulzberger disease or syndrome", "expected_code": "Q823", "expected_code_dotted": "Q82.3", "source": "cms_alphabetic_index", "path": ["Bloch-Sulzberger disease or syndrome"]}
+{"query": "Brenner Tumor", "expected_code": "D279", "expected_code_dotted": "D27.9", "source": "cms_alphabetic_index", "path": ["Tumor", "Brenner"]}
+{"query": "Carr-Barr-Plunkett syndrome", "expected_code": "Q971", "expected_code_dotted": "Q97.1", "source": "cms_alphabetic_index", "path": ["Carr-Barr-Plunkett syndrome"]}
+{"query": "Charcot's Cirrhosis", "expected_code": "K743", "expected_code_dotted": "K74.3", "source": "cms_alphabetic_index", "path": ["Cirrhosis, cirrhotic", "Charcot's"]}
+{"query": "Compressed air disease", "expected_code": "T703", "expected_code_dotted": "T70.3", "source": "cms_alphabetic_index", "path": ["Compressed air disease"]}
+{"query": "Concavity chest wall", "expected_code": "M954", "expected_code_dotted": "M95.4", "source": "cms_alphabetic_index", "path": ["Concavity chest wall"]}
+{"query": "Concretio cordis", "expected_code": "I311", "expected_code_dotted": "I31.1", "source": "cms_alphabetic_index", "path": ["Concretio cordis"]}
+{"query": "Cornual gestation or pregnancy", "expected_code": "O0080", "expected_code_dotted": "O00.80", "source": "cms_alphabetic_index", "path": ["Cornual gestation or pregnancy"]}
+{"query": "Costen's syndrome or complex", "expected_code": "M2669", "expected_code_dotted": "M26.69", "source": "cms_alphabetic_index", "path": ["Costen's syndrome or complex"]}
+{"query": "Cowper's gland Abscess", "expected_code": "N340", "expected_code_dotted": "N34.0", "source": "cms_alphabetic_index", "path": ["Abscess", "Cowper's gland"]}
+{"query": "Coxsackie Endocarditis", "expected_code": "B3321", "expected_code_dotted": "B33.21", "source": "cms_alphabetic_index", "path": ["Endocarditis", "Coxsackie"]}
+{"query": "Crimean hemorrhagic fever", "expected_code": "A980", "expected_code_dotted": "A98.0", "source": "cms_alphabetic_index", "path": ["Crimean hemorrhagic fever"]}
+{"query": "Darling's disease or histoplasmosis", "expected_code": "B394", "expected_code_dotted": "B39.4", "source": "cms_alphabetic_index", "path": ["Darling's disease or histoplasmosis"]}
+{"query": "De Beurmann disease", "expected_code": "B421", "expected_code_dotted": "B42.1", "source": "cms_alphabetic_index", "path": ["De Beurmann disease"]}
+{"query": "Dercum's disease", "expected_code": "E882", "expected_code_dotted": "E88.2", "source": "cms_alphabetic_index", "path": ["Dercum's disease"]}
+{"query": "Dermanyssus gallinae Infestation", "expected_code": "B8809", "expected_code_dotted": "B88.09", "source": "cms_alphabetic_index", "path": ["Infestation", "Dermanyssus gallinae"]}
+{"query": "Donohue's syndrome", "expected_code": "E348", "expected_code_dotted": "E34.8", "source": "cms_alphabetic_index", "path": ["Donohue's syndrome"]}
+{"query": "Duchenne's due to or associated with motor neuron disease Paralysis", "expected_code": "G1222", "expected_code_dotted": "G12.22", "source": "cms_alphabetic_index", "path": ["Paralysis, paralytic", "Duchenne's", "due to or associated with", "motor neuron disease"]}
+{"query": "Duchenne's type Dystrophy", "expected_code": "G7101", "expected_code_dotted": "G71.01", "source": "cms_alphabetic_index", "path": ["Dystrophy, dystrophia", "Duchenne's type"]}
+{"query": "Eddowes syndrome", "expected_code": "Q780", "expected_code_dotted": "Q78.0", "source": "cms_alphabetic_index", "path": ["Eddowes syndrome"]}
+{"query": "Epitheliomatosis pigmented", "expected_code": "Q821", "expected_code_dotted": "Q82.1", "source": "cms_alphabetic_index", "path": ["Epitheliomatosis pigmented"]}
+{"query": "Escherichia coli Exposure", "expected_code": "Z2001", "expected_code_dotted": "Z20.01", "source": "cms_alphabetic_index", "path": ["Exposure", "Escherichia coli"]}
+{"query": "G cell malignant unspecified site Tumor", "expected_code": "C254", "expected_code_dotted": "C25.4", "source": "cms_alphabetic_index", "path": ["Tumor", "G cell", "malignant", "unspecified site"]}
+{"query": "Goodpasture's syndrome", "expected_code": "M310", "expected_code_dotted": "M31.0", "source": "cms_alphabetic_index", "path": ["Goodpasture's syndrome"]}
+{"query": "Harvester's lung", "expected_code": "J670", "expected_code_dotted": "J67.0", "source": "cms_alphabetic_index", "path": ["Harvester's lung"]}
+{"query": "Heberden's disease or nodes", "expected_code": "M151", "expected_code_dotted": "M15.1", "source": "cms_alphabetic_index", "path": ["Heberden's disease or nodes"]}
+{"query": "Horner syndrome", "expected_code": "G902", "expected_code_dotted": "G90.2", "source": "cms_alphabetic_index", "path": ["Horner syndrome"]}
+{"query": "IRDS Syndrome", "expected_code": "P220", "expected_code_dotted": "P22.0", "source": "cms_alphabetic_index", "path": ["Syndrome", "IRDS"]}
+{"query": "IV Mucolipidosis", "expected_code": "E7511", "expected_code_dotted": "E75.11", "source": "cms_alphabetic_index", "path": ["Mucolipidosis", "IV"]}
+{"query": "Jacquet's Dermatitis", "expected_code": "L22", "expected_code_dotted": "L22", "source": "cms_alphabetic_index", "path": ["Dermatitis", "Jacquet's"]}
+{"query": "KCNQ2-related intractable without status epilepticus Epilepsy", "expected_code": "G40844", "expected_code_dotted": "G40.844", "source": "cms_alphabetic_index", "path": ["Epilepsy, epileptic, epilepsia", "KCNQ2-related", "intractable", "without status epilepticus"]}
+{"query": "Kenya Fever", "expected_code": "A771", "expected_code_dotted": "A77.1", "source": "cms_alphabetic_index", "path": ["Fever", "Kenya"]}
+{"query": "Kleeblattschaedel skull", "expected_code": "Q75051", "expected_code_dotted": "Q75.051", "source": "cms_alphabetic_index", "path": ["Kleeblattschaedel skull"]}
+{"query": "Lambert-Eaton in specified disease NEC Syndrome", "expected_code": "G7081", "expected_code_dotted": "G70.81", "source": "cms_alphabetic_index", "path": ["Syndrome", "Lambert-Eaton", "in", "specified disease NEC"]}
+{"query": "Large-for-dates NEC", "expected_code": "P081", "expected_code_dotted": "P08.1", "source": "cms_alphabetic_index", "path": ["Large-for-dates NEC"]}
+{"query": "Leser-Trélat disease", "expected_code": "L821", "expected_code_dotted": "L82.1", "source": "cms_alphabetic_index", "path": ["Leser-Trélat disease"]}
+{"query": "Leyden-Möbius meaning Limb girdle muscular dystrophy type 2A Dystrophy", "expected_code": "G71032", "expected_code_dotted": "G71.032", "source": "cms_alphabetic_index", "path": ["Dystrophy, dystrophia", "Leyden-Möbius", "meaning Limb girdle muscular dystrophy type 2A"]}
+{"query": "Lobo's Disease", "expected_code": "B480", "expected_code_dotted": "B48.0", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "Lobo's"]}
+{"query": "Ludwig's angina or disease", "expected_code": "K122", "expected_code_dotted": "K12.2", "source": "cms_alphabetic_index", "path": ["Ludwig's angina or disease"]}
+{"query": "Lutembacher's disease or syndrome", "expected_code": "Q2119", "expected_code_dotted": "Q21.19", "source": "cms_alphabetic_index", "path": ["Lutembacher's disease or syndrome"]}
+{"query": "Meat-wrappers' asthma", "expected_code": "J689", "expected_code_dotted": "J68.9", "source": "cms_alphabetic_index", "path": ["Meat-wrappers' asthma"]}
+{"query": "Meyer-Schwickerath and Weyers syndrome", "expected_code": "Q870", "expected_code_dotted": "Q87.0", "source": "cms_alphabetic_index", "path": ["Meyer-Schwickerath and Weyers syndrome"]}
+{"query": "Mikulicz' disease or syndrome", "expected_code": "K118", "expected_code_dotted": "K11.8", "source": "cms_alphabetic_index", "path": ["Mikulicz' disease or syndrome"]}
+{"query": "Morvan's Disease", "expected_code": "G608", "expected_code_dotted": "G60.8", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "Morvan's"]}
+{"query": "Mulberry molars", "expected_code": "A5052", "expected_code_dotted": "A50.52", "source": "cms_alphabetic_index", "path": ["Mulberry molars"]}
+{"query": "Necator americanus Ancylostoma", "expected_code": "B761", "expected_code_dotted": "B76.1", "source": "cms_alphabetic_index", "path": ["Ancylostoma, ancylostomiasis", "Necator americanus"]}
+{"query": "Occlusal wear", "expected_code": "K030", "expected_code_dotted": "K03.0", "source": "cms_alphabetic_index", "path": ["Occlusal wear, teeth"]}
+{"query": "Pasteurella NEC Infection", "expected_code": "A280", "expected_code_dotted": "A28.0", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "Pasteurella NEC"]}
+{"query": "Peutz-Jeghers Syndrome", "expected_code": "Q8589", "expected_code_dotted": "Q85.89", "source": "cms_alphabetic_index", "path": ["Syndrome", "Peutz-Jeghers"]}
+{"query": "Plaut disease", "expected_code": "A691", "expected_code_dotted": "A69.1", "source": "cms_alphabetic_index", "path": ["Plaut disease"]}
+{"query": "Raymond syndrome", "expected_code": "I658", "expected_code_dotted": "I65.8", "source": "cms_alphabetic_index", "path": ["Raymond syndrome"]}
+{"query": "Raynaud's Phenomenon", "expected_code": "I7300", "expected_code_dotted": "I73.00", "source": "cms_alphabetic_index", "path": ["Phenomenon", "Raynaud's"]}
+{"query": "Reifenstein syndrome", "expected_code": "E3452", "expected_code_dotted": "E34.52", "source": "cms_alphabetic_index", "path": ["Reifenstein syndrome"]}
+{"query": "Rietti-Greppi-Micheli Anemia", "expected_code": "D569", "expected_code_dotted": "D56.9", "source": "cms_alphabetic_index", "path": ["Anemia", "Rietti-Greppi-Micheli"]}
+{"query": "Salmonella localized pneumonia Infection", "expected_code": "A0222", "expected_code_dotted": "A02.22", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "Salmonella", "localized", "pneumonia"]}
+{"query": "Shigella Schmitz Infection", "expected_code": "A030", "expected_code_dotted": "A03.0", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "Shigella", "Schmitz"]}
+{"query": "Sonne Dysentery", "expected_code": "A033", "expected_code_dotted": "A03.3", "source": "cms_alphabetic_index", "path": ["Dysentery, dysenteric", "Sonne"]}
+{"query": "Spens' syndrome", "expected_code": "I459", "expected_code_dotted": "I45.9", "source": "cms_alphabetic_index", "path": ["Spens' syndrome"]}
+{"query": "Spielmeyer-Vogt disease", "expected_code": "E754", "expected_code_dotted": "E75.4", "source": "cms_alphabetic_index", "path": ["Spielmeyer-Vogt disease"]}
+{"query": "Spirillum Relapsing fever", "expected_code": "A689", "expected_code_dotted": "A68.9", "source": "cms_alphabetic_index", "path": ["Relapsing fever", "Spirillum"]}
+{"query": "Stein's syndrome", "expected_code": "E282", "expected_code_dotted": "E28.2", "source": "cms_alphabetic_index", "path": ["Stein's syndrome"]}
+{"query": "Stokes Syndrome", "expected_code": "I459", "expected_code_dotted": "I45.9", "source": "cms_alphabetic_index", "path": ["Syndrome", "Stokes"]}
+{"query": "Streptococcus agalactiae Sepsis", "expected_code": "A401", "expected_code_dotted": "A40.1", "source": "cms_alphabetic_index", "path": ["Sepsis", "Streptococcus, streptococcal", "agalactiae"]}
+{"query": "T-cell lymphotropic virus type-1 infection Human", "expected_code": "B333", "expected_code_dotted": "B33.3", "source": "cms_alphabetic_index", "path": ["Human", "T-cell lymphotropic virus", "type-1 infection"]}
+{"query": "TORCH without active infection Infection", "expected_code": "P002", "expected_code_dotted": "P00.2", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "TORCH", "without active infection"]}
+{"query": "Volkmann's Syndrome", "expected_code": "T796", "expected_code_dotted": "T79.6", "source": "cms_alphabetic_index", "path": ["Syndrome", "Volkmann's"]}
+{"query": "Weiss-Baker Syndrome", "expected_code": "G9009", "expected_code_dotted": "G90.09", "source": "cms_alphabetic_index", "path": ["Syndrome", "Weiss-Baker"]}
+{"query": "Wernicke-Korsakoff Syndrome", "expected_code": "F04", "expected_code_dotted": "F04", "source": "cms_alphabetic_index", "path": ["Syndrome", "Wernicke-Korsakoff"]}
+{"query": "Worm-eaten soles", "expected_code": "A663", "expected_code_dotted": "A66.3", "source": "cms_alphabetic_index", "path": ["Worm-eaten soles"]}
+{"query": "X-linked Agammaglobulinemia", "expected_code": "D800", "expected_code_dotted": "D80.0", "source": "cms_alphabetic_index", "path": ["Agammaglobulinemia", "X-linked"]}
+{"query": "abdomen Deformity", "expected_code": "Q899", "expected_code_dotted": "Q89.9", "source": "cms_alphabetic_index", "path": ["Deformity", "abdomen, congenital"]}
+{"query": "abdominal lower right quadrant Pain", "expected_code": "R1031", "expected_code_dotted": "R10.31", "source": "cms_alphabetic_index", "path": ["Pain", "abdominal", "lower", "right quadrant"]}
+{"query": "abdominal viscera due to defect in anterior abdominal wall Ectopic", "expected_code": "Q7959", "expected_code_dotted": "Q79.59", "source": "cms_alphabetic_index", "path": ["Ectopic, ectopia", "abdominal viscera", "due to defect in anterior abdominal wall"]}
+{"query": "abdominal with intrauterine pregnancy Pregnancy", "expected_code": "O0001", "expected_code_dotted": "O00.01", "source": "cms_alphabetic_index", "path": ["Pregnancy", "abdominal", "with intrauterine pregnancy"]}
+{"query": "abnormal innervation right Syndrome", "expected_code": "H02513", "expected_code_dotted": "H02.513", "source": "cms_alphabetic_index", "path": ["Syndrome", "abnormal innervation", "right"]}
+{"query": "above elbow left first degree Corrosion", "expected_code": "T22532", "expected_code_dotted": "T22.532", "source": "cms_alphabetic_index", "path": ["Corrosion", "above elbow", "left", "first degree"]}
+{"query": "abscess Artery", "expected_code": "I7789", "expected_code_dotted": "I77.89", "source": "cms_alphabetic_index", "path": ["Artery, arterial", "abscess"]}
+{"query": "abscess Sequelae", "expected_code": "G09", "expected_code_dotted": "G09", "source": "cms_alphabetic_index", "path": ["Sequelae", "abscess, intracranial or intraspinal"]}
+{"query": "abscess nipple associated with lactation Puerperal", "expected_code": "O9103", "expected_code_dotted": "O91.03", "source": "cms_alphabetic_index", "path": ["Puerperal, puerperium", "abscess", "nipple", "associated with lactation"]}
+{"query": "acantholytic Disorder", "expected_code": "L119", "expected_code_dotted": "L11.9", "source": "cms_alphabetic_index", "path": ["Disorder", "acantholytic"]}
+{"query": "accessory Neuralgia", "expected_code": "G528", "expected_code_dotted": "G52.8", "source": "cms_alphabetic_index", "path": ["Neuralgia, neuralgic", "accessory"]}
+{"query": "achrestic Anemia", "expected_code": "D531", "expected_code_dotted": "D53.1", "source": "cms_alphabetic_index", "path": ["Anemia", "achrestic"]}
+{"query": "acoustic Neuroma", "expected_code": "D333", "expected_code_dotted": "D33.3", "source": "cms_alphabetic_index", "path": ["Neuroma", "acoustic"]}
+{"query": "actinomycotic Sepsis", "expected_code": "A427", "expected_code_dotted": "A42.7", "source": "cms_alphabetic_index", "path": ["Sepsis", "actinomycotic"]}
+{"query": "acute Cholecystitis", "expected_code": "K810", "expected_code_dotted": "K81.0", "source": "cms_alphabetic_index", "path": ["Cholecystitis", "acute"]}
+{"query": "acute staphylococcal recurrent Adenoiditis", "expected_code": "J0381", "expected_code_dotted": "J03.81", "source": "cms_alphabetic_index", "path": ["Adenoiditis", "acute", "staphylococcal", "recurrent"]}
+{"query": "acute with hematuria Cystitis", "expected_code": "N3001", "expected_code_dotted": "N30.01", "source": "cms_alphabetic_index", "path": ["Cystitis", "acute", "with hematuria"]}
+{"query": "adenoid Cyst", "expected_code": "J358", "expected_code_dotted": "J35.8", "source": "cms_alphabetic_index", "path": ["Cyst", "adenoid"]}
+{"query": "adenosine deaminase type 1 Deficiency", "expected_code": "D8139", "expected_code_dotted": "D81.39", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "adenosine deaminase", "type 1"]}
+{"query": "adjustment device NEC orthodontic Admission", "expected_code": "Z464", "expected_code_dotted": "Z46.4", "source": "cms_alphabetic_index", "path": ["Admission", "adjustment", "device NEC", "orthodontic"]}
+{"query": "adjustment prosthesis dental Admission", "expected_code": "Z463", "expected_code_dotted": "Z46.3", "source": "cms_alphabetic_index", "path": ["Admission", "adjustment", "prosthesis", "dental"]}
+{"query": "adrenal Melasma", "expected_code": "E271", "expected_code_dotted": "E27.1", "source": "cms_alphabetic_index", "path": ["Melasma", "adrenal"]}
+{"query": "adrenal clear cell Adenoma", "expected_code": "D3500", "expected_code_dotted": "D35.00", "source": "cms_alphabetic_index", "path": ["Adenoma", "adrenal", "clear cell"]}
+{"query": "affected by fetal inflammatory response syndrome Newborn", "expected_code": "P0270", "expected_code_dotted": "P02.70", "source": "cms_alphabetic_index", "path": ["Newborn", "affected by", "fetal", "inflammatory response syndrome"]}
+{"query": "affected by heart rate abnormalities intrauterine Newborn", "expected_code": "P03819", "expected_code_dotted": "P03.819", "source": "cms_alphabetic_index", "path": ["Newborn", "affected by", "heart rate abnormalities", "intrauterine"]}
+{"query": "affected by noxious substances transmitted via placenta or breast milk cannabis Newborn", "expected_code": "P0481", "expected_code_dotted": "P04.81", "source": "cms_alphabetic_index", "path": ["Newborn", "affected by", "noxious substances transmitted via placenta or breast milk", "cannabis"]}
+{"query": "affecting newborn Dystocia", "expected_code": "P031", "expected_code_dotted": "P03.1", "source": "cms_alphabetic_index", "path": ["Dystocia", "affecting newborn"]}
+{"query": "age-related with current pathologic fracture rib Osteoporosis", "expected_code": "M800A", "expected_code_dotted": "M80.0A", "source": "cms_alphabetic_index", "path": ["Osteoporosis", "age-related", "with current pathologic fracture", "rib"]}
+{"query": "aggressive generalized Periodontitis", "expected_code": "K05229", "expected_code_dotted": "K05.229", "source": "cms_alphabetic_index", "path": ["Periodontitis", "aggressive", "generalized"]}
+{"query": "alcohol Dependence", "expected_code": "F1020", "expected_code_dotted": "F10.20", "source": "cms_alphabetic_index", "path": ["Dependence", "alcohol"]}
+{"query": "alcohol with remission Dependence", "expected_code": "F1021", "expected_code_dotted": "F10.21", "source": "cms_alphabetic_index", "path": ["Dependence", "alcohol", "with", "remission"]}
+{"query": "alcohol without perceptual disturbances Withdrawal state", "expected_code": "F10239", "expected_code_dotted": "F10.239", "source": "cms_alphabetic_index", "path": ["Withdrawal state", "alcohol", "without perceptual disturbances"]}
+{"query": "alcoholic with ascites Hepatitis", "expected_code": "K7011", "expected_code_dotted": "K70.11", "source": "cms_alphabetic_index", "path": ["Hepatitis", "alcoholic", "with ascites"]}
+{"query": "alleged child Rape", "expected_code": "Z0442", "expected_code_dotted": "Z04.42", "source": "cms_alphabetic_index", "path": ["Rape", "alleged, observation or examination, ruled out", "child"]}
+{"query": "altitude effects on ears High", "expected_code": "T700", "expected_code_dotted": "T70.0", "source": "cms_alphabetic_index", "path": ["High", "altitude effects", "on", "ears"]}
+{"query": "alveolar Osteitis", "expected_code": "M273", "expected_code_dotted": "M27.3", "source": "cms_alphabetic_index", "path": ["Osteitis", "alveolar"]}
+{"query": "amebic Dysentery", "expected_code": "A060", "expected_code_dotted": "A06.0", "source": "cms_alphabetic_index", "path": ["Dysentery, dysenteric", "amebic"]}
+{"query": "amebic chronic Enteritis", "expected_code": "A061", "expected_code_dotted": "A06.1", "source": "cms_alphabetic_index", "path": ["Enteritis", "amebic", "chronic"]}
+{"query": "amnesic alcohol-induced Disorder", "expected_code": "F1096", "expected_code_dotted": "F10.96", "source": "cms_alphabetic_index", "path": ["Disorder", "amnesic, amnestic", "alcohol-induced"]}
+{"query": "amnesic psychoactive NEC-induced Disorder", "expected_code": "F1996", "expected_code_dotted": "F19.96", "source": "cms_alphabetic_index", "path": ["Disorder", "amnesic, amnestic", "psychoactive NEC-induced"]}
+{"query": "anerobic Abscess", "expected_code": "A480", "expected_code_dotted": "A48.0", "source": "cms_alphabetic_index", "path": ["Abscess", "anerobic"]}
+{"query": "ankle first degree Burn", "expected_code": "T25119", "expected_code_dotted": "T25.119", "source": "cms_alphabetic_index", "path": ["Burn", "ankle", "first degree"]}
+{"query": "anomalous Rotation", "expected_code": "Q433", "expected_code_dotted": "Q43.3", "source": "cms_alphabetic_index", "path": ["Rotation", "anomalous, incomplete or insufficient, intestine"]}
+{"query": "anus congenital Stricture", "expected_code": "Q423", "expected_code_dotted": "Q42.3", "source": "cms_alphabetic_index", "path": ["Stricture", "anus", "congenital"]}
+{"query": "aorta Hematoma", "expected_code": "I7100", "expected_code_dotted": "I71.00", "source": "cms_alphabetic_index", "path": ["Hematoma", "aorta, dissecting"]}
+{"query": "aorta NEC Anomaly", "expected_code": "Q2540", "expected_code_dotted": "Q25.40", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "aorta NEC"]}
+{"query": "aorta descending Aneurysm", "expected_code": "I719", "expected_code_dotted": "I71.9", "source": "cms_alphabetic_index", "path": ["Aneurysm", "aorta, aortic", "descending"]}
+{"query": "aorta terminal Thrombosis", "expected_code": "I7409", "expected_code_dotted": "I74.09", "source": "cms_alphabetic_index", "path": ["Thrombosis, thrombotic", "aorta, aortic", "terminal"]}
+{"query": "aorta thoracic ruptured Aneurysm", "expected_code": "I7110", "expected_code_dotted": "I71.10", "source": "cms_alphabetic_index", "path": ["Aneurysm", "aorta, aortic", "thoracic", "ruptured"]}
+{"query": "apical Cyst", "expected_code": "K048", "expected_code_dotted": "K04.8", "source": "cms_alphabetic_index", "path": ["Cyst", "apical"]}
+{"query": "aplastic red cell chronic Anemia", "expected_code": "D600", "expected_code_dotted": "D60.0", "source": "cms_alphabetic_index", "path": ["Anemia", "aplastic", "red cell", "chronic"]}
+{"query": "arrhythmia Sinus", "expected_code": "I498", "expected_code_dotted": "I49.8", "source": "cms_alphabetic_index", "path": ["Sinus", "arrhythmia"]}
+{"query": "artefacta Dermatitis", "expected_code": "L981", "expected_code_dotted": "L98.1", "source": "cms_alphabetic_index", "path": ["Dermatitis", "artefacta"]}
+{"query": "arterial generalized Calcification", "expected_code": "E83820", "expected_code_dotted": "E83.820", "source": "cms_alphabetic_index", "path": ["Calcification", "arterial", "generalized, of infancy"]}
+{"query": "artery Obstruction", "expected_code": "I709", "expected_code_dotted": "I70.9", "source": "cms_alphabetic_index", "path": ["Obstruction, obstructed, obstructive", "artery"]}
+{"query": "artery communicating posterior Embolism", "expected_code": "I658", "expected_code_dotted": "I65.8", "source": "cms_alphabetic_index", "path": ["Embolism", "artery", "communicating posterior"]}
+{"query": "artery extremity Embolism", "expected_code": "I744", "expected_code_dotted": "I74.4", "source": "cms_alphabetic_index", "path": ["Embolism", "artery", "extremity"]}
+{"query": "arthropathy Tabes", "expected_code": "A5216", "expected_code_dotted": "A52.16", "source": "cms_alphabetic_index", "path": ["Tabes, tabetic", "arthropathy"]}
+{"query": "ascending NEC Hemiplegia", "expected_code": "G8190", "expected_code_dotted": "G81.90", "source": "cms_alphabetic_index", "path": ["Hemiplegia", "ascending NEC"]}
+{"query": "asphyxiating thoracic Dysplasia", "expected_code": "Q772", "expected_code_dotted": "Q77.2", "source": "cms_alphabetic_index", "path": ["Dysplasia", "asphyxiating thoracic"]}
+{"query": "atopic Dermatitis", "expected_code": "L209", "expected_code_dotted": "L20.9", "source": "cms_alphabetic_index", "path": ["Dermatitis", "atopic"]}
+{"query": "atrium old Thrombosis", "expected_code": "I513", "expected_code_dotted": "I51.3", "source": "cms_alphabetic_index", "path": ["Thrombosis, thrombotic", "atrium, auricular", "old"]}
+{"query": "atrophica Myotonia", "expected_code": "G7111", "expected_code_dotted": "G71.11", "source": "cms_alphabetic_index", "path": ["Myotonia", "atrophica"]}
+{"query": "attention-deficit hyperactivity combined type Disorder", "expected_code": "F902", "expected_code_dotted": "F90.2", "source": "cms_alphabetic_index", "path": ["Disorder", "attention-deficit hyperactivity", "combined", "type"]}
+{"query": "atypical Anemia", "expected_code": "D649", "expected_code_dotted": "D64.9", "source": "cms_alphabetic_index", "path": ["Anemia", "atypical"]}
+{"query": "auricle Noma", "expected_code": "I96", "expected_code_dotted": "I96", "source": "cms_alphabetic_index", "path": ["Noma", "auricle"]}
+{"query": "auricle ear Malformation", "expected_code": "Q173", "expected_code_dotted": "Q17.3", "source": "cms_alphabetic_index", "path": ["Malformation", "auricle", "ear"]}
+{"query": "autoimmune NOS hemolytic warm type Disease", "expected_code": "D5911", "expected_code_dotted": "D59.11", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "autoimmune NOS", "hemolytic", "warm type"]}
+{"query": "automatic implantable cardiac defibrillator Fitting", "expected_code": "Z4502", "expected_code_dotted": "Z45.02", "source": "cms_alphabetic_index", "path": ["Fitting", "automatic implantable cardiac defibrillator"]}
+{"query": "awareness Heart beat", "expected_code": "R002", "expected_code_dotted": "R00.2", "source": "cms_alphabetic_index", "path": ["Heart beat", "awareness"]}
+{"query": "axilla right second degree Burn", "expected_code": "T22241", "expected_code_dotted": "T22.241", "source": "cms_alphabetic_index", "path": ["Burn", "axilla", "right", "second degree"]}
+{"query": "bacterial streptococcal Meningitis", "expected_code": "G002", "expected_code_dotted": "G00.2", "source": "cms_alphabetic_index", "path": ["Meningitis", "bacterial", "streptococcal"]}
+{"query": "basal cell unspecified site Adenocarcinoma", "expected_code": "C089", "expected_code_dotted": "C08.9", "source": "cms_alphabetic_index", "path": ["Adenocarcinoma", "basal cell", "unspecified site"]}
+{"query": "basal metabolic rate Abnormal", "expected_code": "R948", "expected_code_dotted": "R94.8", "source": "cms_alphabetic_index", "path": ["Abnormal, abnormality, abnormalities", "basal metabolic rate"]}
+{"query": "benzene Exposure", "expected_code": "Z77021", "expected_code_dotted": "Z77.021", "source": "cms_alphabetic_index", "path": ["Exposure", "benzene"]}
+{"query": "biliary duct or passage acquired Deformity", "expected_code": "K838", "expected_code_dotted": "K83.8", "source": "cms_alphabetic_index", "path": ["Deformity", "biliary duct or passage", "acquired"]}
+{"query": "bipolar current episode hypomanic Disorder", "expected_code": "F310", "expected_code_dotted": "F31.0", "source": "cms_alphabetic_index", "path": ["Disorder", "bipolar", "current episode", "hypomanic"]}
+{"query": "bladder Filling defect", "expected_code": "R9341", "expected_code_dotted": "R93.41", "source": "cms_alphabetic_index", "path": ["Filling defect", "bladder"]}
+{"query": "bladder Neuropathy", "expected_code": "N319", "expected_code_dotted": "N31.9", "source": "cms_alphabetic_index", "path": ["Neuropathy, neuropathic", "bladder"]}
+{"query": "bladder congenital Deformity", "expected_code": "Q6479", "expected_code_dotted": "Q64.79", "source": "cms_alphabetic_index", "path": ["Deformity", "bladder", "congenital"]}
+{"query": "blood NEC infusion or transfusion reaction Incompatibility", "expected_code": "T8089", "expected_code_dotted": "T80.89", "source": "cms_alphabetic_index", "path": ["Incompatibility", "blood NEC", "infusion or transfusion reaction"]}
+{"query": "body joint Loose", "expected_code": "M2400", "expected_code_dotted": "M24.00", "source": "cms_alphabetic_index", "path": ["Loose", "body", "joint"]}
+{"query": "bone Anomaly", "expected_code": "Q799", "expected_code_dotted": "Q79.9", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "bone"]}
+{"query": "bone face Malformation", "expected_code": "Q759", "expected_code_dotted": "Q75.9", "source": "cms_alphabetic_index", "path": ["Malformation", "bone", "face"]}
+{"query": "bones Recklinghausen disease", "expected_code": "E210", "expected_code_dotted": "E21.0", "source": "cms_alphabetic_index", "path": ["Recklinghausen disease", "bones"]}
+{"query": "bowel following ectopic or molar pregnancy Laceration", "expected_code": "O086", "expected_code_dotted": "O08.6", "source": "cms_alphabetic_index", "path": ["Laceration", "bowel", "following ectopic or molar pregnancy"]}
+{"query": "brain Aneurysm", "expected_code": "I671", "expected_code_dotted": "I67.1", "source": "cms_alphabetic_index", "path": ["Aneurysm", "brain"]}
+{"query": "brain Cyst", "expected_code": "G930", "expected_code_dotted": "G93.0", "source": "cms_alphabetic_index", "path": ["Cyst", "brain"]}
+{"query": "breast Density", "expected_code": "R9230", "expected_code_dotted": "R92.30", "source": "cms_alphabetic_index", "path": ["Density", "breast"]}
+{"query": "bronchi fistula primary Tuberculosis", "expected_code": "A157", "expected_code_dotted": "A15.7", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "bronchi, bronchial, bronchus", "fistula", "primary"]}
+{"query": "bronchus Absence", "expected_code": "Q324", "expected_code_dotted": "Q32.4", "source": "cms_alphabetic_index", "path": ["Absence", "bronchus"]}
+{"query": "bronchus Spasm", "expected_code": "J9801", "expected_code_dotted": "J98.01", "source": "cms_alphabetic_index", "path": ["Spasm, spastic, spasticity", "bronchus, bronchiole"]}
+{"query": "brow Blister", "expected_code": "S0082", "expected_code_dotted": "S00.82", "source": "cms_alphabetic_index", "path": ["Blister", "brow"]}
+{"query": "burning feet Syndrome", "expected_code": "E539", "expected_code_dotted": "E53.9", "source": "cms_alphabetic_index", "path": ["Syndrome", "burning feet"]}
+{"query": "canal of Nuck congenital Cyst", "expected_code": "Q524", "expected_code_dotted": "Q52.4", "source": "cms_alphabetic_index", "path": ["Cyst", "canal of Nuck", "congenital"]}
+{"query": "capitis Perifolliculitis", "expected_code": "L663", "expected_code_dotted": "L66.3", "source": "cms_alphabetic_index", "path": ["Perifolliculitis", "capitis, abscedens"]}
+{"query": "carbohydrate absorption Disorder", "expected_code": "E7439", "expected_code_dotted": "E74.39", "source": "cms_alphabetic_index", "path": ["Disorder", "carbohydrate", "absorption, intestinal NEC"]}
+{"query": "carcinoid benign jejunum Tumor", "expected_code": "D3A011", "expected_code_dotted": "D3A.011", "source": "cms_alphabetic_index", "path": ["Tumor", "carcinoid", "benign", "jejunum"]}
+{"query": "cardiac valve NEC pulmonary Anomaly", "expected_code": "Q223", "expected_code_dotted": "Q22.3", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "cardiac", "valve NEC", "pulmonary"]}
+{"query": "cardiac with rheumatic fever active Hypertrophy", "expected_code": "I018", "expected_code_dotted": "I01.8", "source": "cms_alphabetic_index", "path": ["Hypertrophy, hypertrophic", "cardiac", "with rheumatic fever", "active"]}
+{"query": "cardiopathy Alcohol", "expected_code": "I426", "expected_code_dotted": "I42.6", "source": "cms_alphabetic_index", "path": ["Alcohol, alcoholic, alcohol-induced", "cardiopathy"]}
+{"query": "cardiorenal Failure", "expected_code": "I509", "expected_code_dotted": "I50.9", "source": "cms_alphabetic_index", "path": ["Failure, failed", "cardiorenal"]}
+{"query": "cardiovascular congenital Disease", "expected_code": "Q289", "expected_code_dotted": "Q28.9", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "cardiovascular", "congenital"]}
+{"query": "carnitine due to hemodialysis Deficiency", "expected_code": "E7143", "expected_code_dotted": "E71.43", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "carnitine", "due to", "hemodialysis"]}
+{"query": "carotid sinus Syncope", "expected_code": "G9001", "expected_code_dotted": "G90.01", "source": "cms_alphabetic_index", "path": ["Syncope", "carotid sinus"]}
+{"query": "carrier hemophilia A Genetic", "expected_code": "Z1401", "expected_code_dotted": "Z14.01", "source": "cms_alphabetic_index", "path": ["Genetic", "carrier", "hemophilia A"]}
+{"query": "catarrhal Laryngitis", "expected_code": "J370", "expected_code_dotted": "J37.0", "source": "cms_alphabetic_index", "path": ["Laryngitis", "catarrhal"]}
+{"query": "catatonia Disorder", "expected_code": "F061", "expected_code_dotted": "F06.1", "source": "cms_alphabetic_index", "path": ["Disorder", "catatonia"]}
+{"query": "catecholamine Overproduction", "expected_code": "E275", "expected_code_dotted": "E27.5", "source": "cms_alphabetic_index", "path": ["Overproduction", "catecholamine"]}
+{"query": "cavernous skin Hemangioma", "expected_code": "D1801", "expected_code_dotted": "D18.01", "source": "cms_alphabetic_index", "path": ["Hemangioma", "cavernous", "skin"]}
+{"query": "cavum septi pellucidi Dilatation", "expected_code": "Q068", "expected_code_dotted": "Q06.8", "source": "cms_alphabetic_index", "path": ["Dilatation", "cavum septi pellucidi"]}
+{"query": "cecum Accessory", "expected_code": "Q434", "expected_code_dotted": "Q43.4", "source": "cms_alphabetic_index", "path": ["Accessory", "cecum"]}
+{"query": "cerebellar with retained tendon reflexes Ataxia", "expected_code": "G1119", "expected_code_dotted": "G11.19", "source": "cms_alphabetic_index", "path": ["Ataxia, ataxy, ataxic", "cerebellar", "with", "retained tendon reflexes"]}
+{"query": "cerebral monoplegic Palsy", "expected_code": "G808", "expected_code_dotted": "G80.8", "source": "cms_alphabetic_index", "path": ["Palsy", "cerebral", "monoplegic"]}
+{"query": "cerebral paraplegic spastic Palsy", "expected_code": "G801", "expected_code_dotted": "G80.1", "source": "cms_alphabetic_index", "path": ["Palsy", "cerebral", "paraplegic", "spastic"]}
+{"query": "cerebral spastic diplegic Palsy", "expected_code": "G801", "expected_code_dotted": "G80.1", "source": "cms_alphabetic_index", "path": ["Palsy", "cerebral", "spastic", "diplegic"]}
+{"query": "cerebrospinal fluid spinal spontaneous Leak", "expected_code": "G9602", "expected_code_dotted": "G96.02", "source": "cms_alphabetic_index", "path": ["Leak, leakage", "cerebrospinal fluid", "spinal", "spontaneous"]}
+{"query": "cerebrovascular Arteriosclerosis", "expected_code": "I672", "expected_code_dotted": "I67.2", "source": "cms_alphabetic_index", "path": ["Arteriosclerosis, arteriosclerotic", "cerebrovascular"]}
+{"query": "cerebrovascular chronic Stroke", "expected_code": "Z8673", "expected_code_dotted": "Z86.73", "source": "cms_alphabetic_index", "path": ["Stroke", "cerebrovascular", "chronic"]}
+{"query": "cervicothoracic outlet Syndrome", "expected_code": "G540", "expected_code_dotted": "G54.0", "source": "cms_alphabetic_index", "path": ["Syndrome", "cervicothoracic outlet"]}
+{"query": "cervix Imperforate", "expected_code": "Q51828", "expected_code_dotted": "Q51.828", "source": "cms_alphabetic_index", "path": ["Imperforate", "cervix"]}
+{"query": "cervix Stricture", "expected_code": "N882", "expected_code_dotted": "N88.2", "source": "cms_alphabetic_index", "path": ["Stricture", "cervix, cervical"]}
+{"query": "cervix following ectopic or molar pregnancy Laceration", "expected_code": "O086", "expected_code_dotted": "O08.6", "source": "cms_alphabetic_index", "path": ["Laceration", "cervix", "following ectopic or molar pregnancy"]}
+{"query": "cervix uteri in situ specified site NEC Carcinoma", "expected_code": "D067", "expected_code_dotted": "D06.7", "source": "cms_alphabetic_index", "path": ["Carcinoma", "cervix uteri", "in situ", "specified site NEC"]}
+{"query": "cesarean breech presentation Delivery", "expected_code": "O321", "expected_code_dotted": "O32.1", "source": "cms_alphabetic_index", "path": ["Delivery", "cesarean", "breech presentation"]}
+{"query": "checking Intrauterine contraceptive device", "expected_code": "Z30431", "expected_code_dotted": "Z30.431", "source": "cms_alphabetic_index", "path": ["Intrauterine contraceptive device", "checking"]}
+{"query": "chemistry pancytopenia Abnormal", "expected_code": "D61818", "expected_code_dotted": "D61.818", "source": "cms_alphabetic_index", "path": ["Abnormal, abnormality, abnormalities", "chemistry, blood", "pancytopenia"]}
+{"query": "chest wall Corrosion", "expected_code": "T2141", "expected_code_dotted": "T21.41", "source": "cms_alphabetic_index", "path": ["Corrosion", "chest wall"]}
+{"query": "chest wall bones Anomaly", "expected_code": "Q769", "expected_code_dotted": "Q76.9", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "chest wall", "bones"]}
+{"query": "chin Contusion", "expected_code": "S0083", "expected_code_dotted": "S00.83", "source": "cms_alphabetic_index", "path": ["Contusion", "chin"]}
+{"query": "choroid plexus anaplastic Papilloma", "expected_code": "C715", "expected_code_dotted": "C71.5", "source": "cms_alphabetic_index", "path": ["Papilloma", "choroid plexus", "anaplastic"]}
+{"query": "chromosomal balanced specified NEC Rearrangement", "expected_code": "Q958", "expected_code_dotted": "Q95.8", "source": "cms_alphabetic_index", "path": ["Rearrangement", "chromosomal", "balanced", "specified NEC"]}
+{"query": "chronic Epiglottitis", "expected_code": "J370", "expected_code_dotted": "J37.0", "source": "cms_alphabetic_index", "path": ["Epiglottitis, epiglottiditis", "chronic"]}
+{"query": "chronic Fatigue", "expected_code": "R5382", "expected_code_dotted": "R53.82", "source": "cms_alphabetic_index", "path": ["Fatigue", "chronic"]}
+{"query": "chronic hemolytic Anemia", "expected_code": "D589", "expected_code_dotted": "D58.9", "source": "cms_alphabetic_index", "path": ["Anemia", "chronic", "hemolytic"]}
+{"query": "chronic hemolytic idiopathic Anemia", "expected_code": "D599", "expected_code_dotted": "D59.9", "source": "cms_alphabetic_index", "path": ["Anemia", "chronic", "hemolytic", "idiopathic"]}
+{"query": "chronic progressive segmentally demyelinating Neuropathy", "expected_code": "G6289", "expected_code_dotted": "G62.89", "source": "cms_alphabetic_index", "path": ["Neuropathy, neuropathic", "chronic", "progressive segmentally demyelinating"]}
+{"query": "chronic rheumatic Myopericarditis", "expected_code": "I092", "expected_code_dotted": "I09.2", "source": "cms_alphabetic_index", "path": ["Myopericarditis", "chronic rheumatic"]}
+{"query": "chronic with laryngitis Tracheitis", "expected_code": "J371", "expected_code_dotted": "J37.1", "source": "cms_alphabetic_index", "path": ["Tracheitis", "chronic", "with", "laryngitis"]}
+{"query": "class 1 Obesity", "expected_code": "E66811", "expected_code_dotted": "E66.811", "source": "cms_alphabetic_index", "path": ["Obesity", "class", "1"]}
+{"query": "climacteric Melancholia", "expected_code": "F3289", "expected_code_dotted": "F32.89", "source": "cms_alphabetic_index", "path": ["Melancholia", "climacteric"]}
+{"query": "climacteric Metrorrhagia", "expected_code": "N924", "expected_code_dotted": "N92.4", "source": "cms_alphabetic_index", "path": ["Metrorrhagia", "climacteric"]}
+{"query": "clinical research subject Investigation", "expected_code": "Z006", "expected_code_dotted": "Z00.6", "source": "cms_alphabetic_index", "path": ["Investigation", "clinical research subject"]}
+{"query": "coccidial Diarrhea", "expected_code": "A073", "expected_code_dotted": "A07.3", "source": "cms_alphabetic_index", "path": ["Diarrhea, diarrheal", "coccidial"]}
+{"query": "combined glucocorticoid and mineralocorticoid Deficiency", "expected_code": "E2749", "expected_code_dotted": "E27.49", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "combined glucocorticoid and mineralocorticoid"]}
+{"query": "combined spinal sclerosis Syphilis", "expected_code": "A5211", "expected_code_dotted": "A52.11", "source": "cms_alphabetic_index", "path": ["Syphilis, syphilitic", "combined spinal sclerosis"]}
+{"query": "complicated by infection intrauterine Pregnancy", "expected_code": "O4112", "expected_code_dotted": "O41.12", "source": "cms_alphabetic_index", "path": ["Pregnancy", "complicated by", "infection", "intrauterine"]}
+{"query": "complicated by intrauterine fetal death Pregnancy", "expected_code": "O364", "expected_code_dotted": "O36.4", "source": "cms_alphabetic_index", "path": ["Pregnancy", "complicated by", "intrauterine fetal death"]}
+{"query": "complicated by intrauterine fetal death early pregnancy Pregnancy", "expected_code": "O021", "expected_code_dotted": "O02.1", "source": "cms_alphabetic_index", "path": ["Pregnancy", "complicated by", "intrauterine fetal death", "early pregnancy"]}
+{"query": "complicating ectopic or molar pregnancy Uremia", "expected_code": "O084", "expected_code_dotted": "O08.4", "source": "cms_alphabetic_index", "path": ["Uremia, uremic", "complicating", "ectopic or molar pregnancy"]}
+{"query": "comply with dietary regimen Inability to", "expected_code": "Z91118", "expected_code_dotted": "Z91.118", "source": "cms_alphabetic_index", "path": ["Inability to", "comply with dietary regimen"]}
+{"query": "compression during NOS Birth", "expected_code": "P159", "expected_code_dotted": "P15.9", "source": "cms_alphabetic_index", "path": ["Birth", "compression during NOS"]}
+{"query": "congenital Honeycomb lung", "expected_code": "Q330", "expected_code_dotted": "Q33.0", "source": "cms_alphabetic_index", "path": ["Honeycomb lung", "congenital"]}
+{"query": "congenital NEC Malaria", "expected_code": "P374", "expected_code_dotted": "P37.4", "source": "cms_alphabetic_index", "path": ["Malaria, malarial", "congenital NEC"]}
+{"query": "congenital NEC kidney more than one Cyst", "expected_code": "Q6102", "expected_code_dotted": "Q61.02", "source": "cms_alphabetic_index", "path": ["Cyst", "congenital NEC", "kidney", "more than one"]}
+{"query": "congenital Scoliosis", "expected_code": "Q675", "expected_code_dotted": "Q67.5", "source": "cms_alphabetic_index", "path": ["Scoliosis", "congenital"]}
+{"query": "congenital Tabes", "expected_code": "A5045", "expected_code_dotted": "A50.45", "source": "cms_alphabetic_index", "path": ["Tabes, tabetic", "congenital"]}
+{"query": "congenital aplastic Anemia", "expected_code": "D6109", "expected_code_dotted": "D61.09", "source": "cms_alphabetic_index", "path": ["Anemia", "congenital", "aplastic"]}
+{"query": "congenital hip Malposition", "expected_code": "Q6589", "expected_code_dotted": "Q65.89", "source": "cms_alphabetic_index", "path": ["Malposition", "congenital", "hip"]}
+{"query": "congenital intestine with anomalous adhesions Malposition", "expected_code": "Q433", "expected_code_dotted": "Q43.3", "source": "cms_alphabetic_index", "path": ["Malposition", "congenital", "intestine", "with anomalous adhesions, fixation or malrotation"]}
+{"query": "conjunctiva newborn Hemorrhage", "expected_code": "P548", "expected_code_dotted": "P54.8", "source": "cms_alphabetic_index", "path": ["Hemorrhage, hemorrhagic", "conjunctiva", "newborn"]}
+{"query": "conjunctiva specified NEC Disease", "expected_code": "H1189", "expected_code_dotted": "H11.89", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "conjunctiva", "specified NEC"]}
+{"query": "contact due to specified agent NEC Dermatitis", "expected_code": "L258", "expected_code_dotted": "L25.8", "source": "cms_alphabetic_index", "path": ["Dermatitis", "contact", "due to", "specified agent NEC"]}
+{"query": "contagiosa Sycosis", "expected_code": "B350", "expected_code_dotted": "B35.0", "source": "cms_alphabetic_index", "path": ["Sycosis", "contagiosa"]}
+{"query": "continued Malaria", "expected_code": "B509", "expected_code_dotted": "B50.9", "source": "cms_alphabetic_index", "path": ["Malaria, malarial", "continued"]}
+{"query": "convolutions uterine tube Persistence", "expected_code": "Q506", "expected_code_dotted": "Q50.6", "source": "cms_alphabetic_index", "path": ["Persistence, persistent", "convolutions", "uterine tube"]}
+{"query": "cord spermatic Injury", "expected_code": "S37898", "expected_code_dotted": "S37.898", "source": "cms_alphabetic_index", "path": ["Injury", "cord", "spermatic"]}
+{"query": "cornual with intrauterine pregnancy Pregnancy", "expected_code": "O0081", "expected_code_dotted": "O00.81", "source": "cms_alphabetic_index", "path": ["Pregnancy", "cornual", "with intrauterine pregnancy"]}
+{"query": "crinium Fragilitas", "expected_code": "L678", "expected_code_dotted": "L67.8", "source": "cms_alphabetic_index", "path": ["Fragilitas", "crinium"]}
+{"query": "crush Syndrome", "expected_code": "T795", "expected_code_dotted": "T79.5", "source": "cms_alphabetic_index", "path": ["Syndrome", "crush"]}
+{"query": "culture sputum Positive", "expected_code": "R845", "expected_code_dotted": "R84.5", "source": "cms_alphabetic_index", "path": ["Positive", "culture", "sputum"]}
+{"query": "custody dispute Child", "expected_code": "Z653", "expected_code_dotted": "Z65.3", "source": "cms_alphabetic_index", "path": ["Child", "custody dispute"]}
+{"query": "cyst male testicular Morgagni's", "expected_code": "Q5529", "expected_code_dotted": "Q55.29", "source": "cms_alphabetic_index", "path": ["Morgagni's", "cyst, organ, hydatid, or appendage", "male", "testicular"]}
+{"query": "cystic Mesothelioma", "expected_code": "D484", "expected_code_dotted": "D48.4", "source": "cms_alphabetic_index", "path": ["Mesothelioma", "cystic"]}
+{"query": "cystic duct acquired Deformity", "expected_code": "K828", "expected_code_dotted": "K82.8", "source": "cms_alphabetic_index", "path": ["Deformity", "cystic duct", "acquired"]}
+{"query": "cytomegaloviral Disease", "expected_code": "B259", "expected_code_dotted": "B25.9", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "cytomegaloviral"]}
+{"query": "deficiency phosphoglycerate kinase Anemia", "expected_code": "D5529", "expected_code_dotted": "D55.29", "source": "cms_alphabetic_index", "path": ["Anemia", "deficiency", "phosphoglycerate kinase"]}
+{"query": "delayed specified learning skill NEC Development", "expected_code": "F8189", "expected_code_dotted": "F81.89", "source": "cms_alphabetic_index", "path": ["Development", "delayed", "specified learning skill NEC"]}
+{"query": "demyelinating Syndrome", "expected_code": "G379", "expected_code_dotted": "G37.9", "source": "cms_alphabetic_index", "path": ["Syndrome", "demyelinating"]}
+{"query": "dendritic Keratitis", "expected_code": "B0052", "expected_code_dotted": "B00.52", "source": "cms_alphabetic_index", "path": ["Keratitis", "dendritic"]}
+{"query": "dental Sequestrum", "expected_code": "M272", "expected_code_dotted": "M27.2", "source": "cms_alphabetic_index", "path": ["Sequestrum", "dental"]}
+{"query": "dental arch relationship specified NEC Anomaly", "expected_code": "M2629", "expected_code_dotted": "M26.29", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "dental", "arch relationship", "specified NEC"]}
+{"query": "dentinal papilla Calcification", "expected_code": "K004", "expected_code_dotted": "K00.4", "source": "cms_alphabetic_index", "path": ["Calcification", "dentinal papilla"]}
+{"query": "detergent Asthma", "expected_code": "J698", "expected_code_dotted": "J69.8", "source": "cms_alphabetic_index", "path": ["Asthma, asthmatic", "detergent"]}
+{"query": "developmental pervasive Disorder", "expected_code": "F849", "expected_code_dotted": "F84.9", "source": "cms_alphabetic_index", "path": ["Disorder", "developmental", "pervasive"]}
+{"query": "device NEC Presence", "expected_code": "Z978", "expected_code_dotted": "Z97.8", "source": "cms_alphabetic_index", "path": ["Presence", "device NEC"]}
+{"query": "device catheter NEC ileostomy Obstruction", "expected_code": "T83098", "expected_code_dotted": "T83.098", "source": "cms_alphabetic_index", "path": ["Obstruction, obstructed, obstructive", "device, implant or graft", "catheter NEC", "ileostomy"]}
+{"query": "device reinsertion Contraception", "expected_code": "Z30433", "expected_code_dotted": "Z30.433", "source": "cms_alphabetic_index", "path": ["Contraception, contraceptive", "device", "reinsertion"]}
+{"query": "diagnostic imaging coronary circulation Abnormal", "expected_code": "R931", "expected_code_dotted": "R93.1", "source": "cms_alphabetic_index", "path": ["Abnormal, abnormality, abnormalities", "diagnostic imaging", "coronary circulation"]}
+{"query": "diaphragm Eventration", "expected_code": "Q791", "expected_code_dotted": "Q79.1", "source": "cms_alphabetic_index", "path": ["Eventration", "diaphragm"]}
+{"query": "diet Inadequate", "expected_code": "E639", "expected_code_dotted": "E63.9", "source": "cms_alphabetic_index", "path": ["Inadequate, inadequacy", "diet"]}
+{"query": "dietary hypercholesterolemia Supervision", "expected_code": "Z713", "expected_code_dotted": "Z71.3", "source": "cms_alphabetic_index", "path": ["Supervision", "dietary", "hypercholesterolemia"]}
+{"query": "difficulty Walking", "expected_code": "R262", "expected_code_dotted": "R26.2", "source": "cms_alphabetic_index", "path": ["Walking", "difficulty"]}
+{"query": "diffuse sclerosing Encephalitis", "expected_code": "A811", "expected_code_dotted": "A81.1", "source": "cms_alphabetic_index", "path": ["Encephalitis", "diffuse sclerosing"]}
+{"query": "dilated Cardiomyopathy", "expected_code": "I420", "expected_code_dotted": "I42.0", "source": "cms_alphabetic_index", "path": ["Cardiomyopathy", "dilated"]}
+{"query": "diphasic Meningoencephalitis", "expected_code": "A841", "expected_code_dotted": "A84.1", "source": "cms_alphabetic_index", "path": ["Meningoencephalitis", "diphasic"]}
+{"query": "disease tubo-ovarian Puerperal", "expected_code": "O8619", "expected_code_dotted": "O86.19", "source": "cms_alphabetic_index", "path": ["Puerperal, puerperium", "disease", "tubo-ovarian"]}
+{"query": "disorganized Schizophrenia", "expected_code": "F201", "expected_code_dotted": "F20.1", "source": "cms_alphabetic_index", "path": ["Schizophrenia, schizophrenic", "disorganized"]}
+{"query": "disseminated Coccidioidomycosis", "expected_code": "B387", "expected_code_dotted": "B38.7", "source": "cms_alphabetic_index", "path": ["Coccidioidomycosis", "disseminated"]}
+{"query": "disseminated Sporotrichosis", "expected_code": "B427", "expected_code_dotted": "B42.7", "source": "cms_alphabetic_index", "path": ["Sporotrichosis", "disseminated"]}
+{"query": "dissociative affecting motor function Disorder", "expected_code": "F444", "expected_code_dotted": "F44.4", "source": "cms_alphabetic_index", "path": ["Disorder", "dissociative", "affecting", "motor function"]}
+{"query": "divergence Insufficiency", "expected_code": "H518", "expected_code_dotted": "H51.8", "source": "cms_alphabetic_index", "path": ["Insufficiency, insufficient", "divergence"]}
+{"query": "dorsal Sprain", "expected_code": "S233", "expected_code_dotted": "S23.3", "source": "cms_alphabetic_index", "path": ["Sprain", "dorsal"]}
+{"query": "dorsum of hand second degree Burn", "expected_code": "T23269", "expected_code_dotted": "T23.269", "source": "cms_alphabetic_index", "path": ["Burn", "dorsum of hand", "second degree"]}
+{"query": "dot cataract Blue", "expected_code": "Q120", "expected_code_dotted": "Q12.0", "source": "cms_alphabetic_index", "path": ["Blue", "dot cataract"]}
+{"query": "drug birth control pill or patch Therapy", "expected_code": "Z793", "expected_code_dotted": "Z79.3", "source": "cms_alphabetic_index", "path": ["Therapy", "drug, long-term", "birth control pill or patch"]}
+{"query": "drug induced NEC Dystonia", "expected_code": "G2409", "expected_code_dotted": "G24.09", "source": "cms_alphabetic_index", "path": ["Dystonia", "drug induced NEC"]}
+{"query": "drug related Disorder", "expected_code": "F1999", "expected_code_dotted": "F19.99", "source": "cms_alphabetic_index", "path": ["Disorder", "drug related"]}
+{"query": "ductus arteriosus Deformity", "expected_code": "Q250", "expected_code_dotted": "Q25.0", "source": "cms_alphabetic_index", "path": ["Deformity", "ductus arteriosus"]}
+{"query": "due to Demodex species Dermatitis", "expected_code": "B8801", "expected_code_dotted": "B88.01", "source": "cms_alphabetic_index", "path": ["Dermatitis", "due to", "Demodex species"]}
+{"query": "due to Dermanyssus gallinae Dermatitis", "expected_code": "B8809", "expected_code_dotted": "B88.09", "source": "cms_alphabetic_index", "path": ["Dermatitis", "due to", "Dermanyssus gallinae"]}
+{"query": "due to E. chaffeensis Ehrlichiosis", "expected_code": "A7741", "expected_code_dotted": "A77.41", "source": "cms_alphabetic_index", "path": ["Ehrlichiosis", "due to", "E. chaffeensis"]}
+{"query": "due to Haemophilus ducreyi Bubo", "expected_code": "A57", "expected_code_dotted": "A57", "source": "cms_alphabetic_index", "path": ["Bubo", "due to Haemophilus ducreyi"]}
+{"query": "due to Necator americanus Anemia", "expected_code": "B761", "expected_code_dotted": "B76.1", "source": "cms_alphabetic_index", "path": ["Anemia", "due to", "Necator americanus"]}
+{"query": "due to astrovirus Enteritis", "expected_code": "A0832", "expected_code_dotted": "A08.32", "source": "cms_alphabetic_index", "path": ["Enteritis", "due to", "astrovirus"]}
+{"query": "due to common cold Postnasal drip", "expected_code": "J00", "expected_code_dotted": "J00", "source": "cms_alphabetic_index", "path": ["Postnasal drip", "due to", "common cold"]}
+{"query": "due to device catheter NEC urethral indwelling Sepsis", "expected_code": "T83511", "expected_code_dotted": "T83.511", "source": "cms_alphabetic_index", "path": ["Sepsis", "due to device, implant or graft", "catheter NEC", "urethral indwelling"]}
+{"query": "due to device catheter NEC urinary Fibrosis", "expected_code": "T8382", "expected_code_dotted": "T83.82", "source": "cms_alphabetic_index", "path": ["Fibrosis, fibrotic", "due to device, implant or graft", "catheter NEC", "urinary"]}
+{"query": "due to device electronic cardiac Thrombosis", "expected_code": "T82867", "expected_code_dotted": "T82.867", "source": "cms_alphabetic_index", "path": ["Thrombosis, thrombotic", "due to device, implant or graft", "electronic", "cardiac"]}
+{"query": "due to drug NEC use Parasomnia", "expected_code": "F19982", "expected_code_dotted": "F19.982", "source": "cms_alphabetic_index", "path": ["Parasomnia", "due to", "drug NEC", "use"]}
+{"query": "due to drug or chemical with arthropathy NEC Diabetes", "expected_code": "E09618", "expected_code_dotted": "E09.618", "source": "cms_alphabetic_index", "path": ["Diabetes, diabetic", "due to drug or chemical", "with", "arthropathy NEC"]}
+{"query": "due to drugs Circulating anticoagulants", "expected_code": "D6832", "expected_code_dotted": "D68.32", "source": "cms_alphabetic_index", "path": ["Circulating anticoagulants", "due to drugs"]}
+{"query": "due to drugs Porphyria", "expected_code": "E8020", "expected_code_dotted": "E80.20", "source": "cms_alphabetic_index", "path": ["Porphyria", "due to drugs"]}
+{"query": "due to extracorporeal circulation of blood Thrombocytopenia", "expected_code": "D6959", "expected_code_dotted": "D69.59", "source": "cms_alphabetic_index", "path": ["Thrombocytopenia, thrombocytopenic", "due to", "extracorporeal circulation of blood"]}
+{"query": "due to fluke infestation Cholangiohepatitis", "expected_code": "B661", "expected_code_dotted": "B66.1", "source": "cms_alphabetic_index", "path": ["Cholangiohepatitis", "due to fluke infestation"]}
+{"query": "due to gene mutation nuclear receptor coactivator 1 Obesity", "expected_code": "E8882", "expected_code_dotted": "E88.82", "source": "cms_alphabetic_index", "path": ["Obesity", "due to", "gene mutation", "nuclear receptor coactivator 1"]}
+{"query": "due to light NEC acute Dermatitis", "expected_code": "L568", "expected_code_dotted": "L56.8", "source": "cms_alphabetic_index", "path": ["Dermatitis", "due to", "light NEC", "acute"]}
+{"query": "due to neoplastic disease NEC specified site NEC Fracture", "expected_code": "M8458", "expected_code_dotted": "M84.58", "source": "cms_alphabetic_index", "path": ["Fracture, pathological", "due to", "neoplastic disease NEC", "specified site NEC"]}
+{"query": "due to or associated with acromegaly Arthritis", "expected_code": "E220", "expected_code_dotted": "E22.0", "source": "cms_alphabetic_index", "path": ["Arthritis, arthritic", "due to or associated with", "acromegaly"]}
+{"query": "due to or resulting from device breast Infection", "expected_code": "T8579", "expected_code_dotted": "T85.79", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "due to or resulting from", "device, implant or graft", "breast"]}
+{"query": "due to or resulting from umbilical venous catheter specified NEC Infection", "expected_code": "T80218", "expected_code_dotted": "T80.218", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "due to or resulting from", "umbilical venous catheter", "specified NEC"]}
+{"query": "due to petroleum products Dermatitis", "expected_code": "L242", "expected_code_dotted": "L24.2", "source": "cms_alphabetic_index", "path": ["Dermatitis", "due to", "petroleum products"]}
+{"query": "due to psychoactive substance NEC dependence Insomnia", "expected_code": "F19282", "expected_code_dotted": "F19.282", "source": "cms_alphabetic_index", "path": ["Insomnia", "due to", "psychoactive substance NEC", "dependence"]}
+{"query": "due to renal disorders NEC Hypertension", "expected_code": "I151", "expected_code_dotted": "I15.1", "source": "cms_alphabetic_index", "path": ["Hypertension, hypertensive", "due to", "renal disorders NEC"]}
+{"query": "due to resorcinol Hypothyroidism", "expected_code": "E032", "expected_code_dotted": "E03.2", "source": "cms_alphabetic_index", "path": ["Hypothyroidism", "due to", "resorcinol"]}
+{"query": "due to sedative dependence Parasomnia", "expected_code": "F13282", "expected_code_dotted": "F13.282", "source": "cms_alphabetic_index", "path": ["Parasomnia", "due to", "sedative, hypnotic, or anxiolytic", "dependence"]}
+{"query": "due to stimulant NEC use Insomnia", "expected_code": "F15982", "expected_code_dotted": "F15.982", "source": "cms_alphabetic_index", "path": ["Insomnia", "due to", "stimulant NEC", "use"]}
+{"query": "due to underlying condition with gastroparesis Diabetes", "expected_code": "E0843", "expected_code_dotted": "E08.43", "source": "cms_alphabetic_index", "path": ["Diabetes, diabetic", "due to underlying condition", "with", "gastroparesis"]}
+{"query": "duodenum Hypertrophy", "expected_code": "K3189", "expected_code_dotted": "K31.89", "source": "cms_alphabetic_index", "path": ["Hypertrophy, hypertrophic", "duodenum"]}
+{"query": "dura abscess Tuberculosis", "expected_code": "A1781", "expected_code_dotted": "A17.81", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "dura", "abscess"]}
+{"query": "dyscrasia with ectopic pregnancy Blood", "expected_code": "O081", "expected_code_dotted": "O08.1", "source": "cms_alphabetic_index", "path": ["Blood", "dyscrasia", "with", "ectopic pregnancy"]}
+{"query": "ear middle absence of eustachian tube Malformation", "expected_code": "Q162", "expected_code_dotted": "Q16.2", "source": "cms_alphabetic_index", "path": ["Malformation", "ear", "middle", "absence of eustachian tube"]}
+{"query": "ear procedure postoperative specified NEC Complication", "expected_code": "H9589", "expected_code_dotted": "H95.89", "source": "cms_alphabetic_index", "path": ["Complication", "ear procedure", "postoperative", "specified NEC"]}
+{"query": "ear specified type NEC Malformation", "expected_code": "Q178", "expected_code_dotted": "Q17.8", "source": "cms_alphabetic_index", "path": ["Malformation", "ear", "specified type NEC"]}
+{"query": "ectopic complicated chemical damage of pelvic organ Pregnancy", "expected_code": "O086", "expected_code_dotted": "O08.6", "source": "cms_alphabetic_index", "path": ["Pregnancy", "ectopic", "complicated", "chemical damage of pelvic organ"]}
+{"query": "ectopic complicated salpingitis or salpingo-oophoritis Pregnancy", "expected_code": "O080", "expected_code_dotted": "O08.0", "source": "cms_alphabetic_index", "path": ["Pregnancy", "ectopic", "complicated", "salpingitis or salpingo-oophoritis"]}
+{"query": "ejaculatory duct Anomaly", "expected_code": "Q554", "expected_code_dotted": "Q55.4", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "ejaculatory duct"]}
+{"query": "elbow with foreign body Puncture", "expected_code": "S51049", "expected_code_dotted": "S51.049", "source": "cms_alphabetic_index", "path": ["Puncture", "elbow", "with", "foreign body"]}
+{"query": "electronic stimulator device spinal cord infection and inflammation Complication", "expected_code": "T85733", "expected_code_dotted": "T85.733", "source": "cms_alphabetic_index", "path": ["Complication", "electronic stimulator device", "spinal cord", "infection and inflammation"]}
+{"query": "elimination specified NEC Disorder", "expected_code": "L878", "expected_code_dotted": "L87.8", "source": "cms_alphabetic_index", "path": ["Disorder", "elimination, transepidermal", "specified NEC"]}
+{"query": "enamel Opacity", "expected_code": "K003", "expected_code_dotted": "K00.3", "source": "cms_alphabetic_index", "path": ["Opacity, opacities", "enamel"]}
+{"query": "endocarditis mitral Tuberculosis", "expected_code": "A1884", "expected_code_dotted": "A18.84", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "endocarditis", "mitral"]}
+{"query": "endocrine Neoplasia", "expected_code": "E3120", "expected_code_dotted": "E31.20", "source": "cms_alphabetic_index", "path": ["Neoplasia", "endocrine, multiple"]}
+{"query": "endocrine-hypertensive Syndrome", "expected_code": "E270", "expected_code_dotted": "E27.0", "source": "cms_alphabetic_index", "path": ["Syndrome", "endocrine-hypertensive"]}
+{"query": "endodontic treatment NEC Complication", "expected_code": "M2759", "expected_code_dotted": "M27.59", "source": "cms_alphabetic_index", "path": ["Complication", "endodontic treatment NEC"]}
+{"query": "endometrium simple Hyperplasia", "expected_code": "N8501", "expected_code_dotted": "N85.01", "source": "cms_alphabetic_index", "path": ["Hyperplasia, hyperplastic", "endometrium, endometrial", "simple"]}
+{"query": "enterovesical Fistula", "expected_code": "N321", "expected_code_dotted": "N32.1", "source": "cms_alphabetic_index", "path": ["Fistula", "enterovesical"]}
+{"query": "enterovirus type 70 Conjunctivitis NOS", "expected_code": "B303", "expected_code_dotted": "B30.3", "source": "cms_alphabetic_index", "path": ["Conjunctivitis NOS", "enterovirus type 70"]}
+{"query": "eosinophilic Gastritis", "expected_code": "K5281", "expected_code_dotted": "K52.81", "source": "cms_alphabetic_index", "path": ["Gastritis", "eosinophilic"]}
+{"query": "epidemic Adenitis", "expected_code": "B2709", "expected_code_dotted": "B27.09", "source": "cms_alphabetic_index", "path": ["Adenitis", "epidemic, acute"]}
+{"query": "epithelial vaginal wall Hyperplasia", "expected_code": "N893", "expected_code_dotted": "N89.3", "source": "cms_alphabetic_index", "path": ["Hyperplasia, hyperplastic", "epithelial", "vaginal wall"]}
+{"query": "esophagus causing injury NEC Foreign body", "expected_code": "T18108", "expected_code_dotted": "T18.108", "source": "cms_alphabetic_index", "path": ["Foreign body", "esophagus", "causing", "injury NEC"]}
+{"query": "esophagus with tracheoesophageal fistula Impervious", "expected_code": "Q391", "expected_code_dotted": "Q39.1", "source": "cms_alphabetic_index", "path": ["Impervious", "esophagus", "with tracheoesophageal fistula"]}
+{"query": "eustachian tube Hypoplasia", "expected_code": "Q178", "expected_code_dotted": "Q17.8", "source": "cms_alphabetic_index", "path": ["Hypoplasia, hypoplastic", "eustachian tube"]}
+{"query": "extent 90 percent or more with 20-29 percent third degree burns Burn", "expected_code": "T3192", "expected_code_dotted": "T31.92", "source": "cms_alphabetic_index", "path": ["Burn", "extent", "90 percent or more", "with 20-29 percent third degree burns"]}
+{"query": "externa in viral disease NEC Otitis", "expected_code": "B349", "expected_code_dotted": "B34.9", "source": "cms_alphabetic_index", "path": ["Otitis", "externa", "in", "viral disease NEC"]}
+{"query": "external Hirudiniasis", "expected_code": "B883", "expected_code_dotted": "B88.3", "source": "cms_alphabetic_index", "path": ["Hirudiniasis", "external"]}
+{"query": "external lip Constriction", "expected_code": "S00541", "expected_code_dotted": "S00.541", "source": "cms_alphabetic_index", "path": ["Constriction", "external", "lip"]}
+{"query": "external thorax Constriction", "expected_code": "S2094", "expected_code_dotted": "S20.94", "source": "cms_alphabetic_index", "path": ["Constriction", "external", "thorax, thoracic"]}
+{"query": "extrarenal Uremia", "expected_code": "R392", "expected_code_dotted": "R39.2", "source": "cms_alphabetic_index", "path": ["Uremia, uremic", "extrarenal"]}
+{"query": "eyelid Accessory", "expected_code": "Q103", "expected_code_dotted": "Q10.3", "source": "cms_alphabetic_index", "path": ["Accessory", "eyelid"]}
+{"query": "factors associated with physical conditions Psychogenic", "expected_code": "F54", "expected_code_dotted": "F54", "source": "cms_alphabetic_index", "path": ["Psychogenic", "factors associated with physical conditions"]}
+{"query": "failure Circulation", "expected_code": "R579", "expected_code_dotted": "R57.9", "source": "cms_alphabetic_index", "path": ["Circulation", "failure"]}
+{"query": "falciparum severe Malaria", "expected_code": "B508", "expected_code_dotted": "B50.8", "source": "cms_alphabetic_index", "path": ["Malaria, malarial", "falciparum", "severe"]}
+{"query": "familial homozygous [HoFH] Hypercholesterolemia", "expected_code": "E78010", "expected_code_dotted": "E78.010", "source": "cms_alphabetic_index", "path": ["Hypercholesterolemia", "familial", "homozygous [HoFH]"]}
+{"query": "family disease or disorder endocrine NEC History", "expected_code": "Z8349", "expected_code_dotted": "Z83.49", "source": "cms_alphabetic_index", "path": ["History", "family", "disease or disorder", "endocrine NEC"]}
+{"query": "family substance abuse NEC psychoactive NEC History", "expected_code": "Z813", "expected_code_dotted": "Z81.3", "source": "cms_alphabetic_index", "path": ["History", "family", "substance abuse NEC", "psychoactive NEC"]}
+{"query": "fat skin Necrosis", "expected_code": "P830", "expected_code_dotted": "P83.0", "source": "cms_alphabetic_index", "path": ["Necrosis, necrotic", "fat, fatty", "skin, newborn"]}
+{"query": "faulty bowel habit Syndrome", "expected_code": "K5939", "expected_code_dotted": "K59.39", "source": "cms_alphabetic_index", "path": ["Syndrome", "faulty bowel habit"]}
+{"query": "fava bean Poisoning", "expected_code": "D550", "expected_code_dotted": "D55.0", "source": "cms_alphabetic_index", "path": ["Poisoning", "fava bean"]}
+{"query": "feeble Pulse", "expected_code": "T794", "expected_code_dotted": "T79.4", "source": "cms_alphabetic_index", "path": ["Pulse", "feeble, rapid due to shock following injury"]}
+{"query": "female with uterine prolapse Rectocele", "expected_code": "N814", "expected_code_dotted": "N81.4", "source": "cms_alphabetic_index", "path": ["Rectocele", "female", "with uterine prolapse"]}
+{"query": "fetal circulation Persistence", "expected_code": "P2938", "expected_code_dotted": "P29.38", "source": "cms_alphabetic_index", "path": ["Persistence, persistent", "fetal", "circulation"]}
+{"query": "finger little left Puncture", "expected_code": "S61237", "expected_code_dotted": "S61.237", "source": "cms_alphabetic_index", "path": ["Puncture", "finger", "little", "left"]}
+{"query": "finger multiple sites Corrosion", "expected_code": "T23439", "expected_code_dotted": "T23.439", "source": "cms_alphabetic_index", "path": ["Corrosion", "finger", "multiple sites"]}
+{"query": "finger multiple sites third degree Burn", "expected_code": "T23339", "expected_code_dotted": "T23.339", "source": "cms_alphabetic_index", "path": ["Burn", "finger", "multiple sites", "third degree"]}
+{"query": "fixation device specified type NEC pain Complication", "expected_code": "T8484", "expected_code_dotted": "T84.84", "source": "cms_alphabetic_index", "path": ["Complication", "fixation device, internal", "specified type NEC", "pain"]}
+{"query": "fixation device specified type NEC stenosis Complication", "expected_code": "T8485", "expected_code_dotted": "T84.85", "source": "cms_alphabetic_index", "path": ["Complication", "fixation device, internal", "specified type NEC", "stenosis"]}
+{"query": "flank Puncture", "expected_code": "S3113A", "expected_code_dotted": "S31.13A", "source": "cms_alphabetic_index", "path": ["Puncture", "flank"]}
+{"query": "fluke lung Infestation", "expected_code": "B664", "expected_code_dotted": "B66.4", "source": "cms_alphabetic_index", "path": ["Infestation", "fluke", "lung"]}
+{"query": "fluke sheep liver Infestation", "expected_code": "B663", "expected_code_dotted": "B66.3", "source": "cms_alphabetic_index", "path": ["Infestation", "fluke", "sheep liver"]}
+{"query": "focal and segmental Sclerosis", "expected_code": "N051", "expected_code_dotted": "N05.1", "source": "cms_alphabetic_index", "path": ["Sclerosis, sclerotic", "focal and segmental"]}
+{"query": "follow-up Examination", "expected_code": "Z09", "expected_code_dotted": "Z09", "source": "cms_alphabetic_index", "path": ["Examination", "follow-up"]}
+{"query": "following acute myocardial infarction Angina", "expected_code": "I237", "expected_code_dotted": "I23.7", "source": "cms_alphabetic_index", "path": ["Angina", "following acute myocardial infarction"]}
+{"query": "following intestinal bypass Arthropathy", "expected_code": "M0200", "expected_code_dotted": "M02.00", "source": "cms_alphabetic_index", "path": ["Arthropathy", "following intestinal bypass"]}
+{"query": "following motor vehicle accident Examination", "expected_code": "Z041", "expected_code_dotted": "Z04.1", "source": "cms_alphabetic_index", "path": ["Examination", "following", "motor vehicle accident"]}
+{"query": "following surgery delayed wound closure Aftercare", "expected_code": "Z481", "expected_code_dotted": "Z48.1", "source": "cms_alphabetic_index", "path": ["Aftercare", "following surgery", "delayed wound closure"]}
+{"query": "foot Infection", "expected_code": "L089", "expected_code_dotted": "L08.9", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "foot"]}
+{"query": "foot left third degree Burn", "expected_code": "T25322", "expected_code_dotted": "T25.322", "source": "cms_alphabetic_index", "path": ["Burn", "foot", "left", "third degree"]}
+{"query": "foramen magnum Syndrome", "expected_code": "G935", "expected_code_dotted": "G93.5", "source": "cms_alphabetic_index", "path": ["Syndrome", "foramen magnum"]}
+{"query": "forearm Enthesopathy", "expected_code": "M778", "expected_code_dotted": "M77.8", "source": "cms_alphabetic_index", "path": ["Enthesopathy", "forearm"]}
+{"query": "fourchette following ectopic or molar pregnancy Laceration", "expected_code": "O086", "expected_code_dotted": "O08.6", "source": "cms_alphabetic_index", "path": ["Laceration", "fourchette", "following ectopic or molar pregnancy"]}
+{"query": "fructokinase Deficiency", "expected_code": "E7411", "expected_code_dotted": "E74.11", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "fructokinase"]}
+{"query": "function studies liver Abnormal", "expected_code": "R945", "expected_code_dotted": "R94.5", "source": "cms_alphabetic_index", "path": ["Abnormal, abnormality, abnormalities", "function studies", "liver"]}
+{"query": "function studies nervous system peripheral NEC Abnormal", "expected_code": "R94138", "expected_code_dotted": "R94.138", "source": "cms_alphabetic_index", "path": ["Abnormal, abnormality, abnormalities", "function studies", "nervous system", "peripheral NEC"]}
+{"query": "gangliocytic Paraganglioma", "expected_code": "D132", "expected_code_dotted": "D13.2", "source": "cms_alphabetic_index", "path": ["Paraganglioma", "gangliocytic"]}
+{"query": "gastrointestinal Tularemia", "expected_code": "A213", "expected_code_dotted": "A21.3", "source": "cms_alphabetic_index", "path": ["Tularemia", "gastrointestinal"]}
+{"query": "gastrointestinal postoperative obstruction Complication", "expected_code": "K9130", "expected_code_dotted": "K91.30", "source": "cms_alphabetic_index", "path": ["Complication", "gastrointestinal", "postoperative", "obstruction"]}
+{"query": "geniculate ganglion due to herpes Neuritis", "expected_code": "B0221", "expected_code_dotted": "B02.21", "source": "cms_alphabetic_index", "path": ["Neuritis", "geniculate ganglion", "due to herpes"]}
+{"query": "genital organ NEC female Cellulitis", "expected_code": "N764", "expected_code_dotted": "N76.4", "source": "cms_alphabetic_index", "path": ["Cellulitis", "genital organ NEC", "female"]}
+{"query": "genital organ female Blister", "expected_code": "S30826", "expected_code_dotted": "S30.826", "source": "cms_alphabetic_index", "path": ["Blister", "genital organ", "female"]}
+{"query": "genital organs female superficial NEC Bite", "expected_code": "S30876", "expected_code_dotted": "S30.876", "source": "cms_alphabetic_index", "path": ["Bite", "genital organs, external", "female", "superficial NEC"]}
+{"query": "genital organs male Puncture", "expected_code": "S31531", "expected_code_dotted": "S31.531", "source": "cms_alphabetic_index", "path": ["Puncture", "genital organs, external", "male"]}
+{"query": "genital organs male scrotum Wound", "expected_code": "S3130", "expected_code_dotted": "S31.30", "source": "cms_alphabetic_index", "path": ["Wound, open", "genital organs, external", "male", "scrotum"]}
+{"query": "genitalia female vagina Crush", "expected_code": "S3803", "expected_code_dotted": "S38.03", "source": "cms_alphabetic_index", "path": ["Crush, crushed, crushing", "genitalia, external", "female", "vagina"]}
+{"query": "geometric Phagedena", "expected_code": "L88", "expected_code_dotted": "L88", "source": "cms_alphabetic_index", "path": ["Phagedena", "geometric"]}
+{"query": "giardial Colitis", "expected_code": "A071", "expected_code_dotted": "A07.1", "source": "cms_alphabetic_index", "path": ["Colitis", "giardial"]}
+{"query": "gland Hypertrophy", "expected_code": "R599", "expected_code_dotted": "R59.9", "source": "cms_alphabetic_index", "path": ["Hypertrophy, hypertrophic", "gland, glandular"]}
+{"query": "globe hypotony Disorder", "expected_code": "H4440", "expected_code_dotted": "H44.40", "source": "cms_alphabetic_index", "path": ["Disorder", "globe", "hypotony"]}
+{"query": "glycogen storage Pompe's Disease", "expected_code": "E7402", "expected_code_dotted": "E74.02", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "glycogen storage", "Pompe's"]}
+{"query": "gonococcal Urethritis", "expected_code": "A5401", "expected_code_dotted": "A54.01", "source": "cms_alphabetic_index", "path": ["Urethritis", "gonococcal"]}
+{"query": "gonorrheal Lymphadenitis", "expected_code": "A5489", "expected_code_dotted": "A54.89", "source": "cms_alphabetic_index", "path": ["Lymphadenitis", "gonorrheal"]}
+{"query": "graft muscle stenosis Complication", "expected_code": "T8485", "expected_code_dotted": "T84.85", "source": "cms_alphabetic_index", "path": ["Complication", "graft", "muscle", "stenosis"]}
+{"query": "graft urinary organ specified type NEC Complication", "expected_code": "T8389", "expected_code_dotted": "T83.89", "source": "cms_alphabetic_index", "path": ["Complication", "graft", "urinary organ", "specified type NEC"]}
+{"query": "graft vascular NEC Presence", "expected_code": "Z95828", "expected_code_dotted": "Z95.828", "source": "cms_alphabetic_index", "path": ["Presence", "graft", "vascular NEC"]}
+{"query": "graft-versus-host acute Disease", "expected_code": "D89810", "expected_code_dotted": "D89.810", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "graft-versus-host", "acute"]}
+{"query": "granulosus thyroid Echinococcus", "expected_code": "B6731", "expected_code_dotted": "B67.31", "source": "cms_alphabetic_index", "path": ["Echinococcus", "granulosus", "thyroid"]}
+{"query": "gravis pseudoparalytica Myasthenia", "expected_code": "G7000", "expected_code_dotted": "G70.00", "source": "cms_alphabetic_index", "path": ["Myasthenia", "gravis", "pseudoparalytica"]}
+{"query": "great vein portal vein-hepatic artery fistula Malformation", "expected_code": "Q266", "expected_code_dotted": "Q26.6", "source": "cms_alphabetic_index", "path": ["Malformation", "great", "vein", "portal vein-hepatic artery fistula"]}
+{"query": "great vessels Transposition", "expected_code": "Q203", "expected_code_dotted": "Q20.3", "source": "cms_alphabetic_index", "path": ["Transposition", "great vessels"]}
+{"query": "gum Inflammation", "expected_code": "K0510", "expected_code_dotted": "K05.10", "source": "cms_alphabetic_index", "path": ["Inflammation, inflamed, inflammatory", "gum"]}
+{"query": "gum nonplaque induced Inflammation", "expected_code": "K0511", "expected_code_dotted": "K05.11", "source": "cms_alphabetic_index", "path": ["Inflammation, inflamed, inflammatory", "gum", "nonplaque induced"]}
+{"query": "hallucinogen NEC Use", "expected_code": "F1690", "expected_code_dotted": "F16.90", "source": "cms_alphabetic_index", "path": ["Use", "hallucinogen NEC"]}
+{"query": "hallucinogen NEC in remission Use", "expected_code": "F1691", "expected_code_dotted": "F16.91", "source": "cms_alphabetic_index", "path": ["Use", "hallucinogen NEC", "in remission"]}
+{"query": "head Puncture", "expected_code": "S0193", "expected_code_dotted": "S01.93", "source": "cms_alphabetic_index", "path": ["Puncture", "head"]}
+{"query": "head and neck Desmoid", "expected_code": "D48110", "expected_code_dotted": "D48.110", "source": "cms_alphabetic_index", "path": ["Desmoid", "head and neck"]}
+{"query": "head third degree Burn", "expected_code": "T2030", "expected_code_dotted": "T20.30", "source": "cms_alphabetic_index", "path": ["Burn", "head", "third degree"]}
+{"query": "heart Beriberi", "expected_code": "E5112", "expected_code_dotted": "E51.12", "source": "cms_alphabetic_index", "path": ["Beriberi", "heart"]}
+{"query": "heart atrial or auricular type I Flutter", "expected_code": "I483", "expected_code_dotted": "I48.3", "source": "cms_alphabetic_index", "path": ["Flutter", "heart", "atrial or auricular", "type I"]}
+{"query": "heart septum Anomaly", "expected_code": "Q219", "expected_code_dotted": "Q21.9", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "heart", "septum"]}
+{"query": "heart valve Hypertrophy", "expected_code": "I38", "expected_code_dotted": "I38", "source": "cms_alphabetic_index", "path": ["Hypertrophy, hypertrophic", "heart", "valve"]}
+{"query": "heart valve Transplant", "expected_code": "Z952", "expected_code_dotted": "Z95.2", "source": "cms_alphabetic_index", "path": ["Transplant", "heart", "valve"]}
+{"query": "heat due to water depletion Prostration", "expected_code": "T673", "expected_code_dotted": "T67.3", "source": "cms_alphabetic_index", "path": ["Prostration", "heat", "due to", "water depletion"]}
+{"query": "hematological newborn specified NEC Disorder", "expected_code": "P618", "expected_code_dotted": "P61.8", "source": "cms_alphabetic_index", "path": ["Disorder", "hematological", "newborn", "specified NEC"]}
+{"query": "hemiplegic with refractory migraine without status migrainosus Migraine", "expected_code": "G43419", "expected_code_dotted": "G43.419", "source": "cms_alphabetic_index", "path": ["Migraine", "hemiplegic", "with refractory migraine", "without status migrainosus"]}
+{"query": "hemolytic hereditary specified type NEC Anemia", "expected_code": "D588", "expected_code_dotted": "D58.8", "source": "cms_alphabetic_index", "path": ["Anemia", "hemolytic", "hereditary", "specified type NEC"]}
+{"query": "hemolytic mixed type Anemia", "expected_code": "D5913", "expected_code_dotted": "D59.13", "source": "cms_alphabetic_index", "path": ["Anemia", "hemolytic", "mixed type"]}
+{"query": "hemolytic-uremic familial Syndrome", "expected_code": "D5932", "expected_code_dotted": "D59.32", "source": "cms_alphabetic_index", "path": ["Syndrome", "hemolytic-uremic", "familial"]}
+{"query": "hemorrhage intracerebral Sequelae", "expected_code": "I6910", "expected_code_dotted": "I69.10", "source": "cms_alphabetic_index", "path": ["Sequelae", "hemorrhage", "intracerebral"]}
+{"query": "hepatocellular Adenoma", "expected_code": "D134", "expected_code_dotted": "D13.4", "source": "cms_alphabetic_index", "path": ["Adenoma", "hepatocellular"]}
+{"query": "hereditary Hypercholesterolemia", "expected_code": "E78019", "expected_code_dotted": "E78.019", "source": "cms_alphabetic_index", "path": ["Hypercholesterolemia", "hereditary"]}
+{"query": "herpesviral Pharyngitis", "expected_code": "B002", "expected_code_dotted": "B00.2", "source": "cms_alphabetic_index", "path": ["Pharyngitis", "herpesviral"]}
+{"query": "high altitude Polycythemia", "expected_code": "D751", "expected_code_dotted": "D75.1", "source": "cms_alphabetic_index", "path": ["Polycythemia", "high altitude"]}
+{"query": "high grade Defect", "expected_code": "F70", "expected_code_dotted": "F70", "source": "cms_alphabetic_index", "path": ["Defect, defective", "high grade"]}
+{"query": "hip Tuberculosis", "expected_code": "A1802", "expected_code_dotted": "A18.02", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "hip"]}
+{"query": "hormone by carcinoid tumor Secretion", "expected_code": "E3409", "expected_code_dotted": "E34.09", "source": "cms_alphabetic_index", "path": ["Secretion", "hormone", "by", "carcinoid tumor"]}
+{"query": "hourglass stomach congenital Contraction", "expected_code": "Q402", "expected_code_dotted": "Q40.2", "source": "cms_alphabetic_index", "path": ["Contraction, contracture, contracted", "hourglass", "stomach", "congenital"]}
+{"query": "housing housed homelessness in past 12 months Instability", "expected_code": "Z59812", "expected_code_dotted": "Z59.812", "source": "cms_alphabetic_index", "path": ["Instability", "housing", "housed", "homelessness in past 12 months"]}
+{"query": "human papillomavirus Screening", "expected_code": "Z1151", "expected_code_dotted": "Z11.51", "source": "cms_alphabetic_index", "path": ["Screening", "human papillomavirus"]}
+{"query": "hydatid incomplete Mole", "expected_code": "O011", "expected_code_dotted": "O01.1", "source": "cms_alphabetic_index", "path": ["Mole", "hydatid, hydatidiform", "incomplete"]}
+{"query": "hypereosinophilic Syndrome", "expected_code": "D72119", "expected_code_dotted": "D72.119", "source": "cms_alphabetic_index", "path": ["Syndrome", "hypereosinophilic"]}
+{"query": "hyperesthetic Anesthesia", "expected_code": "G890", "expected_code_dotted": "G89.0", "source": "cms_alphabetic_index", "path": ["Anesthesia, anesthetic", "hyperesthetic, thalamic"]}
+{"query": "hyperkeratosis Yaws", "expected_code": "A663", "expected_code_dotted": "A66.3", "source": "cms_alphabetic_index", "path": ["Yaws", "hyperkeratosis"]}
+{"query": "hypochromic pyridoxine-responsive Anemia", "expected_code": "D643", "expected_code_dotted": "D64.3", "source": "cms_alphabetic_index", "path": ["Anemia", "hypochromic", "pyridoxine-responsive"]}
+{"query": "hypopotassemia Syndrome", "expected_code": "E876", "expected_code_dotted": "E87.6", "source": "cms_alphabetic_index", "path": ["Syndrome", "hypopotassemia"]}
+{"query": "hysterical Mania", "expected_code": "F4489", "expected_code_dotted": "F44.89", "source": "cms_alphabetic_index", "path": ["Mania", "hysterical"]}
+{"query": "idiopathic Anemia", "expected_code": "D649", "expected_code_dotted": "D64.9", "source": "cms_alphabetic_index", "path": ["Anemia", "idiopathic"]}
+{"query": "idiopathic Purpura", "expected_code": "D693", "expected_code_dotted": "D69.3", "source": "cms_alphabetic_index", "path": ["Purpura", "idiopathic"]}
+{"query": "idiopathic cardiorespiratory distress Syndrome", "expected_code": "P220", "expected_code_dotted": "P22.0", "source": "cms_alphabetic_index", "path": ["Syndrome", "idiopathic", "cardiorespiratory distress, newborn"]}
+{"query": "idiopathic nephrotic Syndrome", "expected_code": "N049", "expected_code_dotted": "N04.9", "source": "cms_alphabetic_index", "path": ["Syndrome", "idiopathic", "nephrotic"]}
+{"query": "idiopathic with long sleep time Hypersomnia", "expected_code": "G4711", "expected_code_dotted": "G47.11", "source": "cms_alphabetic_index", "path": ["Hypersomnia", "idiopathic", "with long sleep time"]}
+{"query": "ileovaginal Fistula", "expected_code": "N822", "expected_code_dotted": "N82.2", "source": "cms_alphabetic_index", "path": ["Fistula", "ileovaginal"]}
+{"query": "iliac region Injury", "expected_code": "S3991", "expected_code_dotted": "S39.91", "source": "cms_alphabetic_index", "path": ["Injury", "iliac region"]}
+{"query": "immature Personality", "expected_code": "F6089", "expected_code_dotted": "F60.89", "source": "cms_alphabetic_index", "path": ["Personality", "immature"]}
+{"query": "immune mechanism specified type NEC Disorder", "expected_code": "D8989", "expected_code_dotted": "D89.89", "source": "cms_alphabetic_index", "path": ["Disorder", "immune mechanism", "specified type NEC"]}
+{"query": "immunity IgM Deficiency", "expected_code": "D804", "expected_code_dotted": "D80.4", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "immunity", "IgM"]}
+{"query": "imperfect lungs Development", "expected_code": "Q336", "expected_code_dotted": "Q33.6", "source": "cms_alphabetic_index", "path": ["Development", "imperfect, congenital", "lungs"]}
+{"query": "implant urinary sphincter Complication", "expected_code": "T839", "expected_code_dotted": "T83.9", "source": "cms_alphabetic_index", "path": ["Complication", "implant", "urinary sphincter"]}
+{"query": "in Pseudomonas NEC Pneumonia", "expected_code": "J151", "expected_code_dotted": "J15.1", "source": "cms_alphabetic_index", "path": ["Pneumonia", "in", "Pseudomonas NEC"]}
+{"query": "in amyloidosis Arthropathy", "expected_code": "E854", "expected_code_dotted": "E85.4", "source": "cms_alphabetic_index", "path": ["Arthropathy", "in", "amyloidosis"]}
+{"query": "in disseminated intravascular coagulation Glomerulonephritis", "expected_code": "D65", "expected_code_dotted": "D65", "source": "cms_alphabetic_index", "path": ["Glomerulonephritis", "in", "disseminated intravascular coagulation"]}
+{"query": "in endocrine disease NOS Arthropathy", "expected_code": "E349", "expected_code_dotted": "E34.9", "source": "cms_alphabetic_index", "path": ["Arthropathy", "in", "endocrine disease NOS"]}
+{"query": "in glycogen storage disease Myopathy", "expected_code": "E7400", "expected_code_dotted": "E74.00", "source": "cms_alphabetic_index", "path": ["Myopathy", "in", "glycogen storage disease"]}
+{"query": "in lymphoma NEC Pyelonephritis", "expected_code": "C8590", "expected_code_dotted": "C85.90", "source": "cms_alphabetic_index", "path": ["Pyelonephritis", "in", "lymphoma NEC"]}
+{"query": "in mumps Meningitis", "expected_code": "B261", "expected_code_dotted": "B26.1", "source": "cms_alphabetic_index", "path": ["Meningitis", "in", "mumps"]}
+{"query": "in mumps Polyneuropathy", "expected_code": "B2684", "expected_code_dotted": "B26.84", "source": "cms_alphabetic_index", "path": ["Polyneuropathy", "in", "mumps"]}
+{"query": "in neoplastic disease NOS Arthropathy", "expected_code": "D499", "expected_code_dotted": "D49.9", "source": "cms_alphabetic_index", "path": ["Arthropathy", "in", "neoplastic disease NOS"]}
+{"query": "in obstruction Pyelonephritis", "expected_code": "N111", "expected_code_dotted": "N11.1", "source": "cms_alphabetic_index", "path": ["Pyelonephritis", "in", "obstruction"]}
+{"query": "in situ Melanoma", "expected_code": "D039", "expected_code_dotted": "D03.9", "source": "cms_alphabetic_index", "path": ["Melanoma", "in situ"]}
+{"query": "in situ eye Melanoma", "expected_code": "D038", "expected_code_dotted": "D03.8", "source": "cms_alphabetic_index", "path": ["Melanoma", "in situ", "eye"]}
+{"query": "in situ forehead Melanoma", "expected_code": "D0339", "expected_code_dotted": "D03.39", "source": "cms_alphabetic_index", "path": ["Melanoma", "in situ", "forehead"]}
+{"query": "incomplete complicated perforation of pelvic organ Abortion", "expected_code": "O0334", "expected_code_dotted": "O03.34", "source": "cms_alphabetic_index", "path": ["Abortion", "incomplete", "complicated", "perforation of pelvic organ"]}
+{"query": "infant or child Screening", "expected_code": "Z00129", "expected_code_dotted": "Z00.129", "source": "cms_alphabetic_index", "path": ["Screening", "infant or child"]}
+{"query": "infection urinary NEC urethra Puerperal", "expected_code": "O8622", "expected_code_dotted": "O86.22", "source": "cms_alphabetic_index", "path": ["Puerperal, puerperium", "infection", "urinary NEC", "urethra"]}
+{"query": "infection urinary tract Newborn", "expected_code": "P393", "expected_code_dotted": "P39.3", "source": "cms_alphabetic_index", "path": ["Newborn", "infection", "urinary tract"]}
+{"query": "infectious Lymphocytosis", "expected_code": "B338", "expected_code_dotted": "B33.8", "source": "cms_alphabetic_index", "path": ["Lymphocytosis", "infectious"]}
+{"query": "infectious Meningitis", "expected_code": "G009", "expected_code_dotted": "G00.9", "source": "cms_alphabetic_index", "path": ["Meningitis", "infectious"]}
+{"query": "infective NEC cervicothoracic region Spondylopathy", "expected_code": "M4653", "expected_code_dotted": "M46.53", "source": "cms_alphabetic_index", "path": ["Spondylopathy", "infective NEC", "cervicothoracic region"]}
+{"query": "inflammatory penis Disorder", "expected_code": "N4829", "expected_code_dotted": "N48.29", "source": "cms_alphabetic_index", "path": ["Disorder", "inflammatory", "penis"]}
+{"query": "ingestion Foreign body", "expected_code": "T189", "expected_code_dotted": "T18.9", "source": "cms_alphabetic_index", "path": ["Foreign body", "ingestion, ingested NOS"]}
+{"query": "inguinal bilateral recurrent Hernia", "expected_code": "K4021", "expected_code_dotted": "K40.21", "source": "cms_alphabetic_index", "path": ["Hernia, hernial", "inguinal", "bilateral", "recurrent"]}
+{"query": "initial prescription barrier Contraception", "expected_code": "Z30018", "expected_code_dotted": "Z30.018", "source": "cms_alphabetic_index", "path": ["Contraception, contraceptive", "initial prescription", "barrier"]}
+{"query": "injury NOS scalp Birth", "expected_code": "P129", "expected_code_dotted": "P12.9", "source": "cms_alphabetic_index", "path": ["Birth", "injury NOS", "scalp"]}
+{"query": "injury NOS spine Birth", "expected_code": "P115", "expected_code_dotted": "P11.5", "source": "cms_alphabetic_index", "path": ["Birth", "injury NOS", "spine"]}
+{"query": "injury NOS vulva Birth", "expected_code": "P155", "expected_code_dotted": "P15.5", "source": "cms_alphabetic_index", "path": ["Birth", "injury NOS", "vulva"]}
+{"query": "insanity Alcohol", "expected_code": "F10959", "expected_code_dotted": "F10.959", "source": "cms_alphabetic_index", "path": ["Alcohol, alcoholic, alcohol-induced", "insanity"]}
+{"query": "intestinal NOS Distress", "expected_code": "K599", "expected_code_dotted": "K59.9", "source": "cms_alphabetic_index", "path": ["Distress", "intestinal NOS"]}
+{"query": "intestine Congestion", "expected_code": "K6389", "expected_code_dotted": "K63.89", "source": "cms_alphabetic_index", "path": ["Congestion, congestive", "intestine"]}
+{"query": "intestine amebic Ulcer", "expected_code": "A061", "expected_code_dotted": "A06.1", "source": "cms_alphabetic_index", "path": ["Ulcer, ulcerated, ulcerating, ulceration, ulcerative", "intestine, intestinal", "amebic"]}
+{"query": "intestine functional Disease", "expected_code": "K599", "expected_code_dotted": "K59.9", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "intestine", "functional"]}
+{"query": "intestine large ascending Injury", "expected_code": "S36500", "expected_code_dotted": "S36.500", "source": "cms_alphabetic_index", "path": ["Injury", "intestine", "large", "ascending"]}
+{"query": "intestine specified NEC Infection", "expected_code": "A088", "expected_code_dotted": "A08.8", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "intestine, intestinal", "specified NEC"]}
+{"query": "intestine vascular chronic Disorder", "expected_code": "K551", "expected_code_dotted": "K55.1", "source": "cms_alphabetic_index", "path": ["Disorder", "intestine, intestinal", "vascular", "chronic"]}
+{"query": "intracranial newborn Hemorrhage", "expected_code": "P529", "expected_code_dotted": "P52.9", "source": "cms_alphabetic_index", "path": ["Hemorrhage, hemorrhagic", "intracranial", "newborn"]}
+{"query": "intractable Kozhevnikof's epilepsy", "expected_code": "G40119", "expected_code_dotted": "G40.119", "source": "cms_alphabetic_index", "path": ["Kozhevnikof's epilepsy", "intractable"]}
+{"query": "intractable with status epilepticus Kozhevnikof's epilepsy", "expected_code": "G40111", "expected_code_dotted": "G40.111", "source": "cms_alphabetic_index", "path": ["Kozhevnikof's epilepsy", "intractable", "with status epilepticus"]}
+{"query": "intraepithelial vulva Neoplasia", "expected_code": "N903", "expected_code_dotted": "N90.3", "source": "cms_alphabetic_index", "path": ["Neoplasia", "intraepithelial", "vulva"]}
+{"query": "intraocular lens fibrosis Complication", "expected_code": "T85828", "expected_code_dotted": "T85.828", "source": "cms_alphabetic_index", "path": ["Complication", "intraocular lens", "fibrosis"]}
+{"query": "intrathecal infusion pump mechanical leakage Complication", "expected_code": "T85635", "expected_code_dotted": "T85.635", "source": "cms_alphabetic_index", "path": ["Complication", "intrathecal infusion pump", "mechanical", "leakage"]}
+{"query": "intrathecal infusion pump mechanical obstruction Complication", "expected_code": "T85695", "expected_code_dotted": "T85.695", "source": "cms_alphabetic_index", "path": ["Complication", "intrathecal infusion pump", "mechanical", "obstruction"]}
+{"query": "intrauterine device Displacement", "expected_code": "T8332", "expected_code_dotted": "T83.32", "source": "cms_alphabetic_index", "path": ["Displacement, displaced", "intrauterine device"]}
+{"query": "intravascular implant NEC peripheral vessel Presence", "expected_code": "Z95820", "expected_code_dotted": "Z95.820", "source": "cms_alphabetic_index", "path": ["Presence", "intravascular implant NEC", "peripheral vessel"]}
+{"query": "intrinsic Eczema", "expected_code": "L2084", "expected_code_dotted": "L20.84", "source": "cms_alphabetic_index", "path": ["Eczema", "intrinsic"]}
+{"query": "intrinsic factor Deficiency", "expected_code": "D510", "expected_code_dotted": "D51.0", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "intrinsic", "factor"]}
+{"query": "involution Failure", "expected_code": "E320", "expected_code_dotted": "E32.0", "source": "cms_alphabetic_index", "path": ["Failure, failed", "involution, thymus"]}
+{"query": "involutional Melancholia", "expected_code": "F3289", "expected_code_dotted": "F32.89", "source": "cms_alphabetic_index", "path": ["Melancholia", "involutional"]}
+{"query": "involving development NEC Symptoms NEC", "expected_code": "R6250", "expected_code_dotted": "R62.50", "source": "cms_alphabetic_index", "path": ["Symptoms NEC", "involving", "development NEC"]}
+{"query": "involving more than one sinus but not pansinusitis acute recurrent Sinusitis", "expected_code": "J0181", "expected_code_dotted": "J01.81", "source": "cms_alphabetic_index", "path": ["Sinusitis", "involving more than one sinus but not pansinusitis", "acute", "recurrent"]}
+{"query": "iodine-deficiency type neurological Syndrome", "expected_code": "E000", "expected_code_dotted": "E00.0", "source": "cms_alphabetic_index", "path": ["Syndrome", "iodine-deficiency, congenital", "type", "neurological"]}
+{"query": "isosexual Virilization", "expected_code": "E282", "expected_code_dotted": "E28.2", "source": "cms_alphabetic_index", "path": ["Virilization", "isosexual"]}
+{"query": "isthmica nodosa with oophoritis Salpingitis", "expected_code": "N7013", "expected_code_dotted": "N70.13", "source": "cms_alphabetic_index", "path": ["Salpingitis", "isthmica nodosa", "with oophoritis"]}
+{"query": "jealousy Alcohol", "expected_code": "F10988", "expected_code_dotted": "F10.988", "source": "cms_alphabetic_index", "path": ["Alcohol, alcoholic, alcohol-induced", "jealousy"]}
+{"query": "joint Malformation", "expected_code": "Q749", "expected_code_dotted": "Q74.9", "source": "cms_alphabetic_index", "path": ["Malformation", "joint"]}
+{"query": "joint specified site NEC Replacement by artificial or mechanical device or prosthesis of", "expected_code": "Z96698", "expected_code_dotted": "Z96.698", "source": "cms_alphabetic_index", "path": ["Replacement by artificial or mechanical device or prosthesis of", "joint", "specified site NEC"]}
+{"query": "juvenile Polyarthritis", "expected_code": "M083", "expected_code_dotted": "M08.3", "source": "cms_alphabetic_index", "path": ["Polyarthritis, polyarthropathy", "juvenile"]}
+{"query": "juvenile spine thoracolumbar region Osteochondrosis", "expected_code": "M4205", "expected_code_dotted": "M42.05", "source": "cms_alphabetic_index", "path": ["Osteochondrosis", "juvenile, juvenilis", "spine", "thoracolumbar region"]}
+{"query": "keratitis Rosacea", "expected_code": "L718", "expected_code_dotted": "L71.8", "source": "cms_alphabetic_index", "path": ["Rosacea", "keratitis"]}
+{"query": "keratitis Tuberculosis", "expected_code": "A1852", "expected_code_dotted": "A18.52", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "keratitis"]}
+{"query": "kidney Colic", "expected_code": "N23", "expected_code_dotted": "N23", "source": "cms_alphabetic_index", "path": ["Colic", "kidney"]}
+{"query": "kidney Malformation", "expected_code": "Q639", "expected_code_dotted": "Q63.9", "source": "cms_alphabetic_index", "path": ["Malformation", "kidney"]}
+{"query": "kidney Mass", "expected_code": "N2889", "expected_code_dotted": "N28.89", "source": "cms_alphabetic_index", "path": ["Mass", "kidney"]}
+{"query": "kidney Thoracic", "expected_code": "Q632", "expected_code_dotted": "Q63.2", "source": "cms_alphabetic_index", "path": ["Thoracic", "kidney"]}
+{"query": "kidney acute Injury", "expected_code": "N179", "expected_code_dotted": "N17.9", "source": "cms_alphabetic_index", "path": ["Injury", "kidney", "acute"]}
+{"query": "kidney functional Disorder", "expected_code": "N259", "expected_code_dotted": "N25.9", "source": "cms_alphabetic_index", "path": ["Disorder", "kidney", "functional"]}
+{"query": "kidney nontraumatic Rupture", "expected_code": "N2889", "expected_code_dotted": "N28.89", "source": "cms_alphabetic_index", "path": ["Rupture, ruptured", "kidney", "nontraumatic"]}
+{"query": "kidney papillary Necrosis", "expected_code": "N172", "expected_code_dotted": "N17.2", "source": "cms_alphabetic_index", "path": ["Necrosis, necrotic", "kidney", "papillary"]}
+{"query": "knee Dislocation", "expected_code": "S83106", "expected_code_dotted": "S83.106", "source": "cms_alphabetic_index", "path": ["Dislocation", "knee"]}
+{"query": "knowledge acquisition Disability", "expected_code": "F819", "expected_code_dotted": "F81.9", "source": "cms_alphabetic_index", "path": ["Disability, disabilities", "knowledge acquisition"]}
+{"query": "labia Varix", "expected_code": "I863", "expected_code_dotted": "I86.3", "source": "cms_alphabetic_index", "path": ["Varix", "labia"]}
+{"query": "labium Abrasion", "expected_code": "S30814", "expected_code_dotted": "S30.814", "source": "cms_alphabetic_index", "path": ["Abrasion", "labium"]}
+{"query": "laboratory Examination", "expected_code": "Z0000", "expected_code_dotted": "Z00.00", "source": "cms_alphabetic_index", "path": ["Examination", "laboratory"]}
+{"query": "laboratory with abnormal findings Encounter", "expected_code": "Z0001", "expected_code_dotted": "Z00.01", "source": "cms_alphabetic_index", "path": ["Encounter", "laboratory", "with abnormal findings"]}
+{"query": "lacunar NEC Syndrome", "expected_code": "G467", "expected_code_dotted": "G46.7", "source": "cms_alphabetic_index", "path": ["Syndrome", "lacunar NEC"]}
+{"query": "laryngotracheal Fistula", "expected_code": "Q348", "expected_code_dotted": "Q34.8", "source": "cms_alphabetic_index", "path": ["Fistula", "laryngotracheal, congenital"]}
+{"query": "late Syphilis", "expected_code": "A529", "expected_code_dotted": "A52.9", "source": "cms_alphabetic_index", "path": ["Syphilis, syphilitic", "late"]}
+{"query": "late-onset with exacerbation Asthma", "expected_code": "J45901", "expected_code_dotted": "J45.901", "source": "cms_alphabetic_index", "path": ["Asthma, asthmatic", "late-onset", "with", "exacerbation"]}
+{"query": "late-onset with status asthmaticus Asthma", "expected_code": "J45902", "expected_code_dotted": "J45.902", "source": "cms_alphabetic_index", "path": ["Asthma, asthmatic", "late-onset", "with", "status asthmaticus"]}
+{"query": "latent Schizophrenia", "expected_code": "F21", "expected_code_dotted": "F21", "source": "cms_alphabetic_index", "path": ["Schizophrenia, schizophrenic", "latent"]}
+{"query": "learning alexia Disorder", "expected_code": "R480", "expected_code_dotted": "R48.0", "source": "cms_alphabetic_index", "path": ["Disorder", "learning", "alexia"]}
+{"query": "left Blepharophimosis", "expected_code": "H02526", "expected_code_dotted": "H02.526", "source": "cms_alphabetic_index", "path": ["Blepharophimosis", "left"]}
+{"query": "left Trichiasis", "expected_code": "H02056", "expected_code_dotted": "H02.056", "source": "cms_alphabetic_index", "path": ["Trichiasis", "left"]}
+{"query": "leishmaniasis Screening", "expected_code": "Z116", "expected_code_dotted": "Z11.6", "source": "cms_alphabetic_index", "path": ["Screening", "leishmaniasis"]}
+{"query": "leucine-induced Hypoglycemia", "expected_code": "E7119", "expected_code_dotted": "E71.19", "source": "cms_alphabetic_index", "path": ["Hypoglycemia", "leucine-induced"]}
+{"query": "linear Scleroderma", "expected_code": "L941", "expected_code_dotted": "L94.1", "source": "cms_alphabetic_index", "path": ["Scleroderma, sclerodermia", "linear"]}
+{"query": "lingual Malformation", "expected_code": "Q383", "expected_code_dotted": "Q38.3", "source": "cms_alphabetic_index", "path": ["Malformation", "lingual"]}
+{"query": "lip Anomaly", "expected_code": "Q380", "expected_code_dotted": "Q38.0", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "lip"]}
+{"query": "lip second degree Burn", "expected_code": "T2022", "expected_code_dotted": "T20.22", "source": "cms_alphabetic_index", "path": ["Burn", "lip", "second degree"]}
+{"query": "lipid or lipoid Proteinosis", "expected_code": "E7889", "expected_code_dotted": "E78.89", "source": "cms_alphabetic_index", "path": ["Proteinosis", "lipid or lipoid"]}
+{"query": "liver Shock", "expected_code": "K7200", "expected_code_dotted": "K72.00", "source": "cms_alphabetic_index", "path": ["Shock", "liver"]}
+{"query": "liver chronic Inflammation", "expected_code": "K739", "expected_code_dotted": "K73.9", "source": "cms_alphabetic_index", "path": ["Inflammation, inflamed, inflammatory", "liver", "chronic"]}
+{"query": "lobar Friedländer's bacillus Pneumonia", "expected_code": "J150", "expected_code_dotted": "J15.0", "source": "cms_alphabetic_index", "path": ["Pneumonia", "lobar", "Friedländer's bacillus"]}
+{"query": "localized severe Periodontitis", "expected_code": "K05313", "expected_code_dotted": "K05.313", "source": "cms_alphabetic_index", "path": ["Periodontitis", "localized", "severe"]}
+{"query": "long arm chromosome 18 or 21 Deletion", "expected_code": "Q9389", "expected_code_dotted": "Q93.89", "source": "cms_alphabetic_index", "path": ["Deletion", "long arm chromosome 18 or 21"]}
+{"query": "lower limb left Ulcer", "expected_code": "L97929", "expected_code_dotted": "L97.929", "source": "cms_alphabetic_index", "path": ["Ulcer, ulcerated, ulcerating, ulceration, ulcerative", "lower limb", "left"]}
+{"query": "lung Distomiasis", "expected_code": "B664", "expected_code_dotted": "B66.4", "source": "cms_alphabetic_index", "path": ["Distomiasis", "lung"]}
+{"query": "lung chemical chronic Edema", "expected_code": "J681", "expected_code_dotted": "J68.1", "source": "cms_alphabetic_index", "path": ["Edema, edematous", "lung", "chemical", "chronic"]}
+{"query": "lung congenital Fibrosis", "expected_code": "P278", "expected_code_dotted": "P27.8", "source": "cms_alphabetic_index", "path": ["Fibrosis, fibrotic", "lung", "congenital"]}
+{"query": "lung due to external agent Edema", "expected_code": "J709", "expected_code_dotted": "J70.9", "source": "cms_alphabetic_index", "path": ["Edema, edematous", "lung", "due to", "external agent"]}
+{"query": "lung in Sjögren's syndrome Disease", "expected_code": "M3502", "expected_code_dotted": "M35.02", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "lung", "in", "Sjögren's syndrome"]}
+{"query": "lung with anthracosis Fibrosis", "expected_code": "J60", "expected_code_dotted": "J60", "source": "cms_alphabetic_index", "path": ["Fibrosis, fibrotic", "lung", "with", "anthracosis"]}
+{"query": "lymph or lymphatic channel Occlusion", "expected_code": "I890", "expected_code_dotted": "I89.0", "source": "cms_alphabetic_index", "path": ["Occlusion, occluded", "lymph or lymphatic channel"]}
+{"query": "lymphoid interstitial Pneumonia", "expected_code": "J842", "expected_code_dotted": "J84.2", "source": "cms_alphabetic_index", "path": ["Pneumonia", "lymphoid interstitial"]}
+{"query": "maduromycotic Mycetoma", "expected_code": "B470", "expected_code_dotted": "B47.0", "source": "cms_alphabetic_index", "path": ["Mycetoma", "maduromycotic"]}
+{"query": "major histocompatibility complex class II Deficiency", "expected_code": "D817", "expected_code_dotted": "D81.7", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "major histocompatibility complex", "class II"]}
+{"query": "male with more than two X chromosomes Klinefelter's syndrome", "expected_code": "Q981", "expected_code_dotted": "Q98.1", "source": "cms_alphabetic_index", "path": ["Klinefelter's syndrome", "male with more than two X chromosomes"]}
+{"query": "male without gonadal disorder Pseudohermaphroditism", "expected_code": "Q561", "expected_code_dotted": "Q56.1", "source": "cms_alphabetic_index", "path": ["Pseudohermaphroditism", "male", "without gonadal disorder"]}
+{"query": "malignant Histiocytosis", "expected_code": "C96A", "expected_code_dotted": "C96.A", "source": "cms_alphabetic_index", "path": ["Histiocytosis", "malignant"]}
+{"query": "malignant jaw Ameloblastoma", "expected_code": "C411", "expected_code_dotted": "C41.1", "source": "cms_alphabetic_index", "path": ["Ameloblastoma", "malignant", "jaw"]}
+{"query": "mammogram NEC calcification Findings", "expected_code": "R921", "expected_code_dotted": "R92.1", "source": "cms_alphabetic_index", "path": ["Findings, abnormal, inconclusive, without diagnosis", "mammogram NEC", "calcification"]}
+{"query": "mandible Granuloma", "expected_code": "M271", "expected_code_dotted": "M27.1", "source": "cms_alphabetic_index", "path": ["Granuloma", "mandible"]}
+{"query": "mandibular Pain", "expected_code": "R6884", "expected_code_dotted": "R68.84", "source": "cms_alphabetic_index", "path": ["Pain", "mandibular"]}
+{"query": "marital Maladjustment", "expected_code": "Z630", "expected_code_dotted": "Z63.0", "source": "cms_alphabetic_index", "path": ["Maladjustment", "marital"]}
+{"query": "mast cell Tumor", "expected_code": "D4709", "expected_code_dotted": "D47.09", "source": "cms_alphabetic_index", "path": ["Tumor", "mast cell"]}
+{"query": "maxilla moderate Atrophy", "expected_code": "K0825", "expected_code_dotted": "K08.25", "source": "cms_alphabetic_index", "path": ["Atrophy, atrophic", "maxilla", "moderate"]}
+{"query": "menarche Delay", "expected_code": "E300", "expected_code_dotted": "E30.0", "source": "cms_alphabetic_index", "path": ["Delay, delayed", "menarche"]}
+{"query": "meninges Calcification", "expected_code": "G96198", "expected_code_dotted": "G96.198", "source": "cms_alphabetic_index", "path": ["Calcification", "meninges"]}
+{"query": "meninges Gonococcus", "expected_code": "A5481", "expected_code_dotted": "A54.81", "source": "cms_alphabetic_index", "path": ["Gonococcus, gonococcal", "meninges, meningitis"]}
+{"query": "menses Retention", "expected_code": "N9489", "expected_code_dotted": "N94.89", "source": "cms_alphabetic_index", "path": ["Retention", "menses"]}
+{"query": "metabolism NOS glycoprotein Disorder", "expected_code": "E779", "expected_code_dotted": "E77.9", "source": "cms_alphabetic_index", "path": ["Disorder", "metabolism NOS", "glycoprotein"]}
+{"query": "metabolism NOS lipoid Disorder", "expected_code": "E789", "expected_code_dotted": "E78.9", "source": "cms_alphabetic_index", "path": ["Disorder", "metabolism NOS", "lipoid"]}
+{"query": "mild intermittent with exacerbation Asthma", "expected_code": "J4521", "expected_code_dotted": "J45.21", "source": "cms_alphabetic_index", "path": ["Asthma, asthmatic", "mild intermittent", "with", "exacerbation"]}
+{"query": "milk NEC lactose Intolerance", "expected_code": "E739", "expected_code_dotted": "E73.9", "source": "cms_alphabetic_index", "path": ["Intolerance", "milk NEC", "lactose"]}
+{"query": "mineralocorticoid with glucocorticoid Deficiency", "expected_code": "E2749", "expected_code_dotted": "E27.49", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "mineralocorticoid", "with glucocorticoid"]}
+{"query": "mitral Endocarditis", "expected_code": "I059", "expected_code_dotted": "I05.9", "source": "cms_alphabetic_index", "path": ["Endocarditis", "mitral"]}
+{"query": "mitral with aortic valve disease Stenosis", "expected_code": "I080", "expected_code_dotted": "I08.0", "source": "cms_alphabetic_index", "path": ["Stenosis, stenotic", "mitral", "with", "aortic valve disease"]}
+{"query": "mobility Reduced", "expected_code": "Z7409", "expected_code_dotted": "Z74.09", "source": "cms_alphabetic_index", "path": ["Reduced", "mobility"]}
+{"query": "moderate persistent with status asthmaticus Asthma", "expected_code": "J4542", "expected_code_dotted": "J45.42", "source": "cms_alphabetic_index", "path": ["Asthma, asthmatic", "moderate persistent", "with", "status asthmaticus"]}
+{"query": "molar NEC complicated specified condition NEC Pregnancy", "expected_code": "O0889", "expected_code_dotted": "O08.89", "source": "cms_alphabetic_index", "path": ["Pregnancy", "molar NEC", "complicated", "specified condition NEC"]}
+{"query": "molar NEC complicated venous complication NEC Pregnancy", "expected_code": "O087", "expected_code_dotted": "O08.7", "source": "cms_alphabetic_index", "path": ["Pregnancy", "molar NEC", "complicated", "venous complication NEC"]}
+{"query": "mood due to alcohol Disorder", "expected_code": "F1094", "expected_code_dotted": "F10.94", "source": "cms_alphabetic_index", "path": ["Disorder", "mood", "due to", "alcohol"]}
+{"query": "mountain meaning Rocky Mountain spotted fever Fever", "expected_code": "A770", "expected_code_dotted": "A77.0", "source": "cms_alphabetic_index", "path": ["Fever", "mountain", "meaning Rocky Mountain spotted fever"]}
+{"query": "mouth due to antineoplastic therapy Mucositis", "expected_code": "K1231", "expected_code_dotted": "K12.31", "source": "cms_alphabetic_index", "path": ["Mucositis", "mouth", "due to antineoplastic therapy"]}
+{"query": "mucinous of low malignant potential unspecified site Tumor", "expected_code": "C569", "expected_code_dotted": "C56.9", "source": "cms_alphabetic_index", "path": ["Tumor", "mucinous of low malignant potential", "unspecified site"]}
+{"query": "mucous membrane NEC newborn Hemorrhage", "expected_code": "P548", "expected_code_dotted": "P54.8", "source": "cms_alphabetic_index", "path": ["Hemorrhage, hemorrhagic", "mucous membrane NEC", "newborn"]}
+{"query": "multiplex Nevus", "expected_code": "Q851", "expected_code_dotted": "Q85.1", "source": "cms_alphabetic_index", "path": ["Nevus", "multiplex"]}
+{"query": "mumps Myocarditis", "expected_code": "B2682", "expected_code_dotted": "B26.82", "source": "cms_alphabetic_index", "path": ["Myocarditis", "mumps"]}
+{"query": "muscular limb-girdle gamma-sarcoglycan-related Dystrophy", "expected_code": "G710349", "expected_code_dotted": "G71.0349", "source": "cms_alphabetic_index", "path": ["Dystrophy, dystrophia", "muscular", "limb-girdle", "gamma-sarcoglycan-related"]}
+{"query": "muscular limb-girdle type 2P Dystrophy", "expected_code": "G71038", "expected_code_dotted": "G71.038", "source": "cms_alphabetic_index", "path": ["Dystrophy, dystrophia", "muscular", "limb-girdle", "type 2P"]}
+{"query": "myocarditis Typhoid", "expected_code": "A0102", "expected_code_dotted": "A01.02", "source": "cms_alphabetic_index", "path": ["Typhoid", "myocarditis"]}
+{"query": "myocardium Tuberculosis", "expected_code": "A1884", "expected_code_dotted": "A18.84", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "myocardium, myocarditis"]}
+{"query": "myocardium subsequent diaphragmatic Infarct", "expected_code": "I221", "expected_code_dotted": "I22.1", "source": "cms_alphabetic_index", "path": ["Infarct, infarction", "myocardium, myocardial", "subsequent", "diaphragmatic"]}
+{"query": "myoneural Disease", "expected_code": "G709", "expected_code_dotted": "G70.9", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "myoneural"]}
+{"query": "myotonia Atrophy", "expected_code": "G7111", "expected_code_dotted": "G71.11", "source": "cms_alphabetic_index", "path": ["Atrophy, atrophic", "myotonia"]}
+{"query": "nabothian Cyst", "expected_code": "N888", "expected_code_dotted": "N88.8", "source": "cms_alphabetic_index", "path": ["Cyst", "nabothian"]}
+{"query": "nasal Polyp", "expected_code": "J339", "expected_code_dotted": "J33.9", "source": "cms_alphabetic_index", "path": ["Polyp, polypus", "nasal"]}
+{"query": "nasal sinus Anomaly", "expected_code": "Q308", "expected_code_dotted": "Q30.8", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "nasal sinus"]}
+{"query": "neck Osteolysis", "expected_code": "M8958", "expected_code_dotted": "M89.58", "source": "cms_alphabetic_index", "path": ["Osteolysis", "neck"]}
+{"query": "neck Ulcer", "expected_code": "L98459", "expected_code_dotted": "L98.459", "source": "cms_alphabetic_index", "path": ["Ulcer, ulcerated, ulcerating, ulceration, ulcerative", "neck"]}
+{"query": "neck congenital sternocleidomastoid Deformity", "expected_code": "Q680", "expected_code_dotted": "Q68.0", "source": "cms_alphabetic_index", "path": ["Deformity", "neck", "congenital", "sternocleidomastoid"]}
+{"query": "neck with skin breakdown only Ulcer", "expected_code": "L98451", "expected_code_dotted": "L98.451", "source": "cms_alphabetic_index", "path": ["Ulcer, ulcerated, ulcerating, ulceration, ulcerative", "neck", "with", "skin breakdown only"]}
+{"query": "necrosis omentum Fat", "expected_code": "K654", "expected_code_dotted": "K65.4", "source": "cms_alphabetic_index", "path": ["Fat", "necrosis", "omentum"]}
+{"query": "neonatal Hypoglycemia", "expected_code": "P704", "expected_code_dotted": "P70.4", "source": "cms_alphabetic_index", "path": ["Hypoglycemia", "neonatal"]}
+{"query": "nerve Agenesis", "expected_code": "Q078", "expected_code_dotted": "Q07.8", "source": "cms_alphabetic_index", "path": ["Agenesis", "nerve"]}
+{"query": "nerve Lesion", "expected_code": "G589", "expected_code_dotted": "G58.9", "source": "cms_alphabetic_index", "path": ["Lesion", "nerve"]}
+{"query": "nerve cranial fifth Disorder", "expected_code": "G509", "expected_code_dotted": "G50.9", "source": "cms_alphabetic_index", "path": ["Disorder", "nerve", "cranial", "fifth"]}
+{"query": "nerve intercostal Disorder", "expected_code": "G580", "expected_code_dotted": "G58.0", "source": "cms_alphabetic_index", "path": ["Disorder", "nerve", "intercostal"]}
+{"query": "nervous Dysphagia", "expected_code": "F458", "expected_code_dotted": "F45.8", "source": "cms_alphabetic_index", "path": ["Dysphagia", "nervous"]}
+{"query": "nervous system device NEC visual substitution device Removal", "expected_code": "Z462", "expected_code_dotted": "Z46.2", "source": "cms_alphabetic_index", "path": ["Removal", "nervous system device NEC", "visual substitution device"]}
+{"query": "neuropathic Arthropathy", "expected_code": "M1460", "expected_code_dotted": "M14.60", "source": "cms_alphabetic_index", "path": ["Arthropathy", "neuropathic"]}
+{"query": "newborn Rhesus factor Isoimmunization NEC", "expected_code": "P550", "expected_code_dotted": "P55.0", "source": "cms_alphabetic_index", "path": ["Isoimmunization NEC", "newborn", "Rhesus factor"]}
+{"query": "newborn Tachypnea", "expected_code": "P221", "expected_code_dotted": "P22.1", "source": "cms_alphabetic_index", "path": ["Tachypnea", "newborn"]}
+{"query": "newborn due to or associated with hepatocellular damage Jaundice", "expected_code": "P5920", "expected_code_dotted": "P59.20", "source": "cms_alphabetic_index", "path": ["Jaundice", "newborn", "due to or associated with", "hepatocellular damage"]}
+{"query": "newborn specified NEC Edema", "expected_code": "P8339", "expected_code_dotted": "P83.39", "source": "cms_alphabetic_index", "path": ["Edema, edematous", "newborn", "specified NEC"]}
+{"query": "nicotinic acid Avitaminosis", "expected_code": "E52", "expected_code_dotted": "E52", "source": "cms_alphabetic_index", "path": ["Avitaminosis", "nicotinic acid"]}
+{"query": "nightmare Disorder", "expected_code": "F515", "expected_code_dotted": "F51.5", "source": "cms_alphabetic_index", "path": ["Disorder", "nightmare"]}
+{"query": "non-rapid eye movement sleep arousal sleep terror type Disorder", "expected_code": "F514", "expected_code_dotted": "F51.4", "source": "cms_alphabetic_index", "path": ["Disorder", "non-rapid eye movement sleep arousal", "sleep terror type"]}
+{"query": "nondevelopmental Porencephaly", "expected_code": "G930", "expected_code_dotted": "G93.0", "source": "cms_alphabetic_index", "path": ["Porencephaly", "nondevelopmental"]}
+{"query": "nonorganic origin specified NEC Hypersomnia", "expected_code": "F5119", "expected_code_dotted": "F51.19", "source": "cms_alphabetic_index", "path": ["Hypersomnia", "nonorganic origin", "specified NEC"]}
+{"query": "nontoxic multinodular Goiter", "expected_code": "E042", "expected_code_dotted": "E04.2", "source": "cms_alphabetic_index", "path": ["Goiter", "nontoxic", "multinodular"]}
+{"query": "nontraumatic Coma", "expected_code": "R402A", "expected_code_dotted": "R40.2A", "source": "cms_alphabetic_index", "path": ["Coma", "nontraumatic, due to underlying condition"]}
+{"query": "nose newborn Hemorrhage", "expected_code": "P548", "expected_code_dotted": "P54.8", "source": "cms_alphabetic_index", "path": ["Hemorrhage, hemorrhagic", "nose", "newborn"]}
+{"query": "nose saddle Deformity", "expected_code": "M950", "expected_code_dotted": "M95.0", "source": "cms_alphabetic_index", "path": ["Deformity", "nose", "saddle"]}
+{"query": "nose specified NEC Anomaly", "expected_code": "Q308", "expected_code_dotted": "Q30.8", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "nose, nasal", "specified NEC"]}
+{"query": "not done because delay in delivery of vaccine Immunization", "expected_code": "Z2883", "expected_code_dotted": "Z28.83", "source": "cms_alphabetic_index", "path": ["Immunization", "not done", "because", "delay in delivery of vaccine"]}
+{"query": "nutritional Cirrhosis", "expected_code": "K7469", "expected_code_dotted": "K74.69", "source": "cms_alphabetic_index", "path": ["Cirrhosis, cirrhotic", "nutritional"]}
+{"query": "observation exposure to biological agent NEC Encounter", "expected_code": "Z03818", "expected_code_dotted": "Z03.818", "source": "cms_alphabetic_index", "path": ["Encounter", "observation", "exposure to", "biological agent NEC"]}
+{"query": "obstetric Mendelson's syndrome", "expected_code": "O740", "expected_code_dotted": "O74.0", "source": "cms_alphabetic_index", "path": ["Mendelson's syndrome", "obstetric"]}
+{"query": "opening status specified site NEC Artificial", "expected_code": "Z938", "expected_code_dotted": "Z93.8", "source": "cms_alphabetic_index", "path": ["Artificial", "opening status", "specified site NEC"]}
+{"query": "ophryogenes Ulerythema", "expected_code": "Q842", "expected_code_dotted": "Q84.2", "source": "cms_alphabetic_index", "path": ["Ulerythema", "ophryogenes, congenital"]}
+{"query": "opioid use mild Disorder", "expected_code": "F1110", "expected_code_dotted": "F11.10", "source": "cms_alphabetic_index", "path": ["Disorder", "opioid use", "mild"]}
+{"query": "optic in myelitis Neuritis", "expected_code": "G360", "expected_code_dotted": "G36.0", "source": "cms_alphabetic_index", "path": ["Neuritis", "optic", "in myelitis"]}
+{"query": "orbit wall Fracture", "expected_code": "S0285", "expected_code_dotted": "S02.85", "source": "cms_alphabetic_index", "path": ["Fracture, traumatic", "orbit, orbital", "wall"]}
+{"query": "orbital prosthesis thrombosis Complication", "expected_code": "T85868", "expected_code_dotted": "T85.868", "source": "cms_alphabetic_index", "path": ["Complication", "orbital prosthesis", "thrombosis"]}
+{"query": "organic depressive Syndrome", "expected_code": "F0631", "expected_code_dotted": "F06.31", "source": "cms_alphabetic_index", "path": ["Syndrome", "organic", "depressive"]}
+{"query": "orgasmic male Dysfunction", "expected_code": "F5232", "expected_code_dotted": "F52.32", "source": "cms_alphabetic_index", "path": ["Dysfunction", "orgasmic", "male"]}
+{"query": "orthostatic neurogenic Hypotension", "expected_code": "G903", "expected_code_dotted": "G90.3", "source": "cms_alphabetic_index", "path": ["Hypotension", "orthostatic", "neurogenic"]}
+{"query": "osseous meatus Anomaly", "expected_code": "Q161", "expected_code_dotted": "Q16.1", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "osseous meatus"]}
+{"query": "ossificans or ossifying in quadriplegia or paraplegia Myositis", "expected_code": "M6120", "expected_code_dotted": "M61.20", "source": "cms_alphabetic_index", "path": ["Myositis", "ossificans or ossifying", "in", "quadriplegia or paraplegia"]}
+{"query": "ovarian Failure", "expected_code": "E2839", "expected_code_dotted": "E28.39", "source": "cms_alphabetic_index", "path": ["Failure, failed", "ovarian"]}
+{"query": "ovary Palpable", "expected_code": "N838", "expected_code_dotted": "N83.8", "source": "cms_alphabetic_index", "path": ["Palpable", "ovary"]}
+{"query": "ovary Rupture", "expected_code": "N838", "expected_code_dotted": "N83.8", "source": "cms_alphabetic_index", "path": ["Rupture, ruptured", "ovary, ovarian"]}
+{"query": "ovary laceration bilateral Injury", "expected_code": "S37432", "expected_code_dotted": "S37.432", "source": "cms_alphabetic_index", "path": ["Injury", "ovary, ovarian", "laceration", "bilateral"]}
+{"query": "palm Corrosion", "expected_code": "T23459", "expected_code_dotted": "T23.459", "source": "cms_alphabetic_index", "path": ["Corrosion", "palm"]}
+{"query": "palm right first degree Burn", "expected_code": "T23151", "expected_code_dotted": "T23.151", "source": "cms_alphabetic_index", "path": ["Burn", "palm", "right", "first degree"]}
+{"query": "palm right first degree Corrosion", "expected_code": "T23551", "expected_code_dotted": "T23.551", "source": "cms_alphabetic_index", "path": ["Corrosion", "palm", "right", "first degree"]}
+{"query": "pancreas Contusion", "expected_code": "S36229", "expected_code_dotted": "S36.229", "source": "cms_alphabetic_index", "path": ["Contusion", "pancreas"]}
+{"query": "pancreas acquired complete Absence", "expected_code": "Z90410", "expected_code_dotted": "Z90.410", "source": "cms_alphabetic_index", "path": ["Absence", "pancreas", "acquired", "complete"]}
+{"query": "pancreas false Cyst", "expected_code": "K863", "expected_code_dotted": "K86.3", "source": "cms_alphabetic_index", "path": ["Cyst", "pancreas, pancreatic", "false"]}
+{"query": "pancreatic duct - code to underlying condition with chronic pancreatitis Hypertension", "expected_code": "K861", "expected_code_dotted": "K86.1", "source": "cms_alphabetic_index", "path": ["Hypertension, hypertensive", "pancreatic duct - code to underlying condition", "with chronic pancreatitis"]}
+{"query": "pancreatic duct Obstruction", "expected_code": "K8689", "expected_code_dotted": "K86.89", "source": "cms_alphabetic_index", "path": ["Obstruction, obstructed, obstructive", "pancreatic duct"]}
+{"query": "papillary muscles Anomaly", "expected_code": "Q248", "expected_code_dotted": "Q24.8", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "papillary muscles"]}
+{"query": "paralysis due to or associated with muscular dystrophy Duchenne's", "expected_code": "G7101", "expected_code_dotted": "G71.01", "source": "cms_alphabetic_index", "path": ["Duchenne's", "paralysis", "due to or associated with", "muscular dystrophy"]}
+{"query": "parasite intestinal NOS Infestation", "expected_code": "B829", "expected_code_dotted": "B82.9", "source": "cms_alphabetic_index", "path": ["Infestation", "parasite, parasitic", "intestinal NOS"]}
+{"query": "parathyroid Hypoplasia", "expected_code": "Q892", "expected_code_dotted": "Q89.2", "source": "cms_alphabetic_index", "path": ["Hypoplasia, hypoplastic", "parathyroid"]}
+{"query": "parathyroid gland Aberrant", "expected_code": "Q892", "expected_code_dotted": "Q89.2", "source": "cms_alphabetic_index", "path": ["Aberrant", "parathyroid gland"]}
+{"query": "pectoral Cellulitis", "expected_code": "L03313", "expected_code_dotted": "L03.313", "source": "cms_alphabetic_index", "path": ["Cellulitis", "pectoral"]}
+{"query": "pediatrician visit Encounter", "expected_code": "Z7681", "expected_code_dotted": "Z76.81", "source": "cms_alphabetic_index", "path": ["Encounter", "pediatrician visit, by expectant parent"]}
+{"query": "pellagrous Glossitis", "expected_code": "E52", "expected_code_dotted": "E52", "source": "cms_alphabetic_index", "path": ["Glossitis", "pellagrous"]}
+{"query": "pelvic organ ureter Contusion", "expected_code": "S3712", "expected_code_dotted": "S37.12", "source": "cms_alphabetic_index", "path": ["Contusion", "pelvic organ", "ureter"]}
+{"query": "pelviperitonitis Gonococcus", "expected_code": "A5424", "expected_code_dotted": "A54.24", "source": "cms_alphabetic_index", "path": ["Gonococcus, gonococcal", "pelviperitonitis"]}
+{"query": "pelvis organ obstetrical trauma NEC Injury", "expected_code": "O715", "expected_code_dotted": "O71.5", "source": "cms_alphabetic_index", "path": ["Injury", "pelvis, pelvic", "organ", "obstetrical trauma NEC"]}
+{"query": "penis Gumma", "expected_code": "A5276", "expected_code_dotted": "A52.76", "source": "cms_alphabetic_index", "path": ["Gumma", "penis"]}
+{"query": "perception Disorder", "expected_code": "F16983", "expected_code_dotted": "F16.983", "source": "cms_alphabetic_index", "path": ["Disorder", "perception, due to hallucinogens"]}
+{"query": "perception Vision", "expected_code": "H5333", "expected_code_dotted": "H53.33", "source": "cms_alphabetic_index", "path": ["Vision, visual", "perception, simultaneous without fusion"]}
+{"query": "perianal Dermatophytosis", "expected_code": "B356", "expected_code_dotted": "B35.6", "source": "cms_alphabetic_index", "path": ["Dermatophytosis", "perianal"]}
+{"query": "perimetrosalpingitis Puerperal", "expected_code": "O8619", "expected_code_dotted": "O86.19", "source": "cms_alphabetic_index", "path": ["Puerperal, puerperium", "perimetrosalpingitis"]}
+{"query": "periodic Breathing", "expected_code": "R063", "expected_code_dotted": "R06.3", "source": "cms_alphabetic_index", "path": ["Breathing", "periodic"]}
+{"query": "perionyxis Candidiasis", "expected_code": "B372", "expected_code_dotted": "B37.2", "source": "cms_alphabetic_index", "path": ["Candidiasis, candidal", "perionyxis"]}
+{"query": "peripheral idiopathic progressive Neuropathy", "expected_code": "G603", "expected_code_dotted": "G60.3", "source": "cms_alphabetic_index", "path": ["Neuropathy, neuropathic", "peripheral", "idiopathic", "progressive"]}
+{"query": "peritoneal infection Puerperal", "expected_code": "O85", "expected_code_dotted": "O85", "source": "cms_alphabetic_index", "path": ["Puerperal, puerperium", "peritoneal infection"]}
+{"query": "peritoneum Cyst", "expected_code": "K668", "expected_code_dotted": "K66.8", "source": "cms_alphabetic_index", "path": ["Cyst", "peritoneum"]}
+{"query": "peritoneum NEC Tuberculosis", "expected_code": "A1831", "expected_code_dotted": "A18.31", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "peritoneum NEC"]}
+{"query": "peritoneum tuberculous Abscess", "expected_code": "A1831", "expected_code_dotted": "A18.31", "source": "cms_alphabetic_index", "path": ["Abscess", "peritoneum, peritoneal", "tuberculous"]}
+{"query": "peroxisomal specified form NEC group 1 Disorder", "expected_code": "E71518", "expected_code_dotted": "E71.518", "source": "cms_alphabetic_index", "path": ["Disorder", "peroxisomal", "specified form NEC", "group 1"]}
+{"query": "persistent affective Disorder", "expected_code": "F349", "expected_code_dotted": "F34.9", "source": "cms_alphabetic_index", "path": ["Disorder", "persistent", "affective"]}
+{"query": "personal hygiene Poor", "expected_code": "R460", "expected_code_dotted": "R46.0", "source": "cms_alphabetic_index", "path": ["Poor", "personal hygiene"]}
+{"query": "personal irradiation History", "expected_code": "Z923", "expected_code_dotted": "Z92.3", "source": "cms_alphabetic_index", "path": ["History", "personal", "irradiation"]}
+{"query": "personal malignant neoplasm Merkel cell History", "expected_code": "Z85821", "expected_code_dotted": "Z85.821", "source": "cms_alphabetic_index", "path": ["History", "personal", "malignant neoplasm", "Merkel cell"]}
+{"query": "personal malignant neoplasm bronchus NEC History", "expected_code": "Z85118", "expected_code_dotted": "Z85.118", "source": "cms_alphabetic_index", "path": ["History", "personal", "malignant neoplasm", "bronchus NEC"]}
+{"query": "personal melanoma History", "expected_code": "Z85820", "expected_code_dotted": "Z85.820", "source": "cms_alphabetic_index", "path": ["History", "personal", "melanoma"]}
+{"query": "personal mental disorder History", "expected_code": "Z8659", "expected_code_dotted": "Z86.59", "source": "cms_alphabetic_index", "path": ["History", "personal", "mental disorder"]}
+{"query": "personal neoplasm benign History", "expected_code": "Z86018", "expected_code_dotted": "Z86.018", "source": "cms_alphabetic_index", "path": ["History", "personal", "neoplasm", "benign"]}
+{"query": "personal obstetric complications pre-term labor History", "expected_code": "Z8751", "expected_code_dotted": "Z87.51", "source": "cms_alphabetic_index", "path": ["History", "personal", "obstetric complications", "pre-term labor"]}
+{"query": "personal tobacco dependence History", "expected_code": "Z87891", "expected_code_dotted": "Z87.891", "source": "cms_alphabetic_index", "path": ["History", "personal", "tobacco dependence"]}
+{"query": "personality compulsive Disorder", "expected_code": "F605", "expected_code_dotted": "F60.5", "source": "cms_alphabetic_index", "path": ["Disorder", "personality", "compulsive"]}
+{"query": "pharynx Stricture", "expected_code": "J392", "expected_code_dotted": "J39.2", "source": "cms_alphabetic_index", "path": ["Stricture", "pharynx"]}
+{"query": "pharynx branchial cleft Fistula", "expected_code": "Q180", "expected_code_dotted": "Q18.0", "source": "cms_alphabetic_index", "path": ["Fistula", "pharynx", "branchial cleft"]}
+{"query": "pharynx hysterical Spasm", "expected_code": "F458", "expected_code_dotted": "F45.8", "source": "cms_alphabetic_index", "path": ["Spasm, spastic, spasticity", "pharynx", "hysterical"]}
+{"query": "phlegmonous diphtheritic Angina", "expected_code": "A360", "expected_code_dotted": "A36.0", "source": "cms_alphabetic_index", "path": ["Angina", "phlegmonous", "diphtheritic"]}
+{"query": "phobic State", "expected_code": "F409", "expected_code_dotted": "F40.9", "source": "cms_alphabetic_index", "path": ["State", "phobic"]}
+{"query": "physical NEC Stress", "expected_code": "Z733", "expected_code_dotted": "Z73.3", "source": "cms_alphabetic_index", "path": ["Stress", "physical NEC"]}
+{"query": "pineal Syndrome", "expected_code": "E348", "expected_code_dotted": "E34.8", "source": "cms_alphabetic_index", "path": ["Syndrome", "pineal"]}
+{"query": "pineal gland Degeneration", "expected_code": "E348", "expected_code_dotted": "E34.8", "source": "cms_alphabetic_index", "path": ["Degeneration, degenerative", "pineal gland"]}
+{"query": "plaque Psoriasis", "expected_code": "L400", "expected_code_dotted": "L40.0", "source": "cms_alphabetic_index", "path": ["Psoriasis", "plaque"]}
+{"query": "pneumonia Stasis", "expected_code": "J182", "expected_code_dotted": "J18.2", "source": "cms_alphabetic_index", "path": ["Stasis", "pneumonia"]}
+{"query": "poisoning Water", "expected_code": "E8779", "expected_code_dotted": "E87.79", "source": "cms_alphabetic_index", "path": ["Water", "poisoning"]}
+{"query": "polycystic infantile type NEC Nephritis", "expected_code": "Q6119", "expected_code_dotted": "Q61.19", "source": "cms_alphabetic_index", "path": ["Nephritis, nephritic", "polycystic", "infantile type NEC"]}
+{"query": "polycystic kidney or renal Disease", "expected_code": "Q613", "expected_code_dotted": "Q61.3", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "polycystic", "kidney or renal"]}
+{"query": "polyostotic sclerosing Histiocytosis", "expected_code": "D763", "expected_code_dotted": "D76.3", "source": "cms_alphabetic_index", "path": ["Histiocytosis", "polyostotic sclerosing"]}
+{"query": "position Anomaly", "expected_code": "M2630", "expected_code_dotted": "M26.30", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "position, tooth, teeth, fully erupted"]}
+{"query": "post COVID-19 Condition", "expected_code": "U099", "expected_code_dotted": "U09.9", "source": "cms_alphabetic_index", "path": ["Condition", "post COVID-19"]}
+{"query": "postchoreic Tic", "expected_code": "G2569", "expected_code_dotted": "G25.69", "source": "cms_alphabetic_index", "path": ["Tic", "postchoreic"]}
+{"query": "postherpetic Neuritis", "expected_code": "B0229", "expected_code_dotted": "B02.29", "source": "cms_alphabetic_index", "path": ["Neuritis", "postherpetic, postzoster"]}
+{"query": "postinfectional Lymphangiectasis", "expected_code": "I890", "expected_code_dotted": "I89.0", "source": "cms_alphabetic_index", "path": ["Lymphangiectasis", "postinfectional"]}
+{"query": "postmature more than 42 weeks gestation Pregnancy", "expected_code": "O481", "expected_code_dotted": "O48.1", "source": "cms_alphabetic_index", "path": ["Pregnancy", "postmature", "more than 42 weeks gestation"]}
+{"query": "postmyocardial infarction Syndrome", "expected_code": "I241", "expected_code_dotted": "I24.1", "source": "cms_alphabetic_index", "path": ["Syndrome", "postmyocardial infarction"]}
+{"query": "postoperative due to blood loss chronic blood loss Anemia", "expected_code": "D500", "expected_code_dotted": "D50.0", "source": "cms_alphabetic_index", "path": ["Anemia", "postoperative", "due to blood loss", "chronic blood loss"]}
+{"query": "postoperative vagina Adhesions", "expected_code": "N992", "expected_code_dotted": "N99.2", "source": "cms_alphabetic_index", "path": ["Adhesions, adhesive", "postoperative", "vagina"]}
+{"query": "postpharyngeal Abscess", "expected_code": "J390", "expected_code_dotted": "J39.0", "source": "cms_alphabetic_index", "path": ["Abscess", "postpharyngeal"]}
+{"query": "postprocedural Hypoparathyroidism", "expected_code": "E892", "expected_code_dotted": "E89.2", "source": "cms_alphabetic_index", "path": ["Hypoparathyroidism", "postprocedural"]}
+{"query": "postvaccinal Encephalitis", "expected_code": "G0402", "expected_code_dotted": "G04.02", "source": "cms_alphabetic_index", "path": ["Encephalitis", "postvaccinal"]}
+{"query": "pre-chemotherapy Examination", "expected_code": "Z01818", "expected_code_dotted": "Z01.818", "source": "cms_alphabetic_index", "path": ["Examination", "pre-chemotherapy"]}
+{"query": "premature atrial Beat", "expected_code": "I491", "expected_code_dotted": "I49.1", "source": "cms_alphabetic_index", "path": ["Beat", "premature", "atrial"]}
+{"query": "premature due to adrenal cortical hyperfunction Puberty", "expected_code": "E258", "expected_code_dotted": "E25.8", "source": "cms_alphabetic_index", "path": ["Puberty", "premature", "due to", "adrenal cortical hyperfunction"]}
+{"query": "premature supraventricular Beat", "expected_code": "I491", "expected_code_dotted": "I49.1", "source": "cms_alphabetic_index", "path": ["Beat", "premature", "supraventricular"]}
+{"query": "presenile Psychosis", "expected_code": "F03", "expected_code_dotted": "F03", "source": "cms_alphabetic_index", "path": ["Psychosis, psychotic", "presenile"]}
+{"query": "primary tonsils Syphilis", "expected_code": "A512", "expected_code_dotted": "A51.2", "source": "cms_alphabetic_index", "path": ["Syphilis, syphilitic", "primary", "tonsils"]}
+{"query": "probation officer Problem", "expected_code": "Z644", "expected_code_dotted": "Z64.4", "source": "cms_alphabetic_index", "path": ["Problem", "probation officer"]}
+{"query": "prophylactic measures fluoride administration Encounter", "expected_code": "Z293", "expected_code_dotted": "Z29.3", "source": "cms_alphabetic_index", "path": ["Encounter", "prophylactic measures", "fluoride administration"]}
+{"query": "prostate Granuloma", "expected_code": "N4289", "expected_code_dotted": "N42.89", "source": "cms_alphabetic_index", "path": ["Granuloma", "prostate"]}
+{"query": "prostate specified NEC Disorder", "expected_code": "N4289", "expected_code_dotted": "N42.89", "source": "cms_alphabetic_index", "path": ["Disorder", "prostate", "specified NEC"]}
+{"query": "prosthesis specified NEC Fitting", "expected_code": "Z448", "expected_code_dotted": "Z44.8", "source": "cms_alphabetic_index", "path": ["Fitting", "prosthesis", "specified NEC"]}
+{"query": "protein calorie severe Malnutrition", "expected_code": "E43", "expected_code_dotted": "E43", "source": "cms_alphabetic_index", "path": ["Malnutrition", "protein", "calorie", "severe"]}
+{"query": "pseudo-Hurler's Disease", "expected_code": "E770", "expected_code_dotted": "E77.0", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "pseudo-Hurler's"]}
+{"query": "psychogenic Dysorexia", "expected_code": "F5089", "expected_code_dotted": "F50.89", "source": "cms_alphabetic_index", "path": ["Dysorexia", "psychogenic"]}
+{"query": "psychogenic Heartburn", "expected_code": "F458", "expected_code_dotted": "F45.8", "source": "cms_alphabetic_index", "path": ["Heartburn", "psychogenic"]}
+{"query": "psychogenic NOS gastrointestinal Disorder", "expected_code": "F458", "expected_code_dotted": "F45.8", "source": "cms_alphabetic_index", "path": ["Disorder", "psychogenic NOS", "gastrointestinal"]}
+{"query": "psychogenic NOS stomach Disorder", "expected_code": "F458", "expected_code_dotted": "F45.8", "source": "cms_alphabetic_index", "path": ["Disorder", "psychogenic NOS", "stomach"]}
+{"query": "psychotic transient NEC State", "expected_code": "F068", "expected_code_dotted": "F06.8", "source": "cms_alphabetic_index", "path": ["State", "psychotic, organic", "transient NEC"]}
+{"query": "pulmonary arteriovenous acquired Aneurysm", "expected_code": "I280", "expected_code_dotted": "I28.0", "source": "cms_alphabetic_index", "path": ["Aneurysm", "pulmonary", "arteriovenous", "acquired"]}
+{"query": "pulmonary chronic obstructive decompensated Disease", "expected_code": "J441", "expected_code_dotted": "J44.1", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "pulmonary", "chronic obstructive", "decompensated"]}
+{"query": "pulmonary valve atresia Anomaly", "expected_code": "Q220", "expected_code_dotted": "Q22.0", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "pulmonary", "valve", "atresia"]}
+{"query": "pulmonic cusps Fusion", "expected_code": "Q221", "expected_code_dotted": "Q22.1", "source": "cms_alphabetic_index", "path": ["Fusion, fused", "pulmonic cusps"]}
+{"query": "pulp reversible Abscess", "expected_code": "K0401", "expected_code_dotted": "K04.01", "source": "cms_alphabetic_index", "path": ["Abscess", "pulp, pulpal", "reversible"]}
+{"query": "pupil function specified type NEC Anomaly", "expected_code": "H5709", "expected_code_dotted": "H57.09", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "pupil", "function", "specified type NEC"]}
+{"query": "putrid Pharyngitis", "expected_code": "J029", "expected_code_dotted": "J02.9", "source": "cms_alphabetic_index", "path": ["Pharyngitis", "putrid"]}
+{"query": "pyelocystitis Puerperal", "expected_code": "O8629", "expected_code_dotted": "O86.29", "source": "cms_alphabetic_index", "path": ["Puerperal, puerperium", "pyelocystitis"]}
+{"query": "qualitative in von Willebrand factor function Defect", "expected_code": "D68029", "expected_code_dotted": "D68.029", "source": "cms_alphabetic_index", "path": ["Defect, defective", "qualitative, of von Willebrand factor", "in von Willebrand factor function, with no further subtyping"]}
+{"query": "radicular NEC upper limbs Syndrome", "expected_code": "P143", "expected_code_dotted": "P14.3", "source": "cms_alphabetic_index", "path": ["Syndrome", "radicular NEC", "upper limbs, newborn"]}
+{"query": "radiologic head Findings", "expected_code": "R930", "expected_code_dotted": "R93.0", "source": "cms_alphabetic_index", "path": ["Findings, abnormal, inconclusive, without diagnosis", "radiologic", "head"]}
+{"query": "reactive in infective endocarditis Arthropathy", "expected_code": "I330", "expected_code_dotted": "I33.0", "source": "cms_alphabetic_index", "path": ["Arthropathy", "reactive", "in", "infective endocarditis"]}
+{"query": "rebound periumbilic Tenderness", "expected_code": "R10825", "expected_code_dotted": "R10.825", "source": "cms_alphabetic_index", "path": ["Tenderness, abdominal", "rebound", "periumbilic"]}
+{"query": "receptor Disorder", "expected_code": "E3450", "expected_code_dotted": "E34.50", "source": "cms_alphabetic_index", "path": ["Disorder", "receptor, hormonal, peripheral"]}
+{"query": "rectal complex new Fistula", "expected_code": "K60421", "expected_code_dotted": "K60.421", "source": "cms_alphabetic_index", "path": ["Fistula", "rectal", "complex", "new"]}
+{"query": "rectal complex persistent Fistula", "expected_code": "K60422", "expected_code_dotted": "K60.422", "source": "cms_alphabetic_index", "path": ["Fistula", "rectal", "complex", "persistent"]}
+{"query": "rectovaginal septum Abscess", "expected_code": "K630", "expected_code_dotted": "K63.0", "source": "cms_alphabetic_index", "path": ["Abscess", "rectovaginal septum"]}
+{"query": "rectovesicovaginal Fistula", "expected_code": "N823", "expected_code_dotted": "N82.3", "source": "cms_alphabetic_index", "path": ["Fistula", "rectovesicovaginal"]}
+{"query": "rectum Spasm", "expected_code": "K594", "expected_code_dotted": "K59.4", "source": "cms_alphabetic_index", "path": ["Spasm, spastic, spasticity", "rectum"]}
+{"query": "rectum due to trichuris trichuria Prolapse", "expected_code": "B79", "expected_code_dotted": "B79", "source": "cms_alphabetic_index", "path": ["Prolapse, prolapsed", "rectum", "due to trichuris trichuria"]}
+{"query": "refractory with multilineage dysplasia Cytopenia", "expected_code": "D46A", "expected_code_dotted": "D46.A", "source": "cms_alphabetic_index", "path": ["Cytopenia", "refractory", "with multilineage dysplasia"]}
+{"query": "removal of sutures Admission", "expected_code": "Z4802", "expected_code_dotted": "Z48.02", "source": "cms_alphabetic_index", "path": ["Admission", "removal of", "sutures"]}
+{"query": "renal artery Malformation", "expected_code": "Q272", "expected_code_dotted": "Q27.2", "source": "cms_alphabetic_index", "path": ["Malformation", "renal artery"]}
+{"query": "renal artery congenital Stenosis", "expected_code": "Q271", "expected_code_dotted": "Q27.1", "source": "cms_alphabetic_index", "path": ["Stenosis, stenotic", "renal artery", "congenital"]}
+{"query": "renal disorder resulting from Impaired", "expected_code": "N259", "expected_code_dotted": "N25.9", "source": "cms_alphabetic_index", "path": ["Impaired, impairment", "renal", "disorder resulting from"]}
+{"query": "renal postprocedural Failure", "expected_code": "N990", "expected_code_dotted": "N99.0", "source": "cms_alphabetic_index", "path": ["Failure, failed", "renal", "postprocedural"]}
+{"query": "repeat prescription Issue of", "expected_code": "Z760", "expected_code_dotted": "Z76.0", "source": "cms_alphabetic_index", "path": ["Issue of", "repeat prescription"]}
+{"query": "repeat transdermal patch hormonal Prescription of contraceptives", "expected_code": "Z3045", "expected_code_dotted": "Z30.45", "source": "cms_alphabetic_index", "path": ["Prescription of contraceptives", "repeat", "transdermal patch hormonal"]}
+{"query": "respiratory center Depression", "expected_code": "G9389", "expected_code_dotted": "G93.89", "source": "cms_alphabetic_index", "path": ["Depression", "respiratory center"]}
+{"query": "respite Care", "expected_code": "Z755", "expected_code_dotted": "Z75.5", "source": "cms_alphabetic_index", "path": ["Care", "respite"]}
+{"query": "restorative material Fracture", "expected_code": "K08539", "expected_code_dotted": "K08.539", "source": "cms_alphabetic_index", "path": ["Fracture, pathological", "restorative material"]}
+{"query": "retrovirus Infection", "expected_code": "B333", "expected_code_dotted": "B33.3", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "retrovirus"]}
+{"query": "rickettsial NOS Infection", "expected_code": "A799", "expected_code_dotted": "A79.9", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "rickettsial NOS"]}
+{"query": "risk meaning personal history of attempted suicide Suicide", "expected_code": "Z9151", "expected_code_dotted": "Z91.51", "source": "cms_alphabetic_index", "path": ["Suicide, suicidal", "risk", "meaning personal history of attempted suicide"]}
+{"query": "rotation hip congenital Deformity", "expected_code": "Q6589", "expected_code_dotted": "Q65.89", "source": "cms_alphabetic_index", "path": ["Deformity", "rotation", "hip", "congenital"]}
+{"query": "sacrococcygeal region Spondylolisthesis", "expected_code": "M4318", "expected_code_dotted": "M43.18", "source": "cms_alphabetic_index", "path": ["Spondylolisthesis", "sacrococcygeal region"]}
+{"query": "sacrum Agenesis", "expected_code": "Q7649", "expected_code_dotted": "Q76.49", "source": "cms_alphabetic_index", "path": ["Agenesis", "sacrum"]}
+{"query": "sacrum Zone II Fracture", "expected_code": "S32129", "expected_code_dotted": "S32.129", "source": "cms_alphabetic_index", "path": ["Fracture, traumatic", "sacrum", "Zone", "II"]}
+{"query": "salpingo-oophorectomy bilateral Status", "expected_code": "Z90722", "expected_code_dotted": "Z90.722", "source": "cms_alphabetic_index", "path": ["Status", "salpingo-oophorectomy", "bilateral"]}
+{"query": "sandblaster's Pneumoconiosis", "expected_code": "J628", "expected_code_dotted": "J62.8", "source": "cms_alphabetic_index", "path": ["Pneumoconiosis", "sandblaster's"]}
+{"query": "scapular region left third degree Corrosion", "expected_code": "T22762", "expected_code_dotted": "T22.762", "source": "cms_alphabetic_index", "path": ["Corrosion", "scapular region", "left", "third degree"]}
+{"query": "scapular region right third degree Burn", "expected_code": "T22361", "expected_code_dotted": "T22.361", "source": "cms_alphabetic_index", "path": ["Burn", "scapular region", "right", "third degree"]}
+{"query": "schistosomiasis Oriental", "expected_code": "B652", "expected_code_dotted": "B65.2", "source": "cms_alphabetic_index", "path": ["Oriental", "schistosomiasis"]}
+{"query": "scrotum Necrosis", "expected_code": "N5089", "expected_code_dotted": "N50.89", "source": "cms_alphabetic_index", "path": ["Necrosis, necrotic", "scrotum"]}
+{"query": "sebaceous genital organ NEC male Cyst", "expected_code": "N5089", "expected_code_dotted": "N50.89", "source": "cms_alphabetic_index", "path": ["Cyst", "sebaceous", "genital organ NEC", "male"]}
+{"query": "secondary NEC tarsus Osteonecrosis", "expected_code": "M87379", "expected_code_dotted": "M87.379", "source": "cms_alphabetic_index", "path": ["Osteonecrosis", "secondary NEC", "tarsus"]}
+{"query": "secondary knee bilateral Osteoarthritis", "expected_code": "M174", "expected_code_dotted": "M17.4", "source": "cms_alphabetic_index", "path": ["Osteoarthritis", "secondary", "knee", "bilateral"]}
+{"query": "secretion gastrin Abnormal", "expected_code": "E164", "expected_code_dotted": "E16.4", "source": "cms_alphabetic_index", "path": ["Abnormal, abnormality, abnormalities", "secretion", "gastrin"]}
+{"query": "secretion pancreas Increase", "expected_code": "E169", "expected_code_dotted": "E16.9", "source": "cms_alphabetic_index", "path": ["Increase, increased", "secretion", "pancreas, endocrine"]}
+{"query": "seizure Disorder", "expected_code": "G40909", "expected_code_dotted": "G40.909", "source": "cms_alphabetic_index", "path": ["Disorder", "seizure"]}
+{"query": "senile NEC Psychosis", "expected_code": "F03", "expected_code_dotted": "F03", "source": "cms_alphabetic_index", "path": ["Psychosis, psychotic", "senile NEC"]}
+{"query": "sex chromosome female Mosaicism", "expected_code": "Q978", "expected_code_dotted": "Q97.8", "source": "cms_alphabetic_index", "path": ["Mosaicism, mosaic", "sex chromosome", "female"]}
+{"query": "sexually-transmitted disease NEC human immunodeficiency virus Screening", "expected_code": "Z114", "expected_code_dotted": "Z11.4", "source": "cms_alphabetic_index", "path": ["Screening", "sexually-transmitted disease NEC", "human immunodeficiency virus"]}
+{"query": "shoulder Impaction", "expected_code": "O660", "expected_code_dotted": "O66.0", "source": "cms_alphabetic_index", "path": ["Impaction, impacted", "shoulder, causing obstructed labor"]}
+{"query": "shoulder right second degree Corrosion", "expected_code": "T22651", "expected_code_dotted": "T22.651", "source": "cms_alphabetic_index", "path": ["Corrosion", "shoulder", "right", "second degree"]}
+{"query": "sickle-cell Hb SE Dactylitis", "expected_code": "D57814", "expected_code_dotted": "D57.814", "source": "cms_alphabetic_index", "path": ["Dactylitis", "sickle-cell", "Hb SE"]}
+{"query": "sickle-cell specified NEC without crisis Disease", "expected_code": "D5780", "expected_code_dotted": "D57.80", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "sickle-cell", "specified NEC", "without crisis"]}
+{"query": "sigmoid congenital Diverticulum", "expected_code": "Q438", "expected_code_dotted": "Q43.8", "source": "cms_alphabetic_index", "path": ["Diverticulum, diverticula", "sigmoid", "congenital"]}
+{"query": "silo-filler's pulmonary edema Disease", "expected_code": "J681", "expected_code_dotted": "J68.1", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "silo-filler's", "pulmonary edema"]}
+{"query": "sinoatrial node Dysfunction", "expected_code": "I495", "expected_code_dotted": "I49.5", "source": "cms_alphabetic_index", "path": ["Dysfunction", "sinoatrial node"]}
+{"query": "site classification skin specified site NEC Lipoma", "expected_code": "D1739", "expected_code_dotted": "D17.39", "source": "cms_alphabetic_index", "path": ["Lipoma", "site classification", "skin", "specified site NEC"]}
+{"query": "sixth Disease", "expected_code": "B0820", "expected_code_dotted": "B08.20", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "sixth"]}
+{"query": "skin Coccidioidomycosis", "expected_code": "B383", "expected_code_dotted": "B38.3", "source": "cms_alphabetic_index", "path": ["Coccidioidomycosis", "skin"]}
+{"query": "skin Hemangioma", "expected_code": "D1801", "expected_code_dotted": "D18.01", "source": "cms_alphabetic_index", "path": ["Hemangioma", "skin"]}
+{"query": "skin Marble", "expected_code": "R238", "expected_code_dotted": "R23.8", "source": "cms_alphabetic_index", "path": ["Marble", "skin"]}
+{"query": "skin Myiasis", "expected_code": "B870", "expected_code_dotted": "B87.0", "source": "cms_alphabetic_index", "path": ["Myiasis", "skin"]}
+{"query": "skin Sarcoidosis", "expected_code": "D863", "expected_code_dotted": "D86.3", "source": "cms_alphabetic_index", "path": ["Sarcoidosis", "skin"]}
+{"query": "skin anus Nevus", "expected_code": "D225", "expected_code_dotted": "D22.5", "source": "cms_alphabetic_index", "path": ["Nevus", "skin", "anus, anal"]}
+{"query": "skin axilla Melanoma", "expected_code": "C4359", "expected_code_dotted": "C43.59", "source": "cms_alphabetic_index", "path": ["Melanoma", "skin", "axilla, axillary fold"]}
+{"query": "skin congenital Tag", "expected_code": "Q828", "expected_code_dotted": "Q82.8", "source": "cms_alphabetic_index", "path": ["Tag", "skin", "congenital"]}
+{"query": "small bowel acute diffuse Ischemia", "expected_code": "K55012", "expected_code_dotted": "K55.012", "source": "cms_alphabetic_index", "path": ["Ischemia, ischemic", "small bowel", "acute", "diffuse"]}
+{"query": "small intestine Tuberculosis", "expected_code": "A1832", "expected_code_dotted": "A18.32", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "small intestine"]}
+{"query": "somatic abdomen Dysfunction", "expected_code": "M9909", "expected_code_dotted": "M99.09", "source": "cms_alphabetic_index", "path": ["Dysfunction", "somatic", "abdomen"]}
+{"query": "spastic hereditary Ataxia", "expected_code": "G114", "expected_code_dotted": "G11.4", "source": "cms_alphabetic_index", "path": ["Ataxia, ataxy, ataxic", "spastic hereditary"]}
+{"query": "specific animal Phobia", "expected_code": "F40218", "expected_code_dotted": "F40.218", "source": "cms_alphabetic_index", "path": ["Phobia, phobic", "specific", "animal"]}
+{"query": "specified NEC Aldosteronism", "expected_code": "E2689", "expected_code_dotted": "E26.89", "source": "cms_alphabetic_index", "path": ["Aldosteronism", "specified NEC"]}
+{"query": "specified NEC Amyloidosis", "expected_code": "E8589", "expected_code_dotted": "E85.89", "source": "cms_alphabetic_index", "path": ["Amyloidosis", "specified NEC"]}
+{"query": "specified NEC Cataract", "expected_code": "H268", "expected_code_dotted": "H26.8", "source": "cms_alphabetic_index", "path": ["Cataract", "specified NEC"]}
+{"query": "specified NEC Hydrocephalus", "expected_code": "G918", "expected_code_dotted": "G91.8", "source": "cms_alphabetic_index", "path": ["Hydrocephalus", "specified NEC"]}
+{"query": "specified NEC Ringworm", "expected_code": "B358", "expected_code_dotted": "B35.8", "source": "cms_alphabetic_index", "path": ["Ringworm", "specified NEC"]}
+{"query": "specified NEC cervicothoracic region Dorsopathy", "expected_code": "M5383", "expected_code_dotted": "M53.83", "source": "cms_alphabetic_index", "path": ["Dorsopathy", "specified NEC", "cervicothoracic region"]}
+{"query": "specified NEC with respiratory involvement Dermatomyositis", "expected_code": "M3311", "expected_code_dotted": "M33.11", "source": "cms_alphabetic_index", "path": ["Dermatomyositis", "specified NEC", "with", "respiratory involvement"]}
+{"query": "specified NEC with specified organ involvement NEC Dermatomyositis", "expected_code": "M3319", "expected_code_dotted": "M33.19", "source": "cms_alphabetic_index", "path": ["Dermatomyositis", "specified NEC", "with", "specified organ involvement NEC"]}
+{"query": "specified complications NEC Rubella", "expected_code": "B0689", "expected_code_dotted": "B06.89", "source": "cms_alphabetic_index", "path": ["Rubella", "specified complications NEC"]}
+{"query": "specified type NEC Osteochondropathy", "expected_code": "M9380", "expected_code_dotted": "M93.80", "source": "cms_alphabetic_index", "path": ["Osteochondropathy", "specified type NEC"]}
+{"query": "specified type NEC ilium Osteoarthropathy", "expected_code": "M8948", "expected_code_dotted": "M89.48", "source": "cms_alphabetic_index", "path": ["Osteoarthropathy", "specified type NEC", "ilium"]}
+{"query": "specified type NEC with peripheral angiopathy Diabetes", "expected_code": "E1351", "expected_code_dotted": "E13.51", "source": "cms_alphabetic_index", "path": ["Diabetes, diabetic", "specified type NEC", "with", "peripheral angiopathy"]}
+{"query": "spinal Poliomyelitis", "expected_code": "A809", "expected_code_dotted": "A80.9", "source": "cms_alphabetic_index", "path": ["Poliomyelitis", "spinal, acute"]}
+{"query": "spinal cord NOS Infection", "expected_code": "G0491", "expected_code_dotted": "G04.91", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "spinal cord NOS"]}
+{"query": "spinal cord NOS streptococcal Infection", "expected_code": "G0489", "expected_code_dotted": "G04.89", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "spinal cord NOS", "streptococcal"]}
+{"query": "spinal lumbar L2 level Injury", "expected_code": "S34102", "expected_code_dotted": "S34.102", "source": "cms_alphabetic_index", "path": ["Injury", "spinal", "lumbar", "L2 level"]}
+{"query": "spinal lumbar L4 level Injury", "expected_code": "S34104", "expected_code_dotted": "S34.104", "source": "cms_alphabetic_index", "path": ["Injury", "spinal", "lumbar", "L4 level"]}
+{"query": "spinal lumbar L5 level Injury", "expected_code": "S34105", "expected_code_dotted": "S34.105", "source": "cms_alphabetic_index", "path": ["Injury", "spinal", "lumbar", "L5 level"]}
+{"query": "spinal sacral Concussion", "expected_code": "S3402", "expected_code_dotted": "S34.02", "source": "cms_alphabetic_index", "path": ["Concussion", "spinal", "sacral"]}
+{"query": "spine NEC thoracolumbar region Fusion", "expected_code": "M4325", "expected_code_dotted": "M43.25", "source": "cms_alphabetic_index", "path": ["Fusion, fused", "spine NEC", "thoracolumbar region"]}
+{"query": "spine Osteochondrosis", "expected_code": "M429", "expected_code_dotted": "M42.9", "source": "cms_alphabetic_index", "path": ["Osteochondrosis", "spine"]}
+{"query": "splenic Anemia", "expected_code": "D6489", "expected_code_dotted": "D64.89", "source": "cms_alphabetic_index", "path": ["Anemia", "splenic"]}
+{"query": "splenica Cachexia", "expected_code": "D730", "expected_code_dotted": "D73.0", "source": "cms_alphabetic_index", "path": ["Cachexia", "splenica"]}
+{"query": "squamous left upper and lower Blepharitis", "expected_code": "H0102B", "expected_code_dotted": "H01.02B", "source": "cms_alphabetic_index", "path": ["Blepharitis", "squamous", "left", "upper and lower"]}
+{"query": "stereotyped Disorder", "expected_code": "F984", "expected_code_dotted": "F98.4", "source": "cms_alphabetic_index", "path": ["Disorder", "stereotyped, habit or movement"]}
+{"query": "stimulant use moderate or severe Disorder", "expected_code": "F1520", "expected_code_dotted": "F15.20", "source": "cms_alphabetic_index", "path": ["Disorder", "stimulant use", "moderate or severe"]}
+{"query": "stomach laceration Injury", "expected_code": "S3633", "expected_code_dotted": "S36.33", "source": "cms_alphabetic_index", "path": ["Injury", "stomach", "laceration"]}
+{"query": "streptococcal NEC Arthritis", "expected_code": "M0020", "expected_code_dotted": "M00.20", "source": "cms_alphabetic_index", "path": ["Arthritis, arthritic", "streptococcal NEC"]}
+{"query": "subglottic Amyloidosis", "expected_code": "E854", "expected_code_dotted": "E85.4", "source": "cms_alphabetic_index", "path": ["Amyloidosis", "subglottic"]}
+{"query": "submandibular duct Atresia", "expected_code": "Q384", "expected_code_dotted": "Q38.4", "source": "cms_alphabetic_index", "path": ["Atresia, atretic", "submandibular duct"]}
+{"query": "substance use mild substance intoxication delirium Disorder", "expected_code": "F19121", "expected_code_dotted": "F19.121", "source": "cms_alphabetic_index", "path": ["Disorder", "substance use", "mild", "substance intoxication delirium"]}
+{"query": "sulfur-bearing amino-acid metabolism Disorder", "expected_code": "E7210", "expected_code_dotted": "E72.10", "source": "cms_alphabetic_index", "path": ["Disorder", "sulfur-bearing amino-acid metabolism"]}
+{"query": "superficial NEC head nose Injury", "expected_code": "S0030", "expected_code_dotted": "S00.30", "source": "cms_alphabetic_index", "path": ["Injury", "superficial NEC", "head", "nose"]}
+{"query": "superficial NEC pubic region Injury", "expected_code": "S3091", "expected_code_dotted": "S30.91", "source": "cms_alphabetic_index", "path": ["Injury", "superficial NEC", "pubic region"]}
+{"query": "superficial abdomen Foreign body", "expected_code": "S30851", "expected_code_dotted": "S30.851", "source": "cms_alphabetic_index", "path": ["Foreign body", "superficial, without open wound", "abdomen, abdominal"]}
+{"query": "superior mesenteric artery Syndrome", "expected_code": "K551", "expected_code_dotted": "K55.1", "source": "cms_alphabetic_index", "path": ["Syndrome", "superior", "mesenteric artery"]}
+{"query": "suprarenal Calcification", "expected_code": "E2749", "expected_code_dotted": "E27.49", "source": "cms_alphabetic_index", "path": ["Calcification", "suprarenal"]}
+{"query": "surgical procedure wound infection Complication", "expected_code": "T8149", "expected_code_dotted": "T81.49", "source": "cms_alphabetic_index", "path": ["Complication", "surgical procedure", "wound infection"]}
+{"query": "suture specified type NEC Complication", "expected_code": "T85898", "expected_code_dotted": "T85.898", "source": "cms_alphabetic_index", "path": ["Complication", "suture, permanent NEC", "specified type NEC"]}
+{"query": "sympathetic nerve NEC Compression", "expected_code": "G9089", "expected_code_dotted": "G90.89", "source": "cms_alphabetic_index", "path": ["Compression", "sympathetic nerve NEC"]}
+{"query": "syndrome of childhood Schizophrenia", "expected_code": "F845", "expected_code_dotted": "F84.5", "source": "cms_alphabetic_index", "path": ["Schizophrenia, schizophrenic", "syndrome of childhood"]}
+{"query": "syndrome postsurgical Malabsorption", "expected_code": "K912", "expected_code_dotted": "K91.2", "source": "cms_alphabetic_index", "path": ["Malabsorption", "syndrome", "postsurgical"]}
+{"query": "syndromes generalized specified NEC Epilepsy", "expected_code": "G40409", "expected_code_dotted": "G40.409", "source": "cms_alphabetic_index", "path": ["Epilepsy, epileptic, epilepsia", "syndromes", "generalized", "specified NEC"]}
+{"query": "syndromes localization-related idiopathic Epilepsy", "expected_code": "G40009", "expected_code_dotted": "G40.009", "source": "cms_alphabetic_index", "path": ["Epilepsy, epileptic, epilepsia", "syndromes", "localization-related", "idiopathic"]}
+{"query": "synovium Disorder", "expected_code": "M6790", "expected_code_dotted": "M67.90", "source": "cms_alphabetic_index", "path": ["Disorder", "synovium"]}
+{"query": "synovium specified type NEC Disorder", "expected_code": "M6780", "expected_code_dotted": "M67.80", "source": "cms_alphabetic_index", "path": ["Disorder", "synovium", "specified type NEC"]}
+{"query": "syphilitic Nephritis", "expected_code": "A5275", "expected_code_dotted": "A52.75", "source": "cms_alphabetic_index", "path": ["Nephritis, nephritic", "syphilitic"]}
+{"query": "syphilitic Parkinsonism", "expected_code": "A5219", "expected_code_dotted": "A52.19", "source": "cms_alphabetic_index", "path": ["Parkinsonism", "syphilitic"]}
+{"query": "syphilitic Phlebitis", "expected_code": "A5209", "expected_code_dotted": "A52.09", "source": "cms_alphabetic_index", "path": ["Phlebitis", "syphilitic"]}
+{"query": "syphilitic Polyneuropathy", "expected_code": "A5215", "expected_code_dotted": "A52.15", "source": "cms_alphabetic_index", "path": ["Polyneuropathy", "syphilitic"]}
+{"query": "syphilitic Scleritis", "expected_code": "A5271", "expected_code_dotted": "A52.71", "source": "cms_alphabetic_index", "path": ["Scleritis", "syphilitic"]}
+{"query": "syphilitic congenital late Chorioretinitis", "expected_code": "A5032", "expected_code_dotted": "A50.32", "source": "cms_alphabetic_index", "path": ["Chorioretinitis", "syphilitic", "congenital", "late"]}
+{"query": "syphilitic late Leukoderma", "expected_code": "A5279", "expected_code_dotted": "A52.79", "source": "cms_alphabetic_index", "path": ["Leukoderma, leukodermia NEC", "syphilitic", "late"]}
+{"query": "tenosynovitis spine or vertebra Tuberculosis", "expected_code": "A1801", "expected_code_dotted": "A18.01", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "tenosynovitis", "spine or vertebra"]}
+{"query": "term pregnancy NOS Delivery", "expected_code": "O80", "expected_code_dotted": "O80", "source": "cms_alphabetic_index", "path": ["Delivery", "term pregnancy NOS"]}
+{"query": "terrorism Exposure", "expected_code": "Z654", "expected_code_dotted": "Z65.4", "source": "cms_alphabetic_index", "path": ["Exposure", "terrorism"]}
+{"query": "testicular Appendage", "expected_code": "Q5529", "expected_code_dotted": "Q55.29", "source": "cms_alphabetic_index", "path": ["Appendage", "testicular"]}
+{"query": "testis Undeveloped", "expected_code": "E291", "expected_code_dotted": "E29.1", "source": "cms_alphabetic_index", "path": ["Undeveloped, undevelopment", "testis"]}
+{"query": "testis appendix Torsion", "expected_code": "N4403", "expected_code_dotted": "N44.03", "source": "cms_alphabetic_index", "path": ["Torsion", "testis, testicle", "appendix"]}
+{"query": "testis tunica albuginea Cyst", "expected_code": "N441", "expected_code_dotted": "N44.1", "source": "cms_alphabetic_index", "path": ["Cyst", "testis", "tunica albuginea"]}
+{"query": "thigh right Puncture", "expected_code": "S71131", "expected_code_dotted": "S71.131", "source": "cms_alphabetic_index", "path": ["Puncture", "thigh", "right"]}
+{"query": "thorax vertebra third Fracture", "expected_code": "S22039", "expected_code_dotted": "S22.039", "source": "cms_alphabetic_index", "path": ["Fracture, traumatic", "thorax", "vertebra", "third"]}
+{"query": "throat Catarrh", "expected_code": "J312", "expected_code_dotted": "J31.2", "source": "cms_alphabetic_index", "path": ["Catarrh, catarrhal", "throat"]}
+{"query": "throat Tuberculosis", "expected_code": "A158", "expected_code_dotted": "A15.8", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "throat"]}
+{"query": "throat viral NEC Sore", "expected_code": "J028", "expected_code_dotted": "J02.8", "source": "cms_alphabetic_index", "path": ["Sore", "throat", "viral NEC"]}
+{"query": "thrombotic Microangiopathy", "expected_code": "M3110", "expected_code_dotted": "M31.10", "source": "cms_alphabetic_index", "path": ["Microangiopathy", "thrombotic"]}
+{"query": "thumb multiple sites with fingers left Burn", "expected_code": "T23042", "expected_code_dotted": "T23.042", "source": "cms_alphabetic_index", "path": ["Burn", "thumb", "multiple sites with fingers", "left"]}
+{"query": "toe Burn", "expected_code": "T25039", "expected_code_dotted": "T25.039", "source": "cms_alphabetic_index", "path": ["Burn", "toe"]}
+{"query": "toes Macrodactylia", "expected_code": "Q742", "expected_code_dotted": "Q74.2", "source": "cms_alphabetic_index", "path": ["Macrodactylia, macrodactylism", "toes"]}
+{"query": "tongue Fibrosis", "expected_code": "K135", "expected_code_dotted": "K13.5", "source": "cms_alphabetic_index", "path": ["Fibrosis, fibrotic", "tongue, submucous"]}
+{"query": "tongue Smoker's", "expected_code": "K1324", "expected_code_dotted": "K13.24", "source": "cms_alphabetic_index", "path": ["Smoker's", "tongue"]}
+{"query": "tongue acquired Adhesions", "expected_code": "K148", "expected_code_dotted": "K14.8", "source": "cms_alphabetic_index", "path": ["Adhesions, adhesive", "tongue, congenital", "acquired"]}
+{"query": "tooth Abrasion", "expected_code": "K031", "expected_code_dotted": "K03.1", "source": "cms_alphabetic_index", "path": ["Abrasion", "tooth, teeth"]}
+{"query": "tooth Tipping", "expected_code": "M2633", "expected_code_dotted": "M26.33", "source": "cms_alphabetic_index", "path": ["Tipping", "tooth, fully erupted"]}
+{"query": "trachea Burn", "expected_code": "T270", "expected_code_dotted": "T27.0", "source": "cms_alphabetic_index", "path": ["Burn", "trachea"]}
+{"query": "trachea syphilitic Stricture", "expected_code": "A5273", "expected_code_dotted": "A52.73", "source": "cms_alphabetic_index", "path": ["Stricture", "trachea", "syphilitic"]}
+{"query": "tracheobronchial Hemorrhage", "expected_code": "R0489", "expected_code_dotted": "R04.89", "source": "cms_alphabetic_index", "path": ["Hemorrhage, hemorrhagic", "tracheobronchial"]}
+{"query": "transfusion incompatibility reaction ABO Complication", "expected_code": "T8030", "expected_code_dotted": "T80.30", "source": "cms_alphabetic_index", "path": ["Complication", "transfusion", "incompatibility reaction", "ABO"]}
+{"query": "transplant bone marrow specified type NEC Complication", "expected_code": "T8609", "expected_code_dotted": "T86.09", "source": "cms_alphabetic_index", "path": ["Complication", "transplant", "bone marrow", "specified type NEC"]}
+{"query": "traumatic Myiasis", "expected_code": "B871", "expected_code_dotted": "B87.1", "source": "cms_alphabetic_index", "path": ["Myiasis", "traumatic"]}
+{"query": "trichodermal Cyst", "expected_code": "L7212", "expected_code_dotted": "L72.12", "source": "cms_alphabetic_index", "path": ["Cyst", "trichodermal"]}
+{"query": "tropicalis Miliaria", "expected_code": "L742", "expected_code_dotted": "L74.2", "source": "cms_alphabetic_index", "path": ["Miliaria", "tropicalis"]}
+{"query": "trunk Burn", "expected_code": "T2100", "expected_code_dotted": "T21.00", "source": "cms_alphabetic_index", "path": ["Burn", "trunk"]}
+{"query": "trunk back Abscess", "expected_code": "L02212", "expected_code_dotted": "L02.212", "source": "cms_alphabetic_index", "path": ["Abscess", "trunk", "back"]}
+{"query": "tuberculous Arthritis", "expected_code": "A1802", "expected_code_dotted": "A18.02", "source": "cms_alphabetic_index", "path": ["Arthritis, arthritic", "tuberculous"]}
+{"query": "tuberculous Hepatitis", "expected_code": "A1883", "expected_code_dotted": "A18.83", "source": "cms_alphabetic_index", "path": ["Hepatitis", "tuberculous"]}
+{"query": "tuberculous Meningitis", "expected_code": "A170", "expected_code_dotted": "A17.0", "source": "cms_alphabetic_index", "path": ["Meningitis", "tuberculous"]}
+{"query": "tubulo-interstitial sepsis streptococcal Disorder", "expected_code": "A409", "expected_code_dotted": "A40.9", "source": "cms_alphabetic_index", "path": ["Disorder", "tubulo-interstitial", "sepsis", "streptococcal"]}
+{"query": "tumor associated Pain", "expected_code": "G893", "expected_code_dotted": "G89.3", "source": "cms_alphabetic_index", "path": ["Pain", "tumor associated"]}
+{"query": "tunica vaginalis Tuberculosis", "expected_code": "A1815", "expected_code_dotted": "A18.15", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "tunica vaginalis"]}
+{"query": "tunica vasculosa lentis Persistence", "expected_code": "Q122", "expected_code_dotted": "Q12.2", "source": "cms_alphabetic_index", "path": ["Persistence, persistent", "tunica vasculosa lentis"]}
+{"query": "type 1 with circulatory complication NEC Diabetes", "expected_code": "E1059", "expected_code_dotted": "E10.59", "source": "cms_alphabetic_index", "path": ["Diabetes, diabetic", "type 1", "with", "circulatory complication NEC"]}
+{"query": "type 2 with Kimmelstiel-Wilson disease Diabetes", "expected_code": "E1121", "expected_code_dotted": "E11.21", "source": "cms_alphabetic_index", "path": ["Diabetes, diabetic", "type 2", "with", "Kimmelstiel-Wilson disease"]}
+{"query": "type 2 with cataract Diabetes", "expected_code": "E1136", "expected_code_dotted": "E11.36", "source": "cms_alphabetic_index", "path": ["Diabetes, diabetic", "type 2", "with", "cataract"]}
+{"query": "type VII Mucopolysaccharidosis", "expected_code": "E7629", "expected_code_dotted": "E76.29", "source": "cms_alphabetic_index", "path": ["Mucopolysaccharidosis", "type", "VII"]}
+{"query": "type hypothyroid Cretin", "expected_code": "E001", "expected_code_dotted": "E00.1", "source": "cms_alphabetic_index", "path": ["Cretin, cretinism", "type", "hypothyroid"]}
+{"query": "ulcerative Endocarditis", "expected_code": "I330", "expected_code_dotted": "I33.0", "source": "cms_alphabetic_index", "path": ["Endocarditis", "ulcerative"]}
+{"query": "ulcerative left upper Blepharitis", "expected_code": "H01014", "expected_code_dotted": "H01.014", "source": "cms_alphabetic_index", "path": ["Blepharitis", "ulcerative", "left", "upper"]}
+{"query": "umbilical region with foreign body Puncture", "expected_code": "S31145", "expected_code_dotted": "S31.145", "source": "cms_alphabetic_index", "path": ["Puncture", "umbilical region", "with foreign body"]}
+{"query": "umbilical stump Bleeding", "expected_code": "P519", "expected_code_dotted": "P51.9", "source": "cms_alphabetic_index", "path": ["Bleeding", "umbilical stump"]}
+{"query": "umbrella device mechanical protrusion Complication", "expected_code": "T82595", "expected_code_dotted": "T82.595", "source": "cms_alphabetic_index", "path": ["Complication", "umbrella device, vascular", "mechanical", "protrusion"]}
+{"query": "unguium Fragilitas", "expected_code": "L603", "expected_code_dotted": "L60.3", "source": "cms_alphabetic_index", "path": ["Fragilitas", "unguium"]}
+{"query": "unspecified site Medullomyoblastoma", "expected_code": "C716", "expected_code_dotted": "C71.6", "source": "cms_alphabetic_index", "path": ["Medullomyoblastoma", "unspecified site"]}
+{"query": "unspecified site Sarcomatosis", "expected_code": "C801", "expected_code_dotted": "C80.1", "source": "cms_alphabetic_index", "path": ["Sarcomatosis", "unspecified site"]}
+{"query": "upper jaw Odontosarcoma", "expected_code": "C410", "expected_code_dotted": "C41.0", "source": "cms_alphabetic_index", "path": ["Odontosarcoma, ameloblastic", "upper jaw"]}
+{"query": "upper limb multiple sites right Corrosion", "expected_code": "T22491", "expected_code_dotted": "T22.491", "source": "cms_alphabetic_index", "path": ["Corrosion", "upper limb", "multiple sites", "right"]}
+{"query": "urachus Persistence", "expected_code": "Q644", "expected_code_dotted": "Q64.4", "source": "cms_alphabetic_index", "path": ["Persistence, persistent", "urachus"]}
+{"query": "urethra Congestion", "expected_code": "N368", "expected_code_dotted": "N36.8", "source": "cms_alphabetic_index", "path": ["Congestion, congestive", "urethra"]}
+{"query": "urethra Contusion", "expected_code": "S3732", "expected_code_dotted": "S37.32", "source": "cms_alphabetic_index", "path": ["Contusion", "urethra"]}
+{"query": "urethra Disease", "expected_code": "N369", "expected_code_dotted": "N36.9", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "urethra"]}
+{"query": "urethra NEC congenital Obstruction", "expected_code": "Q6439", "expected_code_dotted": "Q64.39", "source": "cms_alphabetic_index", "path": ["Obstruction, obstructed, obstructive", "urethra NEC", "congenital"]}
+{"query": "urethra Sacculation", "expected_code": "N361", "expected_code_dotted": "N36.1", "source": "cms_alphabetic_index", "path": ["Sacculation", "urethra"]}
+{"query": "urethra specified NEC Disorder", "expected_code": "N368", "expected_code_dotted": "N36.8", "source": "cms_alphabetic_index", "path": ["Disorder", "urethra", "specified NEC"]}
+{"query": "urinary specified NEC Stone", "expected_code": "N218", "expected_code_dotted": "N21.8", "source": "cms_alphabetic_index", "path": ["Stone", "urinary", "specified NEC"]}
+{"query": "urine postural Incontinence", "expected_code": "N39492", "expected_code_dotted": "N39.492", "source": "cms_alphabetic_index", "path": ["Incontinence", "urine", "postural"]}
+{"query": "uteroabdominal congenital Fistula", "expected_code": "Q517", "expected_code_dotted": "Q51.7", "source": "cms_alphabetic_index", "path": ["Fistula", "uteroabdominal", "congenital"]}
+{"query": "uterus dyscoordinate Contraction", "expected_code": "O624", "expected_code_dotted": "O62.4", "source": "cms_alphabetic_index", "path": ["Contraction, contracture, contracted", "uterus", "dyscoordinate"]}
+{"query": "uterus preclimacteric or premenopausal Bleeding", "expected_code": "N924", "expected_code_dotted": "N92.4", "source": "cms_alphabetic_index", "path": ["Bleeding", "uterus, uterine NEC", "preclimacteric or premenopausal"]}
+{"query": "uterus pregnant Rupture", "expected_code": "O711", "expected_code_dotted": "O71.1", "source": "cms_alphabetic_index", "path": ["Rupture, ruptured", "uterus", "pregnant"]}
+{"query": "uterus with remaining cervical stump Absence", "expected_code": "Z90711", "expected_code_dotted": "Z90.711", "source": "cms_alphabetic_index", "path": ["Absence", "uterus", "with remaining cervical stump"]}
+{"query": "uvula Injury", "expected_code": "S0993", "expected_code_dotted": "S09.93", "source": "cms_alphabetic_index", "path": ["Injury", "uvula"]}
+{"query": "vaccination reaction serum Complication", "expected_code": "T8062", "expected_code_dotted": "T80.62", "source": "cms_alphabetic_index", "path": ["Complication", "vaccination", "reaction", "serum"]}
+{"query": "vagina Deformity", "expected_code": "N898", "expected_code_dotted": "N89.8", "source": "cms_alphabetic_index", "path": ["Deformity", "vagina"]}
+{"query": "vagina Malformation", "expected_code": "Q524", "expected_code_dotted": "Q52.4", "source": "cms_alphabetic_index", "path": ["Malformation", "vagina"]}
+{"query": "vagina acquired Atresia", "expected_code": "N895", "expected_code_dotted": "N89.5", "source": "cms_alphabetic_index", "path": ["Atresia, atretic", "vagina", "acquired"]}
+{"query": "vagus nerve Paralysis", "expected_code": "G522", "expected_code_dotted": "G52.2", "source": "cms_alphabetic_index", "path": ["Paralysis, paralytic", "vagus nerve"]}
+{"query": "valve NEC sinus coronario Anomaly", "expected_code": "Q245", "expected_code_dotted": "Q24.5", "source": "cms_alphabetic_index", "path": ["Anomaly, anomalous", "valve NEC", "sinus coronario"]}
+{"query": "varicose veins Puerperal", "expected_code": "O874", "expected_code_dotted": "O87.4", "source": "cms_alphabetic_index", "path": ["Puerperal, puerperium", "varicose veins"]}
+{"query": "vascular Disturbance", "expected_code": "I999", "expected_code_dotted": "I99.9", "source": "cms_alphabetic_index", "path": ["Disturbance", "vascular"]}
+{"query": "vascular Lesion", "expected_code": "I999", "expected_code_dotted": "I99.9", "source": "cms_alphabetic_index", "path": ["Lesion", "vascular"]}
+{"query": "vascular mesenteric Insufficiency", "expected_code": "K551", "expected_code_dotted": "K55.1", "source": "cms_alphabetic_index", "path": ["Insufficiency, insufficient", "vascular", "mesenteric"]}
+{"query": "vascular peripheral Disease", "expected_code": "I739", "expected_code_dotted": "I73.9", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "vascular", "peripheral"]}
+{"query": "vasopressin Deficiency", "expected_code": "E232", "expected_code_dotted": "E23.2", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "vasopressin"]}
+{"query": "vein digestive system Hypoplasia", "expected_code": "Q278", "expected_code_dotted": "Q27.8", "source": "cms_alphabetic_index", "path": ["Hypoplasia, hypoplastic", "vein", "digestive system"]}
+{"query": "vein specified NEC chronic NEC Embolism", "expected_code": "I82891", "expected_code_dotted": "I82.891", "source": "cms_alphabetic_index", "path": ["Embolism", "vein", "specified NEC", "chronic NEC"]}
+{"query": "venereal disease Exposure", "expected_code": "Z202", "expected_code_dotted": "Z20.2", "source": "cms_alphabetic_index", "path": ["Exposure", "venereal disease"]}
+{"query": "verbal Agnosia", "expected_code": "R481", "expected_code_dotted": "R48.1", "source": "cms_alphabetic_index", "path": ["Agnosia", "verbal"]}
+{"query": "vertebra sacrum Fracture", "expected_code": "S3210", "expected_code_dotted": "S32.10", "source": "cms_alphabetic_index", "path": ["Fracture, traumatic", "vertebra, vertebral", "sacrum"]}
+{"query": "vesical Diverticulum", "expected_code": "N323", "expected_code_dotted": "N32.3", "source": "cms_alphabetic_index", "path": ["Diverticulum, diverticula", "vesical"]}
+{"query": "vesical Tenesmus", "expected_code": "R301", "expected_code_dotted": "R30.1", "source": "cms_alphabetic_index", "path": ["Tenesmus", "vesical"]}
+{"query": "vesicorectal congenital Fistula", "expected_code": "Q6479", "expected_code_dotted": "Q64.79", "source": "cms_alphabetic_index", "path": ["Fistula", "vesicorectal", "congenital"]}
+{"query": "vesicoureteral with pyelonephritis Reflux", "expected_code": "N110", "expected_code_dotted": "N11.0", "source": "cms_alphabetic_index", "path": ["Reflux", "vesicoureteral", "with", "pyelonephritis"]}
+{"query": "vesicoureteral without nephropathy Reflux", "expected_code": "N1371", "expected_code_dotted": "N13.71", "source": "cms_alphabetic_index", "path": ["Reflux", "vesicoureteral", "without nephropathy"]}
+{"query": "vesicourethral orifice Atresia", "expected_code": "Q6431", "expected_code_dotted": "Q64.31", "source": "cms_alphabetic_index", "path": ["Atresia, atretic", "vesicourethral orifice"]}
+{"query": "vestibule Obliteration", "expected_code": "K0889", "expected_code_dotted": "K08.89", "source": "cms_alphabetic_index", "path": ["Obliteration", "vestibule"]}
+{"query": "viral Disease", "expected_code": "B349", "expected_code_dotted": "B34.9", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "viral, virus"]}
+{"query": "viral nonarthropod-borne NOS Disease", "expected_code": "B349", "expected_code_dotted": "B34.9", "source": "cms_alphabetic_index", "path": ["Disease, diseased", "viral, virus", "nonarthropod-borne NOS"]}
+{"query": "virus cotia Infection", "expected_code": "B088", "expected_code_dotted": "B08.8", "source": "cms_alphabetic_index", "path": ["Infection, infected, infective", "virus, viral NOS", "cotia"]}
+{"query": "vision one eye left Loss", "expected_code": "H5462", "expected_code_dotted": "H54.62", "source": "cms_alphabetic_index", "path": ["Loss", "vision, visual", "one eye", "left"]}
+{"query": "visuospatial following cerebral infarction Deficit", "expected_code": "I69312", "expected_code_dotted": "I69.312", "source": "cms_alphabetic_index", "path": ["Deficit", "visuospatial", "following", "cerebral infarction"]}
+{"query": "vitreous body Cyst", "expected_code": "H4389", "expected_code_dotted": "H43.89", "source": "cms_alphabetic_index", "path": ["Cyst", "vitreous body"]}
+{"query": "vocal cord Contusion", "expected_code": "S100", "expected_code_dotted": "S10.0", "source": "cms_alphabetic_index", "path": ["Contusion", "vocal cord"]}
+{"query": "vocal cord Keratosis", "expected_code": "J383", "expected_code_dotted": "J38.3", "source": "cms_alphabetic_index", "path": ["Keratosis", "vocal cord"]}
+{"query": "von Jaksch's Anemia", "expected_code": "D6489", "expected_code_dotted": "D64.89", "source": "cms_alphabetic_index", "path": ["Anemia", "von Jaksch's"]}
+{"query": "von Willebrand factor partial quantitative Deficiency", "expected_code": "D6801", "expected_code_dotted": "D68.01", "source": "cms_alphabetic_index", "path": ["Deficiency, deficient", "von Willebrand factor", "partial quantitative"]}
+{"query": "voyeuristic Disorder", "expected_code": "F653", "expected_code_dotted": "F65.3", "source": "cms_alphabetic_index", "path": ["Disorder", "voyeuristic"]}
+{"query": "vulva Cyst", "expected_code": "N907", "expected_code_dotted": "N90.7", "source": "cms_alphabetic_index", "path": ["Cyst", "vulva"]}
+{"query": "vulva Hyperplasia", "expected_code": "N9069", "expected_code_dotted": "N90.69", "source": "cms_alphabetic_index", "path": ["Hyperplasia, hyperplastic", "vulva"]}
+{"query": "walking Difficult", "expected_code": "R262", "expected_code_dotted": "R26.2", "source": "cms_alphabetic_index", "path": ["Difficult, difficulty", "walking"]}
+{"query": "weeks of gestation 36 weeks Pregnancy", "expected_code": "Z3A36", "expected_code_dotted": "Z3A.36", "source": "cms_alphabetic_index", "path": ["Pregnancy", "weeks of gestation", "36 weeks"]}
+{"query": "welfare support Inadequate", "expected_code": "Z5972", "expected_code_dotted": "Z59.72", "source": "cms_alphabetic_index", "path": ["Inadequate, inadequacy", "welfare support"]}
+{"query": "with abnormal findings NEC Hearing examination", "expected_code": "Z01118", "expected_code_dotted": "Z01.118", "source": "cms_alphabetic_index", "path": ["Hearing examination", "with abnormal findings NEC"]}
+{"query": "with abortion Tetanus", "expected_code": "A34", "expected_code_dotted": "A34", "source": "cms_alphabetic_index", "path": ["Tetanus, tetanic", "with", "abortion"]}
+{"query": "with aura chronic Migraine", "expected_code": "G43E09", "expected_code_dotted": "G43.E09", "source": "cms_alphabetic_index", "path": ["Migraine", "with aura", "chronic"]}
+{"query": "with coma Hyperinsulinism", "expected_code": "E15", "expected_code_dotted": "E15", "source": "cms_alphabetic_index", "path": ["Hyperinsulinism", "with", "coma"]}
+{"query": "with disproportion Pithecoid pelvis", "expected_code": "O330", "expected_code_dotted": "O33.0", "source": "cms_alphabetic_index", "path": ["Pithecoid pelvis", "with disproportion"]}
+{"query": "with eye disease glaucoma Onchocerciasis", "expected_code": "B7302", "expected_code_dotted": "B73.02", "source": "cms_alphabetic_index", "path": ["Onchocerciasis, onchocercosis", "with", "eye disease", "glaucoma"]}
+{"query": "with gangrene Appendicitis", "expected_code": "K35891", "expected_code_dotted": "K35.891", "source": "cms_alphabetic_index", "path": ["Appendicitis", "with", "gangrene"]}
+{"query": "with glomerular lesion idiopathic immune membranoproliferative glomerulonephritis Nephritis", "expected_code": "N04B1", "expected_code_dotted": "N04.B1", "source": "cms_alphabetic_index", "path": ["Nephritis, nephritic", "with", "glomerular lesion", "idiopathic immune membranoproliferative glomerulonephritis"]}
+{"query": "with hepatocellular carcinoma Cholangiocarcinoma", "expected_code": "C220", "expected_code_dotted": "C22.0", "source": "cms_alphabetic_index", "path": ["Cholangiocarcinoma", "with hepatocellular carcinoma, combined"]}
+{"query": "with hyperimmunoglobulinemia Immunodeficiency", "expected_code": "D806", "expected_code_dotted": "D80.6", "source": "cms_alphabetic_index", "path": ["Immunodeficiency", "with", "hyperimmunoglobulinemia"]}
+{"query": "with muscle disorder forearm Schistosomiasis", "expected_code": "B659", "expected_code_dotted": "B65.9", "source": "cms_alphabetic_index", "path": ["Schistosomiasis", "with muscle disorder", "forearm"]}
+{"query": "with myelopathy NEC thoracolumbar region Spondylosis", "expected_code": "M4715", "expected_code_dotted": "M47.15", "source": "cms_alphabetic_index", "path": ["Spondylosis", "with", "myelopathy NEC", "thoracolumbar region"]}
+{"query": "with myopathy Polymyositis", "expected_code": "M3322", "expected_code_dotted": "M33.22", "source": "cms_alphabetic_index", "path": ["Polymyositis", "with", "myopathy"]}
+{"query": "with otitis media Measles", "expected_code": "B053", "expected_code_dotted": "B05.3", "source": "cms_alphabetic_index", "path": ["Measles", "with", "otitis media"]}
+{"query": "with perforation NOS Appendicitis", "expected_code": "K3532", "expected_code_dotted": "K35.32", "source": "cms_alphabetic_index", "path": ["Appendicitis", "with", "perforation NOS"]}
+{"query": "with pneumoconiosis Tuberculosis", "expected_code": "J65", "expected_code_dotted": "J65", "source": "cms_alphabetic_index", "path": ["Tuberculosis, tubercular, tuberculous", "with pneumoconiosis"]}
+{"query": "with pneumonia due to Bordetella pertussis Whooping cough", "expected_code": "A3701", "expected_code_dotted": "A37.01", "source": "cms_alphabetic_index", "path": ["Whooping cough", "with pneumonia", "due to Bordetella", "pertussis"]}
+{"query": "with polyneuropathy Pellagra", "expected_code": "E52", "expected_code_dotted": "E52", "source": "cms_alphabetic_index", "path": ["Pellagra", "with", "polyneuropathy"]}
+{"query": "with refractory migraine with status migrainosus Migraine", "expected_code": "G43911", "expected_code_dotted": "G43.911", "source": "cms_alphabetic_index", "path": ["Migraine", "with refractory migraine", "with status migrainosus"]}
+{"query": "with specified organ involvement NEC Dermatomucosomyositis", "expected_code": "M3319", "expected_code_dotted": "M33.19", "source": "cms_alphabetic_index", "path": ["Dermatomucosomyositis", "with", "specified organ involvement NEC"]}
+{"query": "with specified organ involvement NEC Polymyositis", "expected_code": "M3329", "expected_code_dotted": "M33.29", "source": "cms_alphabetic_index", "path": ["Polymyositis", "with", "specified organ involvement NEC"]}
+{"query": "with verbal response irritable cries Coma", "expected_code": "R40224", "expected_code_dotted": "R40.224", "source": "cms_alphabetic_index", "path": ["Coma", "with", "verbal response", "irritable cries"]}
+{"query": "with weight of 750-999 grams Small-for-dates", "expected_code": "P0513", "expected_code_dotted": "P05.13", "source": "cms_alphabetic_index", "path": ["Small-for-dates", "with weight of", "750-999 grams"]}
+{"query": "without myelopathy or radiculopathy Spondylosis", "expected_code": "M47819", "expected_code_dotted": "M47.819", "source": "cms_alphabetic_index", "path": ["Spondylosis", "without myelopathy or radiculopathy"]}
+{"query": "xerotic vitamin A deficiency Keratitis", "expected_code": "E504", "expected_code_dotted": "E50.4", "source": "cms_alphabetic_index", "path": ["Keratitis", "xerotic", "vitamin A deficiency"]}

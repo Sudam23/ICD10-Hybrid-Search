@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: icd10-hybrid-search
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    region: oregon
+    healthCheckPath: /api/health
+    envVars:
+      - key: ICD10_RATE_LIMIT_REQUESTS
+        value: "60"
+      - key: ICD10_RATE_LIMIT_WINDOW
+        value: "60"
+      - key: OMP_NUM_THREADS
+        value: "1"

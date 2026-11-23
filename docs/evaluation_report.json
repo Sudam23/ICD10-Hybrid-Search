@@ -1,0 +1,343 @@
+{
+  "generated_at": "2026-11-23T14:33:14Z",
+  "project_version": "1.0.0",
+  "index": {
+    "built_at": "2026-11-23T13:01:46+00:00",
+    "corpus_path": "corpus.jsonl.gz",
+    "corpus_sha256_prefix": "ad31fc1caebf9cf6",
+    "num_documents": 98186,
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "embedding_dim": 384,
+    "doc_text_variant": "desc_incl_parent_block",
+    "quantization": "int8-symmetric-per-row",
+    "bm25": {
+      "k1": 1.5,
+      "b": 0.75,
+      "vocabulary_terms": 11108,
+      "postings": 1082040,
+      "avg_doc_length": 16.062
+    },
+    "build_seconds": 1555.6,
+    "artifact_bytes": {
+      "dense_int8.npy": 37703552,
+      "dense_scales.npy": 392872,
+      "lexical_bm25.npz": 1693396
+    }
+  },
+  "fusion_weights": {
+    "dense": 1.0,
+    "lexical": 0.75
+  },
+  "ks": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "gold_sets": {
+    "cms_index_test": {
+      "num_queries": 1000,
+      "modes": {
+        "lexical": {
+          "name": "lexical",
+          "num_queries": 1000,
+          "recall_at": {
+            "1": 0.389,
+            "3": 0.517,
+            "5": 0.569,
+            "10": 0.637
+          },
+          "mrr_at_10": 0.4666,
+          "median_latency_ms": 0.21,
+          "p95_latency_ms": 0.45
+        },
+        "dense": {
+          "name": "dense",
+          "num_queries": 1000,
+          "recall_at": {
+            "1": 0.405,
+            "3": 0.572,
+            "5": 0.626,
+            "10": 0.691
+          },
+          "mrr_at_10": 0.4997,
+          "median_latency_ms": 15.49,
+          "p95_latency_ms": 19.21
+        },
+        "hybrid": {
+          "name": "hybrid",
+          "num_queries": 1000,
+          "recall_at": {
+            "1": 0.441,
+            "3": 0.597,
+            "5": 0.662,
+            "10": 0.73
+          },
+          "mrr_at_10": 0.5334,
+          "median_latency_ms": 16.31,
+          "p95_latency_ms": 20.22
+        }
+      },
+      "complementarity_at_10": {
+        "k": 10,
+        "both": 573,
+        "only_first": 118,
+        "only_second": 64,
+        "neither": 245,
+        "total": 1000
+      },
+      "examples": {
+        "correct_at_rank_1": [
+          {
+            "query": "11-hydroxylase Defect",
+            "expected_code": "E25.0",
+            "expected_description": "Congenital adrenogenital disorders associated with enzyme deficiency",
+            "top_result_code": "E25.0",
+            "top_result_description": "Congenital adrenogenital disorders associated with enzyme deficiency",
+            "rank_of_expected": 1
+          },
+          {
+            "query": "Aarskog's syndrome",
+            "expected_code": "Q87.19",
+            "expected_description": "Other congenital malformation syndromes predominantly associated with short stature",
+            "top_result_code": "Q87.19",
+            "top_result_description": "Other congenital malformation syndromes predominantly associated with short stature",
+            "rank_of_expected": 1
+          },
+          {
+            "query": "Bat ear",
+            "expected_code": "Q17.5",
+            "expected_description": "Prominent ear",
+            "top_result_code": "Q17.5",
+            "top_result_description": "Prominent ear",
+            "rank_of_expected": 1
+          },
+          {
+            "query": "Bell's Paralysis",
+            "expected_code": "G51.0",
+            "expected_description": "Bell's palsy",
+            "top_result_code": "G51.0",
+            "top_result_description": "Bell's palsy",
+            "rank_of_expected": 1
+          },
+          {
+            "query": "Compressed air disease",
+            "expected_code": "T70.3",
+            "expected_description": "Caisson disease [decompression sickness]",
+            "top_result_code": "T70.3",
+            "top_result_description": "Caisson disease [decompression sickness]",
+            "rank_of_expected": 1
+          }
+        ],
+        "not_found_in_top_10": [
+          {
+            "query": "Acanthocheilonema Infestation",
+            "expected_code": "B74.4",
+            "expected_description": "Mansonelliasis",
+            "top_result_code": "B88.2",
+            "top_result_description": "Other arthropod infestations",
+            "rank_of_expected": null
+          },
+          {
+            "query": "Barrel chest",
+            "expected_code": "M95.4",
+            "expected_description": "Acquired deformity of chest and rib",
+            "top_result_code": "S28.0XXS",
+            "top_result_description": "Crushed chest, sequela",
+            "rank_of_expected": null
+          },
+          {
+            "query": "Bayle's disease",
+            "expected_code": "A52.17",
+            "expected_description": "General paresis",
+            "top_result_code": "E74.04",
+            "top_result_description": "McArdle disease",
+            "rank_of_expected": null
+          },
+          {
+            "query": "Bloch-Sulzberger disease or syndrome",
+            "expected_code": "Q82.3",
+            "expected_description": "Incontinentia pigmenti",
+            "top_result_code": "E78.72",
+            "top_result_description": "Smith-Lemli-Opitz syndrome",
+            "rank_of_expected": null
+          },
+          {
+            "query": "Brenner Tumor",
+            "expected_code": "D27.9",
+            "expected_description": "Benign neoplasm of unspecified ovary",
+            "top_result_code": "D48.114",
+            "top_result_description": "Desmoid tumor, intraabdominal",
+            "rank_of_expected": null
+          }
+        ]
+      },
+      "dense_float32": {
+        "name": "dense_float32",
+        "num_queries": 1000,
+        "recall_at": {
+          "1": 0.41,
+          "3": 0.574,
+          "5": 0.628,
+          "10": 0.694
+        },
+        "mrr_at_10": 0.5027,
+        "median_latency_ms": 5.7,
+        "p95_latency_ms": 7.4
+      },
+      "int8_recall_delta_at_10": -0.003
+    },
+    "hand_written_lay": {
+      "num_queries": 54,
+      "modes": {
+        "lexical": {
+          "name": "lexical",
+          "num_queries": 54,
+          "recall_at": {
+            "1": 0.2222,
+            "3": 0.3704,
+            "5": 0.5185,
+            "10": 0.6852
+          },
+          "mrr_at_10": 0.3453,
+          "median_latency_ms": 0.25,
+          "p95_latency_ms": 0.58
+        },
+        "dense": {
+          "name": "dense",
+          "num_queries": 54,
+          "recall_at": {
+            "1": 0.2407,
+            "3": 0.5556,
+            "5": 0.6481,
+            "10": 0.7407
+          },
+          "mrr_at_10": 0.412,
+          "median_latency_ms": 16.03,
+          "p95_latency_ms": 19.22
+        },
+        "hybrid": {
+          "name": "hybrid",
+          "num_queries": 54,
+          "recall_at": {
+            "1": 0.3519,
+            "3": 0.5741,
+            "5": 0.7222,
+            "10": 0.7778
+          },
+          "mrr_at_10": 0.4933,
+          "median_latency_ms": 16.25,
+          "p95_latency_ms": 18.99
+        }
+      },
+      "complementarity_at_10": {
+        "k": 10,
+        "both": 32,
+        "only_first": 8,
+        "only_second": 5,
+        "neither": 9,
+        "total": 54
+      },
+      "examples": {
+        "correct_at_rank_1": [
+          {
+            "query": "high blood pressure",
+            "expected_code": "I10",
+            "expected_description": "Essential (primary) hypertension",
+            "top_result_code": "I10",
+            "top_result_description": "Essential (primary) hypertension",
+            "rank_of_expected": 1
+          },
+          {
+            "query": "type 2 diabetes with no complications",
+            "expected_code": "E11.9",
+            "expected_description": "Type 2 diabetes mellitus without complications",
+            "top_result_code": "E11.9",
+            "top_result_description": "Type 2 diabetes mellitus without complications",
+            "rank_of_expected": 1
+          },
+          {
+            "query": "chest pain",
+            "expected_code": "R07.9",
+            "expected_description": "Chest pain, unspecified",
+            "top_result_code": "R07.9",
+            "top_result_description": "Chest pain, unspecified",
+            "rank_of_expected": 1
+          },
+          {
+            "query": "asthma, unspecified, uncomplicated",
+            "expected_code": "J45.909",
+            "expected_description": "Unspecified asthma, uncomplicated",
+            "top_result_code": "J45.909",
+            "top_result_description": "Unspecified asthma, uncomplicated",
+            "rank_of_expected": 1
+          },
+          {
+            "query": "fever",
+            "expected_code": "R50.9",
+            "expected_description": "Fever, unspecified",
+            "top_result_code": "R50.9",
+            "top_result_description": "Fever, unspecified",
+            "rank_of_expected": 1
+          }
+        ],
+        "not_found_in_top_10": [
+          {
+            "query": "migraine headache",
+            "expected_code": "G43.909",
+            "expected_description": "Migraine, unspecified, not intractable, without status migrainosus",
+            "top_result_code": "G43",
+            "top_result_description": "Migraine",
+            "rank_of_expected": null
+          },
+          {
+            "query": "pink eye",
+            "expected_code": "H10.9",
+            "expected_description": "Unspecified conjunctivitis",
+            "top_result_code": "H10.821",
+            "top_result_description": "Rosacea conjunctivitis, right eye",
+            "rank_of_expected": null
+          },
+          {
+            "query": "underactive thyroid",
+            "expected_code": "E03.9",
+            "expected_description": "Hypothyroidism, unspecified",
+            "top_result_code": "T38.1X6",
+            "top_result_description": "Underdosing of thyroid hormones and substitutes",
+            "rank_of_expected": null
+          },
+          {
+            "query": "overactive thyroid",
+            "expected_code": "E05.90",
+            "expected_description": "Thyrotoxicosis, unspecified without thyrotoxic crisis or storm",
+            "top_result_code": "E05.8",
+            "top_result_description": "Other thyrotoxicosis",
+            "rank_of_expected": null
+          },
+          {
+            "query": "high cholesterol",
+            "expected_code": "E78.00",
+            "expected_description": "Pure hypercholesterolemia, unspecified",
+            "top_result_code": "E78.6",
+            "top_result_description": "Lipoprotein deficiency",
+            "rank_of_expected": null
+          }
+        ]
+      },
+      "dense_float32": {
+        "name": "dense_float32",
+        "num_queries": 54,
+        "recall_at": {
+          "1": 0.2593,
+          "3": 0.5556,
+          "5": 0.6481,
+          "10": 0.7407
+        },
+        "mrr_at_10": 0.4211,
+        "median_latency_ms": 4.88,
+        "p95_latency_ms": 6.79
+      },
+      "int8_recall_delta_at_10": 0.0
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{"query": "high blood pressure", "expected_code_dotted": "I10"}
+{"query": "type 2 diabetes with no complications", "expected_code_dotted": "E11.9"}
+{"query": "chest pain", "expected_code_dotted": "R07.9"}
+{"query": "asthma, unspecified, uncomplicated", "expected_code_dotted": "J45.909"}
+{"query": "migraine headache", "expected_code_dotted": "G43.909"}
+{"query": "hay fever with runny nose", "expected_code_dotted": "J30.2"}
+{"query": "pink eye", "expected_code_dotted": "H10.9"}
+{"query": "low back pain", "expected_code_dotted": "M54.50"}
+{"query": "covid-19", "expected_code_dotted": "U07.1"}
+{"query": "fever", "expected_code_dotted": "R50.9"}
+{"query": "headache", "expected_code_dotted": "R51.9"}
+{"query": "dizziness and giddiness", "expected_code_dotted": "R42"}
+{"query": "shortness of breath", "expected_code_dotted": "R06.02"}
+{"query": "cough", "expected_code_dotted": "R05.9"}
+{"query": "nausea with vomiting", "expected_code_dotted": "R11.2"}
+{"query": "diarrhea", "expected_code_dotted": "R19.7"}
+{"query": "constipation", "expected_code_dotted": "K59.00"}
+{"query": "acid reflux without esophagitis", "expected_code_dotted": "K21.9"}
+{"query": "urinary tract infection", "expected_code_dotted": "N39.0"}
+{"query": "iron deficiency anemia", "expected_code_dotted": "D50.9"}
+{"query": "underactive thyroid", "expected_code_dotted": "E03.9"}
+{"query": "overactive thyroid", "expected_code_dotted": "E05.90"}
+{"query": "high cholesterol", "expected_code_dotted": "E78.00"}
+{"query": "obesity", "expected_code_dotted": "E66.9"}
+{"query": "depression", "expected_code_dotted": "F32.A"}
+{"query": "anxiety", "expected_code_dotted": "F41.9"}
+{"query": "trouble sleeping", "expected_code_dotted": "G47.00"}
+{"query": "cigarette smoking addiction", "expected_code_dotted": "F17.210"}
+{"query": "food poisoning from salmonella", "expected_code_dotted": "A02.9"}
+{"query": "chickenpox", "expected_code_dotted": "B01.9"}
+{"query": "shingles", "expected_code_dotted": "B02.9"}
+{"query": "strep throat", "expected_code_dotted": "J02.0"}
+{"query": "middle ear infection", "expected_code_dotted": "H66.90"}
+{"query": "sinus infection", "expected_code_dotted": "J01.90"}
+{"query": "kidney stone", "expected_code_dotted": "N20.0"}
+{"query": "gallstones", "expected_code_dotted": "K80.20"}
+{"query": "acute appendicitis", "expected_code_dotted": "K35.80"}
+{"query": "high blood sugar", "expected_code_dotted": "R73.9"}
+{"query": "memory loss", "expected_code_dotted": "R41.3"}
+{"query": "chronic kidney disease stage 3", "expected_code_dotted": "N18.30"}
+{"query": "sleep apnea", "expected_code_dotted": "G47.33"}
+{"query": "arthritis of the knee", "expected_code_dotted": "M17.9"}
+{"query": "rheumatoid arthritis", "expected_code_dotted": "M06.9"}
+{"query": "eczema", "expected_code_dotted": "L30.9"}
+{"query": "psoriasis", "expected_code_dotted": "L40.9"}
+{"query": "acne", "expected_code_dotted": "L70.0"}
+{"query": "cataract", "expected_code_dotted": "H26.9"}
+{"query": "glaucoma", "expected_code_dotted": "H40.9"}
+{"query": "anemia", "expected_code_dotted": "D64.9"}
+{"query": "dehydration", "expected_code_dotted": "E86.0"}
+{"query": "vitamin d deficiency", "expected_code_dotted": "E55.9"}
+{"query": "history of stroke", "expected_code_dotted": "Z86.73"}
+{"query": "broken nose first visit", "expected_code_dotted": "S02.2XXA"}
+{"query": "alcohol abuse without complications", "expected_code_dotted": "F10.10"}

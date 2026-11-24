@@ -115,7 +115,10 @@ flowchart LR
 ```
 
 **Step 2 — answer a search.** This runs on every query and takes about
-16 ms. It reads the two indexes built in step 1 and writes nothing.
+16 ms on a laptop. It reads the two indexes built in step 1 and
+writes nothing. The free instance the demo is deployed to has about a tenth of a CPU
+core, where the same query is measured at roughly 1.4 s — see
+[deployed speed](#deployed-speed).
 
 ```mermaid
 flowchart LR
@@ -220,10 +223,28 @@ is deliberately *not* used as a search feature — are in
 
 **No approximate-nearest-neighbour index (no FAISS, no vector database).**
 98,186 vectors × 384 dimensions is about 38 million multiply-adds, which NumPy
-scores in ~11 ms; the full query, embedding included, is 16 ms. An ANN index
-would add a dependency, a build step and an accuracy loss to speed up something
-that is already fast enough. Exact search means the top 10 is genuinely the
-top 10.
+scores in ~11 ms on a laptop; the full query, embedding included, is 16 ms. An
+ANN index would add a dependency, a build step and an accuracy loss to speed up
+something that is already fast enough. Exact search means the top 10 is
+genuinely the top 10.
+
+### Deployed speed
+
+Every latency in this README was measured on a laptop, which is the fair way to
+compare the three retrieval modes with each other — they all run on the same
+hardware. It is not what a visitor to the demo experiences.
+
+The free Render plan gives the service roughly a tenth of a CPU core. Measured
+against the live instance on 2026-11-24, seven warm queries: **median 1.4 s**,
+range 1.2–2.9 s. Both halves of the work — embedding the query, and the exact
+scan over 98,186 vectors — are about ninety times slower there than on a laptop,
+which is what a tenth of a core predicts.
+
+Nothing here is wasted work that could be moved to build time: the query is not
+known until it arrives, and the scan is the search itself. Getting below a
+second on this hardware would mean an ANN index and the accuracy loss above, or
+a paid instance. For a demo answering in under two seconds, neither is worth it
+— but the honest number is 1.4 s, not 16 ms.
 
 **The vectors are compressed from 32-bit floats to 8-bit integers.**
 That takes the index from 151 MB to 37.7 MB, which is what lets the whole

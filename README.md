@@ -117,7 +117,7 @@ flowchart LR
 **Step 2 — answer a search.** This runs on every query and takes about
 16 ms on a laptop. It reads the two indexes built in step 1 and
 writes nothing. The free instance the demo is deployed to has about a tenth of a CPU
-core, where the same query is measured at roughly 1.4 s — see
+core, where the same query is measured at roughly 1.9 s — see
 [deployed speed](#deployed-speed).
 
 ```mermaid
@@ -235,8 +235,10 @@ compare the three retrieval modes with each other — they all run on the same
 hardware. It is not what a visitor to the demo experiences.
 
 The free Render plan gives the service roughly a tenth of a CPU core. Measured
-against the live instance on 2026-11-24, seven warm queries: **median 1.4 s**,
-range 1.2–2.9 s. Both halves of the work — embedding the query, and the exact
+against the live instance on 2026-11-24: **median 1.9 s**, range 1.2–2.9 s, over 14
+warm queries in two runs. Two runs rather than one because the first run alone gave a
+median of 1.4 s and the second 2.1 s — the free plan shares a CPU, and seven samples
+were not enough to quote a stable number. Both halves of the work — embedding the query, and the exact
 scan over 98,186 vectors — are about ninety times slower there than on a laptop,
 which is what a tenth of a core predicts.
 

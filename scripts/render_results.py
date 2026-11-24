@@ -223,7 +223,7 @@ flowchart LR
 **Step 2 — answer a search.** This runs on every query and takes about
 {hybrid["median_latency_ms"]:.0f} ms on a laptop. It reads the two indexes built in step 1 and
 writes nothing. The free instance the demo is deployed to has about a tenth of a CPU
-core, where the same query is measured at roughly 1.4 s — see
+core, where the same query is measured at roughly 1.9 s — see
 [deployed speed](#deployed-speed).
 
 ```mermaid

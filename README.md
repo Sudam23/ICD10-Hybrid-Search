@@ -9,8 +9,8 @@ diagnosis code back.
 > The official title of that code does not contain the words *ringing*, *in*,
 > *the* or *ears*. A normal keyword search finds nothing. This one finds it.
 
-[![CI](https://github.com/Sudam23/icd10-hybrid-search/actions/workflows/ci.yml/badge.svg)](https://github.com/Sudam23/icd10-hybrid-search/actions/workflows/ci.yml)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Sudam23/icd10-hybrid-search)
+[![CI](https://github.com/Sudam23/ICD10-Hybrid-Search/actions/workflows/ci.yml/badge.svg)](https://github.com/Sudam23/ICD10-Hybrid-Search/actions/workflows/ci.yml)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Sudam23/ICD10-Hybrid-Search)
 
 > **Demonstration project.** Results are suggestions from public CMS reference
 > data. This is not a certified coding tool and not medical advice.
@@ -287,8 +287,8 @@ Full method, including the queries it still gets wrong:
 ## 7. Run it yourself
 
 ```bash
-git clone https://github.com/Sudam23/icd10-hybrid-search.git
-cd icd10-hybrid-search
+git clone https://github.com/Sudam23/ICD10-Hybrid-Search.git
+cd ICD10-Hybrid-Search
 make venv     # create the environment
 make serve    # open http://127.0.0.1:8000
 ```

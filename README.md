@@ -89,70 +89,94 @@ rather than taken on faith.
 
 ### 4.1 The big picture
 
+<!-- DIAGRAM-ARCH:START -->
+**Step 1 — build the index.** This runs once, offline. It takes about
+26 minutes on a laptop and nothing here happens while a user is waiting.
+
 ```mermaid
 flowchart LR
-    subgraph BUILD["BUILD ONCE (offline)"]
-        direction TB
-        CMS["CMS ICD-10-CM 2026<br/>public release files"]
-        PARSE["parse + merge<br/>titles, chapters, synonyms"]
-        CORPUS[("corpus.jsonl.gz<br/>98,186 codes")]
-        EMB["embed every code<br/>bge-small-en-v1.5"]
-        BM25B["build inverted index"]
-        DIDX[("dense_int8.npy<br/>98,186 x 384 int8")]
-        LIDX[("lexical_bm25.npz<br/>11,108 terms")]
-        CMS --> PARSE --> CORPUS
-        CORPUS --> EMB --> DIDX
-        CORPUS --> BM25B --> LIDX
-    end
+    CMS["<b>CMS ICD-10-CM 2026</b><br/>the official public release files"]
+    PARSE["<b>Parse and merge</b><br/>code titles, chapter ranges,<br/>index synonyms"]
+    CORPUS[("<b>corpus.jsonl.gz</b><br/>98,186 codes")]
+    EMB["<b>Embed every code</b><br/>BAAI/bge-small-en-v1.5<br/>384 numbers per code"]
+    QUANT["<b>Shrink to int8</b><br/>int8-symmetric-per-row<br/>38 MB instead of 151 MB"]
+    BM["<b>Build the word index</b><br/>BM25 over 11,108 terms<br/>k1=1.5, b=0.75"]
+    DIDX[("<b>Meaning index</b><br/>dense_int8.npy")]
+    LIDX[("<b>Word index</b><br/>lexical_bm25.npz")]
 
-    subgraph SERVE["SERVE (every query, ~16 ms)"]
-        direction TB
-        Q["user types<br/>ringing in the ears"]
-        DENSE["semantic arm<br/>cosine vs 98,186 vectors"]
-        LEX["keyword arm<br/>BM25"]
-        FUSE["combine the two rankings<br/>weighted RRF"]
-        OUT["ranked codes<br/>+ why each one matched"]
-        Q --> DENSE --> FUSE
-        Q --> LEX --> FUSE
-        FUSE --> OUT
-    end
+    CMS --> PARSE --> CORPUS
+    CORPUS --> EMB --> QUANT --> DIDX
+    CORPUS --> BM --> LIDX
 
-    DIDX -.loaded at startup.-> DENSE
-    LIDX -.loaded at startup.-> LEX
+    classDef build fill:#dbe7fb,stroke:#2f5fa8,color:#1a1a1a
+    classDef store fill:#ffe9a8,stroke:#9a7b25,stroke-width:2px,color:#1a1a1a
+    class CMS,PARSE,EMB,QUANT,BM build
+    class CORPUS,DIDX,LIDX store
 ```
 
-**Left half happens once**, when the index is built (26 minutes on a laptop).
-**Right half happens on every query** and takes about 16 milliseconds locally.
+**Step 2 — answer a search.** This runs on every query and takes about
+16 ms. It reads the two indexes built in step 1 and writes nothing.
+
+```mermaid
+flowchart LR
+    Q["<b>Someone types</b><br/><i>ringing in the ears</i>"]
+    DENSE["<b>Meaning arm</b><br/>cosine against all<br/>98,186 int8 vectors"]
+    LEX["<b>Word arm</b><br/>BM25 over the same codes"]
+    DIDX2[("<b>Meaning index</b><br/>held in memory")]
+    LIDX2[("<b>Word index</b><br/>held in memory")]
+    FUSE["<b>Combine the two rankings</b><br/>weighted reciprocal rank fusion<br/>meaning 1.0, words 0.75"]
+    OUT["<b>Ranked codes</b><br/>each with the evidence for it:<br/>rank and score from each arm,<br/>and which words matched"]
+
+    Q --> DENSE
+    Q --> LEX
+    DIDX2 -. "loaded at startup" .-> DENSE
+    LIDX2 -. "loaded at startup" .-> LEX
+    DENSE --> FUSE
+    LEX --> FUSE
+    FUSE --> OUT
+
+    classDef serve fill:#d8f0dd,stroke:#1e7e34,color:#1a1a1a
+    classDef store fill:#ffe9a8,stroke:#9a7b25,stroke-width:2px,color:#1a1a1a
+    class Q,DENSE,LEX,FUSE,OUT serve
+    class DIDX2,LIDX2 store
+```
+
+**How to read them.** Blue boxes run **once**, when the index is built. Green boxes run
+**on every search**. The yellow cylinders are the files on disk — the only thing the two
+halves share, and the reason a search is fast: all the slow work already happened in
+step 1.
+<!-- DIAGRAM-ARCH:END -->
 
 ### 4.2 What happens to a single query, step by step
 
+<!-- DIAGRAM-QUERY:START -->
 ```mermaid
 flowchart TD
-    A["query text"] --> B{"does it look like<br/>a code? e.g. E11.9"}
-    B -->|yes| C["look the code up directly<br/>pin it + its siblings on top"]
-    B -->|no| D(["run both arms"])
+    A["<b>query text</b>"] --> B{"does it look like a code?<br/>e.g. E11.9"}
+    B -- "yes" --> C["<b>look the code up directly</b><br/>pin it and its siblings on top"]
+    B -- "no" --> D(["run both arms"])
 
-    subgraph SEM["SEMANTIC ARM"]
-        direction TB
-        E1["add bge query prefix"] --> E2["embed to 384 numbers<br/>ONNX Runtime, CPU"]
-        E2 --> E3["cosine against all<br/>98,186 int8 vectors"]
-    end
+    D --> E1["<b>Meaning arm</b><br/>add the bge query prefix"]
+    E1 --> E2["embed to 384 numbers<br/>ONNX Runtime, CPU"]
+    E2 --> E3["cosine against all<br/>98,186 int8 vectors"]
 
-    subgraph KEY["KEYWORD ARM"]
-        direction TB
-        F1["lowercase, strip plurals<br/>drop stop-words"] --> F2["BM25 score<br/>k1=1.5, b=0.75"]
-    end
+    D --> F1["<b>Word arm</b><br/>lowercase, strip plurals,<br/>drop stop-words"]
+    F1 --> F2["BM25 score<br/>k1=1.5, b=0.75"]
 
-    D --> E1
-    D --> F1
-    E3 --> G["apply filters<br/>billable / chapter"]
+    E3 --> G["<b>apply the filters</b><br/>billable / chapter"]
     F2 --> G
-    G --> H["take top 100 from each arm"]
-    H --> I["weighted Reciprocal Rank Fusion<br/>k=10, semantic 1.0, keyword 0.75"]
-    C --> J["final ranked list"]
+    G --> H["take the top 100 from each arm"]
+    H --> I["<b>weighted reciprocal rank fusion</b><br/>k=10, meaning 1.0, words 0.75"]
+    C --> J["<b>final ranked list</b>"]
     I --> J
-    J --> K["attach evidence:<br/>rank + score from each arm,<br/>matched words"]
+    J --> K["<b>attach the evidence</b><br/>rank and score from each arm,<br/>and the words that matched"]
+
+    classDef serve fill:#d8f0dd,stroke:#1e7e34,color:#1a1a1a
+    classDef pin fill:#fde2e2,stroke:#b03a3a,color:#1a1a1a
+    class A,D,E1,E2,E3,F1,F2,G,H,I,J,K serve
+    class C pin
 ```
+<!-- DIAGRAM-QUERY:END -->
 
 Three details in that diagram are deliberate design decisions, not accidents:
 

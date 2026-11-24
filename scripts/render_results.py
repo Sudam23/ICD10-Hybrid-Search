@@ -6,7 +6,8 @@ markers in each file is regenerated from the JSON reports, so no number in the
 documentation is ever typed by hand - if a table and the report disagree, the
 table is stale and this script fixes it.
 
-    python scripts/render_results.py
+    python scripts/render_results.py          # rewrite the generated regions
+    python scripts/render_results.py --check  # fail if any of them is stale (CI)
 """
 
 from __future__ import annotations
@@ -20,6 +21,9 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 EVAL_REPORT = REPO_ROOT / "docs" / "evaluation_report.json"
 TUNING_REPORT = REPO_ROOT / "docs" / "tuning_report.json"
 VARIANT_REPORT = REPO_ROOT / "docs" / "variant_comparison.json"
+
+sys.path.insert(0, str(REPO_ROOT / "src"))
+from icd10_search.config import ICD10_RELEASE_YEAR, RRF_K  # noqa: E402
 
 MODE_LABELS = {
     "lexical": "Keyword only (BM25)",
@@ -176,24 +180,158 @@ def evaluation_section(report: dict, tuning: dict | None, variants: dict | None)
     return "\n".join(out)
 
 
-def splice(path: Path, body: str) -> None:
+def architecture_diagrams(report: dict) -> str:
+    """The two big-picture diagrams, drawn from the real index metadata.
+
+    Drawn as two separate diagrams on purpose. A single diagram with one
+    subgraph per phase was tried and rejected: Mermaid ignores a subgraph's own
+    ``direction`` once edges cross the subgraph boundary, so the serve half laid
+    itself out above the build half and the prose describing a "left half" and a
+    "right half" no longer matched what a reader saw.
+    """
+    idx = report["index"]
+    hybrid = report["gold_sets"]["cms_index_test"]["modes"]["hybrid"]
+    weights = report["fusion_weights"]
+    int8_mb = idx["artifact_bytes"]["dense_int8.npy"] / 1_000_000
+    float_mb = int8_mb * 4  # int8 is one byte per dimension where float32 is four
+    minutes = idx["build_seconds"] / 60
+
+    return f"""**Step 1 — build the index.** This runs once, offline. It takes about
+{minutes:.0f} minutes on a laptop and nothing here happens while a user is waiting.
+
+```mermaid
+flowchart LR
+    CMS["<b>CMS ICD-10-CM {ICD10_RELEASE_YEAR}</b><br/>the official public release files"]
+    PARSE["<b>Parse and merge</b><br/>code titles, chapter ranges,<br/>index synonyms"]
+    CORPUS[("<b>corpus.jsonl.gz</b><br/>{idx["num_documents"]:,} codes")]
+    EMB["<b>Embed every code</b><br/>{idx["embedding_model"]}<br/>{idx["embedding_dim"]} numbers per code"]
+    QUANT["<b>Shrink to int8</b><br/>{idx["quantization"]}<br/>{int8_mb:.0f} MB instead of {float_mb:.0f} MB"]
+    BM["<b>Build the word index</b><br/>BM25 over {idx["bm25"]["vocabulary_terms"]:,} terms<br/>k1={idx["bm25"]["k1"]}, b={idx["bm25"]["b"]}"]
+    DIDX[("<b>Meaning index</b><br/>dense_int8.npy")]
+    LIDX[("<b>Word index</b><br/>lexical_bm25.npz")]
+
+    CMS --> PARSE --> CORPUS
+    CORPUS --> EMB --> QUANT --> DIDX
+    CORPUS --> BM --> LIDX
+
+    classDef build fill:#dbe7fb,stroke:#2f5fa8,color:#1a1a1a
+    classDef store fill:#ffe9a8,stroke:#9a7b25,stroke-width:2px,color:#1a1a1a
+    class CMS,PARSE,EMB,QUANT,BM build
+    class CORPUS,DIDX,LIDX store
+```
+
+**Step 2 — answer a search.** This runs on every query and takes about
+{hybrid["median_latency_ms"]:.0f} ms. It reads the two indexes built in step 1 and writes nothing.
+
+```mermaid
+flowchart LR
+    Q["<b>Someone types</b><br/><i>ringing in the ears</i>"]
+    DENSE["<b>Meaning arm</b><br/>cosine against all<br/>{idx["num_documents"]:,} int8 vectors"]
+    LEX["<b>Word arm</b><br/>BM25 over the same codes"]
+    DIDX2[("<b>Meaning index</b><br/>held in memory")]
+    LIDX2[("<b>Word index</b><br/>held in memory")]
+    FUSE["<b>Combine the two rankings</b><br/>weighted reciprocal rank fusion<br/>meaning {weights["dense"]}, words {weights["lexical"]}"]
+    OUT["<b>Ranked codes</b><br/>each with the evidence for it:<br/>rank and score from each arm,<br/>and which words matched"]
+
+    Q --> DENSE
+    Q --> LEX
+    DIDX2 -. "loaded at startup" .-> DENSE
+    LIDX2 -. "loaded at startup" .-> LEX
+    DENSE --> FUSE
+    LEX --> FUSE
+    FUSE --> OUT
+
+    classDef serve fill:#d8f0dd,stroke:#1e7e34,color:#1a1a1a
+    classDef store fill:#ffe9a8,stroke:#9a7b25,stroke-width:2px,color:#1a1a1a
+    class Q,DENSE,LEX,FUSE,OUT serve
+    class DIDX2,LIDX2 store
+```
+
+**How to read them.** Blue boxes run **once**, when the index is built. Green boxes run
+**on every search**. The yellow cylinders are the files on disk — the only thing the two
+halves share, and the reason a search is fast: all the slow work already happened in
+step 1."""
+
+
+def query_diagram(report: dict) -> str:
+    """The detailed path of one query, with its constants read from the report."""
+    idx = report["index"]
+    weights = report["fusion_weights"]
+    return f"""```mermaid
+flowchart TD
+    A["<b>query text</b>"] --> B{{"does it look like a code?<br/>e.g. E11.9"}}
+    B -- "yes" --> C["<b>look the code up directly</b><br/>pin it and its siblings on top"]
+    B -- "no" --> D(["run both arms"])
+
+    D --> E1["<b>Meaning arm</b><br/>add the bge query prefix"]
+    E1 --> E2["embed to {idx["embedding_dim"]} numbers<br/>ONNX Runtime, CPU"]
+    E2 --> E3["cosine against all<br/>{idx["num_documents"]:,} int8 vectors"]
+
+    D --> F1["<b>Word arm</b><br/>lowercase, strip plurals,<br/>drop stop-words"]
+    F1 --> F2["BM25 score<br/>k1={idx["bm25"]["k1"]}, b={idx["bm25"]["b"]}"]
+
+    E3 --> G["<b>apply the filters</b><br/>billable / chapter"]
+    F2 --> G
+    G --> H["take the top 100 from each arm"]
+    H --> I["<b>weighted reciprocal rank fusion</b><br/>k={RRF_K}, meaning {weights["dense"]}, words {weights["lexical"]}"]
+    C --> J["<b>final ranked list</b>"]
+    I --> J
+    J --> K["<b>attach the evidence</b><br/>rank and score from each arm,<br/>and the words that matched"]
+
+    classDef serve fill:#d8f0dd,stroke:#1e7e34,color:#1a1a1a
+    classDef pin fill:#fde2e2,stroke:#b03a3a,color:#1a1a1a
+    class A,D,E1,E2,E3,F1,F2,G,H,I,J,K serve
+    class C pin
+```"""
+
+
+#: Set by --check: report staleness instead of rewriting.
+STALE: list[str] = []
+
+
+def splice(path: Path, body: str, marker: str = "RESULTS", check: bool = False) -> None:
     text = path.read_text(encoding="utf-8")
-    pattern = re.compile(r"(<!-- RESULTS:START -->\n).*?(<!-- RESULTS:END -->)", re.DOTALL)
+    pattern = re.compile(
+        rf"(<!-- {marker}:START -->\n)(.*?)(<!-- {marker}:END -->)",
+        re.DOTALL,
+    )
     if not pattern.search(text):
-        raise SystemExit(f"{path} has no RESULTS:START / RESULTS:END markers")
-    path.write_text(pattern.sub(lambda m: m.group(1) + body + "\n" + m.group(2), text), "utf-8")
-    print(f"updated {path.relative_to(REPO_ROOT)}")
+        raise SystemExit(f"{path} has no {marker}:START / {marker}:END markers")
+    updated = pattern.sub(lambda m: m.group(1) + body + "\n" + m.group(3), text)
+    name = f"{path.relative_to(REPO_ROOT)}  [{marker}]"
+    if updated == text:
+        print(f"up to date  {name}")
+    elif check:
+        STALE.append(name)
+        print(f"STALE       {name}")
+    else:
+        path.write_text(updated, "utf-8")
+        print(f"updated     {name}")
 
 
 def main() -> int:
+    check = "--check" in sys.argv[1:]
     if not EVAL_REPORT.exists():
         raise SystemExit("no evaluation report; run `make eval` first")
     report = json.loads(EVAL_REPORT.read_text(encoding="utf-8"))
     tuning = json.loads(TUNING_REPORT.read_text("utf-8")) if TUNING_REPORT.exists() else None
     variants = json.loads(VARIANT_REPORT.read_text("utf-8")) if VARIANT_REPORT.exists() else None
 
-    splice(REPO_ROOT / "README.md", readme_section(report))
-    splice(REPO_ROOT / "docs" / "EVALUATION.md", evaluation_section(report, tuning, variants))
+    splice(REPO_ROOT / "README.md", readme_section(report), check=check)
+    splice(REPO_ROOT / "README.md", architecture_diagrams(report), "DIAGRAM-ARCH", check)
+    splice(REPO_ROOT / "README.md", query_diagram(report), "DIAGRAM-QUERY", check)
+    splice(
+        REPO_ROOT / "docs" / "EVALUATION.md",
+        evaluation_section(report, tuning, variants),
+        check=check,
+    )
+    if STALE:
+        print(
+            "\nThese regions disagree with docs/evaluation_report.json."
+            "\nRun `python scripts/render_results.py` and commit the result.",
+            file=sys.stderr,
+        )
+        return 1
     return 0
 
 

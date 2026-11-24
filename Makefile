@@ -2,7 +2,7 @@
 PY := .venv/bin/python
 export PYTHONPATH := src
 
-.PHONY: help venv data index serve dev test lint eval tune e2e clean docker-build docker-run
+.PHONY: help venv data index serve dev test lint eval tune e2e clean docker-build docker-run diagrams
 
 help:
 	@grep -E '^[a-z0-9-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "  %-14s %s\n", $$1, $$2}'
@@ -25,6 +25,9 @@ dev: ## run the web app with autoreload
 
 test: ## run the test suite
 	$(PY) -m pytest
+
+diagrams: ## render every Mermaid diagram in a real browser and check it draws
+	$(PY) scripts/check_diagrams.py $(ARGS)
 
 lint: ## check formatting and lint rules
 	$(PY) -m ruff check src tests scripts

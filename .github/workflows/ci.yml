@@ -32,6 +32,12 @@ jobs:
           ruff check src tests scripts
           ruff format --check src tests scripts
 
+      # Every figure in the README and the docs, including the ones inside the
+      # architecture diagrams, is generated from docs/evaluation_report.json.
+      # This fails the build if one was edited by hand or left stale.
+      - name: The published numbers match the evaluation report
+        run: python scripts/render_results.py --check
+
       - name: Unit tests
         run: pytest -q --ignore=tests/test_integration.py
 

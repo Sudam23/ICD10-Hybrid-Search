@@ -13,7 +13,7 @@ venv/
 # Raw CMS downloads: re-fetchable with `make data`, ~24 MB, no need to track.
 data/raw/
 
-# Build by-product: the un-quantised vectors (144 MB). They exist only so the
+# Build by-product: the un-quantised vectors (151 MB). They exist only so the
 # evaluation can measure what int8 costs; the shipped index is the int8 one.
 data/index/dense_float32.npy
 
